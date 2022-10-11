@@ -105,6 +105,7 @@
 - [raspberry-pi](#raspberry-pi)
 - [react](#react)
 - [redux](#redux)
+- [robotics](#robotics)
 - [ruby](#ruby)
 - [rust](#rust)
 - [sass](#sass)
@@ -123,6 +124,7 @@
 - [vim](#vim)
 - [vue](#vue)
 - [web](#web)
+- [webapp](#webapp)
 - [windows](#windows)
 
 ## ai 
@@ -398,6 +400,7 @@
 
 ## frontend 
 
+- [zauberzeug/nicegui](https://github.com/zauberzeug/nicegui) - High-Level Web User Interface Using Just Python.
 - [buttons/github-buttons](https://github.com/buttons/github-buttons) - :octocat: Unofficial github:buttons
 
 ## games 
@@ -898,6 +901,7 @@
 
 ## python 
 
+- [zauberzeug/nicegui](https://github.com/zauberzeug/nicegui) - High-Level Web User Interface Using Just Python.
 - [cbrnr/mnelab](https://github.com/cbrnr/mnelab) - MNELAB – a GUI for MNE
 - [analyticalmonk/awesome-neuroscience](https://github.com/analyticalmonk/awesome-neuroscience) - A curated list of awesome neuroscience libraries, software and any content related to the domain.
 - [charliermarsh/ruff](https://github.com/charliermarsh/ruff) - An extremely fast Python linter, written in Rust.
@@ -984,6 +988,10 @@
 ## redux 
 
 - [onivim/oni](https://github.com/onivim/oni) - Oni: Modern Modal Editing - powered by Neovim
+
+## robotics 
+
+- [zauberzeug/nicegui](https://github.com/zauberzeug/nicegui) - High-Level Web User Interface Using Just Python.
 
 ## ruby 
 
@@ -1128,6 +1136,10 @@
 - [nwtgck/piping-server](https://github.com/nwtgck/piping-server) - Infinitely transfer between every device over pure HTTP with pipes or browsers
 - [beefsack/webify](https://github.com/beefsack/webify) - Turn shell commands into web services
 - [linkchecker/linkchecker](https://github.com/linkchecker/linkchecker) - check links in web documents or full websites
+
+## webapp 
+
+- [zauberzeug/nicegui](https://github.com/zauberzeug/nicegui) - High-Level Web User Interface Using Just Python.
 
 ## windows 
 
