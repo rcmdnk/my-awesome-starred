@@ -400,7 +400,7 @@
 
 ## frontend 
 
-- [zauberzeug/nicegui](https://github.com/zauberzeug/nicegui) - High-Level Web User Interface Using Just Python.
+- [zauberzeug/nicegui](https://github.com/zauberzeug/nicegui) - Create nice UI. For the Web. With Python.
 - [buttons/github-buttons](https://github.com/buttons/github-buttons) - :octocat: Unofficial github:buttons
 
 ## games 
@@ -480,6 +480,7 @@
 - [analyticalmonk/awesome-neuroscience](https://github.com/analyticalmonk/awesome-neuroscience) - A curated list of awesome neuroscience libraries, software and any content related to the domain.
 - [TheAlgorithms/Rust](https://github.com/TheAlgorithms/Rust) - All Algorithms implemented in Rust
 - [neuropsychology/NeuroKit](https://github.com/neuropsychology/NeuroKit) - NeuroKit2: The Python Toolbox for Neurophysiological Signal Processing
+- [datahub-project/datahub](https://github.com/datahub-project/datahub) - The Metadata Platform for the Modern Data Stack
 - [huggingface/transformers](https://github.com/huggingface/transformers) - 🤗 Transformers: State-of-the-art Machine Learning for Pytorch, TensorFlow, and JAX.
 - [optuna/optuna](https://github.com/optuna/optuna) - A hyperparameter optimization framework
 - [withfig/autocomplete](https://github.com/withfig/autocomplete) - Fig adds autocomplete to your terminal.
@@ -726,7 +727,6 @@
 - [haampie/libtree](https://github.com/haampie/libtree) - ldd as a tree
 - [zesterer/chumsky](https://github.com/zesterer/chumsky) - A parser library for humans with powerful error recovery.
 - [xkotaro/lockdowneR](https://github.com/xkotaro/lockdowneR) - 
-- [datahub-project/datahub](https://github.com/datahub-project/datahub) - The Metadata Platform for the Modern Data Stack
 - [djanderson/aho](https://github.com/djanderson/aho) - A git implementation in awk
 - [megagonlabs/ginza](https://github.com/megagonlabs/ginza) - A Japanese NLP Library using spaCy as framework based on Universal Dependencies
 - [kenjihiranabe/The-Art-of-Linear-Algebra](https://github.com/kenjihiranabe/The-Art-of-Linear-Algebra) - Graphic notes on Gilbert Strang's "Linear Algebra for Everyone"
@@ -901,7 +901,7 @@
 
 ## python 
 
-- [zauberzeug/nicegui](https://github.com/zauberzeug/nicegui) - High-Level Web User Interface Using Just Python.
+- [zauberzeug/nicegui](https://github.com/zauberzeug/nicegui) - Create nice UI. For the Web. With Python.
 - [cbrnr/mnelab](https://github.com/cbrnr/mnelab) - MNELAB – a GUI for MNE
 - [analyticalmonk/awesome-neuroscience](https://github.com/analyticalmonk/awesome-neuroscience) - A curated list of awesome neuroscience libraries, software and any content related to the domain.
 - [charliermarsh/ruff](https://github.com/charliermarsh/ruff) - An extremely fast Python linter, written in Rust.
@@ -991,7 +991,7 @@
 
 ## robotics 
 
-- [zauberzeug/nicegui](https://github.com/zauberzeug/nicegui) - High-Level Web User Interface Using Just Python.
+- [zauberzeug/nicegui](https://github.com/zauberzeug/nicegui) - Create nice UI. For the Web. With Python.
 
 ## ruby 
 
@@ -1139,7 +1139,7 @@
 
 ## webapp 
 
-- [zauberzeug/nicegui](https://github.com/zauberzeug/nicegui) - High-Level Web User Interface Using Just Python.
+- [zauberzeug/nicegui](https://github.com/zauberzeug/nicegui) - Create nice UI. For the Web. With Python.
 
 ## windows 
 
