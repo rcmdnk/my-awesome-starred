@@ -27,6 +27,7 @@
 - [Others](#others)
 - [PHP](#php)
 - [Perl](#perl)
+- [PostScript](#postscript)
 - [PowerShell](#powershell)
 - [Python](#python)
 - [QML](#qml)
@@ -35,7 +36,6 @@
 - [SCSS](#scss)
 - [Shell](#shell)
 - [Swift](#swift)
-- [TeX](#tex)
 - [TypeScript](#typescript)
 - [Vim Script](#vim-script)
 - [Vue](#vue)
@@ -282,6 +282,10 @@
 - [thoughtbot/rcm](https://github.com/thoughtbot/rcm) - rc file (dotfile) management
 - [nferraz/st](https://github.com/nferraz/st) - simple statistics from the command line
 
+## PostScript 
+
+- [kenjihiranabe/The-Art-of-Linear-Algebra](https://github.com/kenjihiranabe/The-Art-of-Linear-Algebra) - Graphic notes on Gilbert Strang's "Linear Algebra for Everyone"
+
 ## PowerShell 
 
 - [TheDotSource/Expand-TarBall](https://github.com/TheDotSource/Expand-TarBall) - Expand tarball archives (.tar.gz) natively with PowerShell with no dependencies.
@@ -444,10 +448,6 @@
 - [mas-cli/mas](https://github.com/mas-cli/mas) - :package: Mac App Store command line interface
 - [cho45/KeyCast](https://github.com/cho45/KeyCast) - Record keystroke for screencast
 - [kishikawakatsumi/KeychainAccess](https://github.com/kishikawakatsumi/KeychainAccess) - Simple Swift wrapper for Keychain that works on iOS, watchOS, tvOS and macOS.
-
-## TeX 
-
-- [kenjihiranabe/The-Art-of-Linear-Algebra](https://github.com/kenjihiranabe/The-Art-of-Linear-Algebra) - Graphic notes on Gilbert Strang's "Linear Algebra for Everyone"
 
 ## TypeScript 
 
