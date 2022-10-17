@@ -828,7 +828,7 @@
 - [googleapis/google-api-python-client](https://github.com/googleapis/google-api-python-client) - 🐍 The official Python client library for Google's discovery based APIs.
 - [PruneMazui/resume-maker](https://github.com/PruneMazui/resume-maker) - Generate a JIS standard resume (for Japanese) from the json config file.
 - [alevchuk/vim-clutch](https://github.com/alevchuk/vim-clutch) - A hardware pedal for improved text editing in Vim
-- [klaussinani/hyper-pokemon](https://github.com/klaussinani/hyper-pokemon) - Tailor-made Pokémon themes for your Hyper terminal
+- [klaudiosinani/hyper-pokemon](https://github.com/klaudiosinani/hyper-pokemon) - Tailor-made Pokémon themes for your Hyper terminal
 - [pqrs-org/KE-complex_modifications](https://github.com/pqrs-org/KE-complex_modifications) - Karabiner-Elements complex_modifications rules
 - [semver/semver](https://github.com/semver/semver) - Semantic Versioning Specification
 - [google/tcp_killer](https://github.com/google/tcp_killer) - Shuts down a TCP connection on Linux or macOS. Local and remote endpoint arguments can be copied from the output of 'netstat -lanW'.
