@@ -183,7 +183,7 @@
 - [aksakalli/gtop](https://github.com/aksakalli/gtop) - System monitoring dashboard for terminal
 - [cerebroapp/cerebro](https://github.com/cerebroapp/cerebro) - Open-source productivity booster with a brain
 - [juliangarnier/anime](https://github.com/juliangarnier/anime) - JavaScript animation engine
-- [santinic/how2](https://github.com/santinic/how2) - stackoverflow from the terminal
+- [santinic/how2](https://github.com/santinic/how2) - AI for the Command-Line
 - [NARKOZ/hacker-scripts](https://github.com/NARKOZ/hacker-scripts) - Based on a true story
 - [airbnb/javascript](https://github.com/airbnb/javascript) - JavaScript Style Guide
 - [gsi-cyberjapan/gsimaps](https://github.com/gsi-cyberjapan/gsimaps) - The source of GSI Maps (https://maps.gsi.go.jp/)
