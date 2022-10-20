@@ -837,7 +837,7 @@
 - [django/channels](https://github.com/django/channels) - Developer-friendly asynchrony for Django
 - [m0ppers/syncthing-bar](https://github.com/m0ppers/syncthing-bar) - A statusbar for syncthing on Mac OS X
 - [gleitz/howdoi](https://github.com/gleitz/howdoi) - instant coding answers via the command line
-- [santinic/how2](https://github.com/santinic/how2) - AI for the Command-Line
+- [santinic/how2](https://github.com/santinic/how2) - AI for the Command Line
 - [NARKOZ/hacker-scripts](https://github.com/NARKOZ/hacker-scripts) - Based on a true story
 - [mtoyoda/sl](https://github.com/mtoyoda/sl) - SL(1): Cure your bad habit of mistyping
 - [haya14busa/niconicomment.vim](https://github.com/haya14busa/niconicomment.vim) - :tv: NicoNico like comments on Vim
