@@ -201,6 +201,7 @@
 
 ## Jupyter Notebook 
 
+- [dcmoura/spyql](https://github.com/dcmoura/spyql) - Query data on the command line with SQL-like SELECTs powered by Python expressions
 - [Dreem-Organization/dosed](https://github.com/Dreem-Organization/dosed) - Dreem One Shot Detector
 - [cerlymarco/keras-hypetune](https://github.com/cerlymarco/keras-hypetune) - A friendly python package for Keras Hyperparameters Tuning based only on NumPy and hyperopt.
 - [pycaret/pycaret](https://github.com/pycaret/pycaret) - An open-source, low-code machine learning library in Python
