@@ -218,7 +218,6 @@
 - [Qiskit/qiskit-tutorials](https://github.com/Qiskit/qiskit-tutorials) - A collection of Jupyter notebooks showing how to use the Qiskit SDK
 - [matsuolab-edu/dl4us](https://github.com/matsuolab-edu/dl4us) - 
 - [instillai/TensorFlow-Course](https://github.com/instillai/TensorFlow-Course) - :satellite: Simple and ready-to-use tutorials for TensorFlow
-- [gleitz/howdoi](https://github.com/gleitz/howdoi) - instant coding answers via the command line
 
 ## Lua 
 
@@ -295,7 +294,7 @@
 
 ## Python 
 
-- [zauberzeug/nicegui](https://github.com/zauberzeug/nicegui) - Create nice UI. For the Web. With Python.
+- [zauberzeug/nicegui](https://github.com/zauberzeug/nicegui) - Create UI. For the web. With Python. The nice way.
 - [cbrnr/mnelab](https://github.com/cbrnr/mnelab) - MNELAB – a GUI for MNE
 - [xinntao/Real-ESRGAN](https://github.com/xinntao/Real-ESRGAN) - Real-ESRGAN aims at developing Practical Algorithms for General Image/Video Restoration.
 - [aegirhall/console-menu](https://github.com/aegirhall/console-menu) - A simple Python menu system for building terminal user interfaces.
@@ -372,6 +371,7 @@
 - [linkchecker/linkchecker](https://github.com/linkchecker/linkchecker) - check links in web documents or full websites
 - [google/tcp_killer](https://github.com/google/tcp_killer) - Shuts down a TCP connection on Linux or macOS. Local and remote endpoint arguments can be copied from the output of 'netstat -lanW'.
 - [django/channels](https://github.com/django/channels) - Developer-friendly asynchrony for Django
+- [gleitz/howdoi](https://github.com/gleitz/howdoi) - instant coding answers via the command line
 - [belltailjp/selective_search_py](https://github.com/belltailjp/selective_search_py) - Python-based implementation of the Selective Search for Object Recognition.
 - [lra/mackup](https://github.com/lra/mackup) - Keep your application settings in sync (OS X/Linux)
 - [grimlck/github_helpers](https://github.com/grimlck/github_helpers) - Little helper scripts to talk to GitHub from the command line
