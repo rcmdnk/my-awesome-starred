@@ -11,6 +11,7 @@
 - [C#](#c#)
 - [C++](#c++)
 - [CSS](#css)
+- [Cuda](#cuda)
 - [Go](#go)
 - [HTML](#html)
 - [Haskell](#haskell)
@@ -84,7 +85,6 @@
 - [QuEST-Kit/QuEST](https://github.com/QuEST-Kit/QuEST) - A multithreaded, distributed, GPU-accelerated simulator of quantum computers
 - [blynkkk/blynk-library](https://github.com/blynkkk/blynk-library) - Blynk library for embedded hardware. Works with Arduino, ESP8266, Raspberry Pi, Intel Edison/Galileo, LinkIt ONE, Particle Core/Photon, Energia, ARM mbed, etc.
 - [microsoft/terminal](https://github.com/microsoft/terminal) - The new Windows Terminal and the original Windows console host, all in the same place!
-- [GooFit/GooFit](https://github.com/GooFit/GooFit) - Code repository for the massively-parallel framework for maximum-likelihood fits, implemented in CUDA/OpenMP
 - [qulacs/qulacs](https://github.com/qulacs/qulacs) - Variational Quantum Circuit Simulator for Quantum Computation Research
 - [ggerganov/kbd-audio](https://github.com/ggerganov/kbd-audio) - 🎤⌨️ Acoustic keyboard eavesdropping
 - [AGWA/git-crypt](https://github.com/AGWA/git-crypt) - Transparent file encryption in git
@@ -97,6 +97,10 @@
 
 - [tobiasahlin/SpinKit](https://github.com/tobiasahlin/SpinKit) - A collection of loading indicators animated with CSS
 - [JoelSutherland/GitHub-jQuery-Repo-Widget](https://github.com/JoelSutherland/GitHub-jQuery-Repo-Widget) - A good looking repo widget to add to your website.
+
+## Cuda 
+
+- [GooFit/GooFit](https://github.com/GooFit/GooFit) - Code repository for the massively-parallel framework for maximum-likelihood fits, implemented in CUDA/OpenMP
 
 ## Go 
 
