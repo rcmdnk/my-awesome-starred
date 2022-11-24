@@ -413,6 +413,7 @@
 
 ## Rust 
 
+- [1Password/typeshare](https://github.com/1Password/typeshare) - Typeshare is the ultimate tool for synchronizing your type definitions between Rust and other languages for seamless FFI.
 - [charliermarsh/ruff](https://github.com/charliermarsh/ruff) - An extremely fast Python linter, written in Rust.
 - [TheAlgorithms/Rust](https://github.com/TheAlgorithms/Rust) - All Algorithms implemented in Rust
 - [erg-lang/erg](https://github.com/erg-lang/erg) - A statically typed language that can deeply improve the Python ecosystem
