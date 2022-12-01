@@ -917,6 +917,7 @@
 
 ## python 
 
+- [AntoineD/docstring-inheritance](https://github.com/AntoineD/docstring-inheritance) - A python package to avoid writing and maintaining duplicated python docstrings.
 - [dcmoura/spyql](https://github.com/dcmoura/spyql) - Query data on the command line with SQL-like SELECTs powered by Python expressions
 - [brainflow-dev/brainflow](https://github.com/brainflow-dev/brainflow) - BrainFlow is a library intended to obtain, parse and analyze EEG, EMG, ECG and other kinds of data from biosensors
 - [zauberzeug/nicegui](https://github.com/zauberzeug/nicegui) - Create UI. For the web. With Python. The nice way.
