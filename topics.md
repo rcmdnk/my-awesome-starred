@@ -318,7 +318,7 @@
 - [eugeneyan/applied-ml](https://github.com/eugeneyan/applied-ml) - 📚 Papers & tech blogs by companies sharing their work on data science & machine learning in production.
 - [ml-tooling/best-of-ml-python](https://github.com/ml-tooling/best-of-ml-python) - 🏆 A ranked list of awesome machine learning Python libraries. Updated weekly.
 - [vaexio/vaex](https://github.com/vaexio/vaex) - Out-of-Core hybrid Apache Arrow/NumPy DataFrame for Python, ML, visualization and exploration of big tabular data at a billion rows per second 🚀
-- [simaki/pandas-estat](https://github.com/simaki/pandas-estat) - 政府統計総合窓口 e-Stat のデータを Pandas DataFrame 形式で取得します。従来は API にリクエストを送り出力をパースする煩瑣な作業が必要でしたが、関数一発で DataFrame を取得できます。
+- [simaki/pandas-estat](https://github.com/simaki/pandas-estat) - 政府統計総合窓口 e-Stat のデータを Pandas DataFrame 形式で取得します。
 
 ## data-structures 
 
@@ -1078,7 +1078,7 @@
 
 - [mne-tools/mne-python](https://github.com/mne-tools/mne-python) - MNE: Magnetoencephalography (MEG) and Electroencephalography (EEG) in Python
 - [umami-software/umami](https://github.com/umami-software/umami) - Umami is a simple, fast, privacy-focused alternative to Google Analytics.
-- [simaki/pandas-estat](https://github.com/simaki/pandas-estat) - 政府統計総合窓口 e-Stat のデータを Pandas DataFrame 形式で取得します。従来は API にリクエストを送り出力をパースする煩瑣な作業が必要でしたが、関数一発で DataFrame を取得できます。
+- [simaki/pandas-estat](https://github.com/simaki/pandas-estat) - 政府統計総合窓口 e-Stat のデータを Pandas DataFrame 形式で取得します。
 
 ## swift 
 
