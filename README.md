@@ -332,7 +332,7 @@
 - [lebigot/uncertainties](https://github.com/lebigot/uncertainties) - Transparent calculations with uncertainties on the quantities involved (aka "error propagation"); calculation of derivatives.
 - [vaexio/vaex](https://github.com/vaexio/vaex) - Out-of-Core hybrid Apache Arrow/NumPy DataFrame for Python, ML, visualization and exploration of big tabular data at a billion rows per second 🚀
 - [pfnet-research/xfeat](https://github.com/pfnet-research/xfeat) - Flexible Feature Engineering & Exploration Library using GPUs and Optuna.
-- [simaki/pandas-estat](https://github.com/simaki/pandas-estat) - 政府統計総合窓口 e-Stat のデータを Pandas DataFrame 形式で取得します。従来は API にリクエストを送り出力をパースする煩瑣な作業が必要でしたが、関数一発で DataFrame を取得できます。
+- [simaki/pandas-estat](https://github.com/simaki/pandas-estat) - 政府統計総合窓口 e-Stat のデータを Pandas DataFrame 形式で取得します。
 - [PyGithub/PyGithub](https://github.com/PyGithub/PyGithub) - Typed interactions with the GitHub API v3
 - [tslearn-team/tslearn](https://github.com/tslearn-team/tslearn) - A machine learning toolkit dedicated to time-series data
 - [WorksApplications/SudachiPy](https://github.com/WorksApplications/SudachiPy) - Python version of Sudachi, a Japanese tokenizer.
