@@ -341,7 +341,7 @@
 - [vangorra/python_withings_api](https://github.com/vangorra/python_withings_api) - Library for the Withings Health API
 - [withings-sas/api-oauth2-python](https://github.com/withings-sas/api-oauth2-python) - Python sample code for OAuth2
 - [home-assistant/core](https://github.com/home-assistant/core) - :house_with_garden: Open source home automation that puts local control and privacy first.
-- [unit8co/darts](https://github.com/unit8co/darts) - A python library for easy manipulation and forecasting of time series.
+- [unit8co/darts](https://github.com/unit8co/darts) - A python library for user-friendly forecasting and anomaly detection on time series.
 - [hanxue/brew-pip](https://github.com/hanxue/brew-pip) - Install pip packages as homebrew formulas
 - [uehara1414/japanize-matplotlib](https://github.com/uehara1414/japanize-matplotlib) - install & import するだけで matplotlib を日本語表示対応させる
 - [hauntsaninja/pyp](https://github.com/hauntsaninja/pyp) - Easily run Python at the shell! Magical, but never mysterious.
