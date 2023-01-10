@@ -301,6 +301,7 @@
 
 ## Python 
 
+- [jeffbinder/promptarray](https://github.com/jeffbinder/promptarray) - Text generator prompting with Boolean operators
 - [shellcheck-py/shellcheck-py](https://github.com/shellcheck-py/shellcheck-py) - python3/pip3 wrapper for installing shellcheck
 - [marsupialtail/quokka](https://github.com/marsupialtail/quokka) - Open source SQL engine in Python
 - [AntoineD/docstring-inheritance](https://github.com/AntoineD/docstring-inheritance) - A python package to avoid writing and maintaining duplicated python docstrings.
