@@ -717,6 +717,7 @@
 
 ## others 
 
+- [jeffbinder/promptarray](https://github.com/jeffbinder/promptarray) - Text generator prompting with Boolean operators
 - [shellcheck-py/shellcheck-py](https://github.com/shellcheck-py/shellcheck-py) - python3/pip3 wrapper for installing shellcheck
 - [koalaman/shellcheck-precommit](https://github.com/koalaman/shellcheck-precommit) - Pre-commit hook for ShellCheck
 - [vermaseren/form](https://github.com/vermaseren/form) - The FORM project for symbolic manipulation of very big expressions
