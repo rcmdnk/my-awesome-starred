@@ -483,6 +483,7 @@
 
 ## hacktoberfest 
 
+- [dry-python/returns](https://github.com/dry-python/returns) - Make your functions return something meaningful, typed, and safe!
 - [mxschmitt/action-tmate](https://github.com/mxschmitt/action-tmate) - Debug your GitHub Actions via SSH by using tmate to get access to the runner system itself.
 - [brainflow-dev/brainflow](https://github.com/brainflow-dev/brainflow) - BrainFlow is a library intended to obtain, parse and analyze EEG, EMG, ECG and other kinds of data from biosensors
 - [analyticalmonk/awesome-neuroscience](https://github.com/analyticalmonk/awesome-neuroscience) - A curated list of awesome neuroscience libraries, software and any content related to the domain.
@@ -907,6 +908,7 @@
 
 ## python 
 
+- [dry-python/returns](https://github.com/dry-python/returns) - Make your functions return something meaningful, typed, and safe!
 - [AntoineD/docstring-inheritance](https://github.com/AntoineD/docstring-inheritance) - A python package to avoid writing and maintaining duplicated python docstrings.
 - [dcmoura/spyql](https://github.com/dcmoura/spyql) - Query data on the command line with SQL-like SELECTs powered by Python expressions
 - [brainflow-dev/brainflow](https://github.com/brainflow-dev/brainflow) - BrainFlow is a library intended to obtain, parse and analyze EEG, EMG, ECG and other kinds of data from biosensors
@@ -952,6 +954,7 @@
 
 ## python3 
 
+- [dry-python/returns](https://github.com/dry-python/returns) - Make your functions return something meaningful, typed, and safe!
 - [charliermarsh/ruff](https://github.com/charliermarsh/ruff) - An extremely fast Python linter, written in Rust.
 - [Python-Markdown/markdown](https://github.com/Python-Markdown/markdown) - A Python implementation of John Gruber’s Markdown with Extension support.
 - [vangorra/python_withings_api](https://github.com/vangorra/python_withings_api) - Library for the Withings Health API
