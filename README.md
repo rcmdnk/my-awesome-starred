@@ -301,6 +301,7 @@
 
 ## Python 
 
+- [dry-python/returns](https://github.com/dry-python/returns) - Make your functions return something meaningful, typed, and safe!
 - [jeffbinder/promptarray](https://github.com/jeffbinder/promptarray) - Text generator prompting with Boolean operators
 - [shellcheck-py/shellcheck-py](https://github.com/shellcheck-py/shellcheck-py) - python3/pip3 wrapper for installing shellcheck
 - [marsupialtail/quokka](https://github.com/marsupialtail/quokka) - Open source SQL engine in Python
