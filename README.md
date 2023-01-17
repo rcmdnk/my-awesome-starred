@@ -301,6 +301,7 @@
 
 ## Python 
 
+- [aronhoff/regex_spm](https://github.com/aronhoff/regex_spm) - Enable Structural Pattern Matching for Python regular expressions
 - [hppRC/bert-classification-tutorial](https://github.com/hppRC/bert-classification-tutorial) - 【2023年版】BERTによるテキスト分類
 - [dry-python/returns](https://github.com/dry-python/returns) - Make your functions return something meaningful, typed, and safe!
 - [jeffbinder/promptarray](https://github.com/jeffbinder/promptarray) - Text generator prompting with Boolean operators
