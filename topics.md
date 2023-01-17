@@ -720,6 +720,7 @@
 
 ## others 
 
+- [aronhoff/regex_spm](https://github.com/aronhoff/regex_spm) - Enable Structural Pattern Matching for Python regular expressions
 - [jeffbinder/promptarray](https://github.com/jeffbinder/promptarray) - Text generator prompting with Boolean operators
 - [shellcheck-py/shellcheck-py](https://github.com/shellcheck-py/shellcheck-py) - python3/pip3 wrapper for installing shellcheck
 - [koalaman/shellcheck-precommit](https://github.com/koalaman/shellcheck-precommit) - Pre-commit hook for ShellCheck
