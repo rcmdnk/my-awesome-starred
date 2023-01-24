@@ -325,6 +325,7 @@
 
 ## deep-learning 
 
+- [SuperBruceJia/EEG-DL](https://github.com/SuperBruceJia/EEG-DL) - A Deep Learning library for EEG Tasks (Signals) Classification, based on TensorFlow.
 - [hppRC/bert-classification-tutorial](https://github.com/hppRC/bert-classification-tutorial) - 【2023年版】BERTによるテキスト分類
 - [cerlymarco/keras-hypetune](https://github.com/cerlymarco/keras-hypetune) - A friendly python package for Keras Hyperparameters Tuning based only on NumPy and hyperopt.
 - [saic-mdal/lama](https://github.com/saic-mdal/lama) - 🦙  LaMa Image Inpainting, Resolution-robust Large Mask Inpainting with Fourier Convolutions, WACV 2022
@@ -1081,6 +1082,7 @@
 
 ## tensorflow 
 
+- [SuperBruceJia/EEG-DL](https://github.com/SuperBruceJia/EEG-DL) - A Deep Learning library for EEG Tasks (Signals) Classification, based on TensorFlow.
 - [cerlymarco/keras-hypetune](https://github.com/cerlymarco/keras-hypetune) - A friendly python package for Keras Hyperparameters Tuning based only on NumPy and hyperopt.
 - [huggingface/transformers](https://github.com/huggingface/transformers) - 🤗 Transformers: State-of-the-art Machine Learning for Pytorch, TensorFlow, and JAX.
 - [mrdbourke/tensorflow-deep-learning](https://github.com/mrdbourke/tensorflow-deep-learning) - All course materials for the Zero to Mastery Deep Learning with TensorFlow course.
