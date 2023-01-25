@@ -23,6 +23,7 @@
 - [MATLAB](#matlab)
 - [Markdown](#markdown)
 - [Nim](#nim)
+- [Nix](#nix)
 - [OCaml](#ocaml)
 - [Objective-C](#objective-c)
 - [Others](#others)
@@ -242,6 +243,10 @@
 ## Nim 
 
 - [oakes/vim_cubed](https://github.com/oakes/vim_cubed) - Vim rendered on a cube for no reason
+
+## Nix 
+
+- [Xe/xn--ts9h](https://github.com/Xe/xn--ts9h) - 🥺 is sudo at home
 
 ## OCaml 
 
