@@ -479,6 +479,7 @@
 
 ## TypeScript 
 
+- [automatisch/automatisch](https://github.com/automatisch/automatisch) - The open source Zapier alternative. Build workflow automation without spending time and money.
 - [BSFishy/pip-action](https://github.com/BSFishy/pip-action) - Github Action to install Pip packages
 - [bytebase/star-history](https://github.com/bytebase/star-history) - The missing star history graph of GitHub repos - https://star-history.com
 - [vercel/hyper](https://github.com/vercel/hyper) - A terminal built on web technologies
