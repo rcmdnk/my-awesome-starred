@@ -758,7 +758,7 @@
 - [DmitryUlyanov/deep-image-prior](https://github.com/DmitryUlyanov/deep-image-prior) - Image restoration with neural networks but without learning.
 - [christophM/interpretable-ml-book](https://github.com/christophM/interpretable-ml-book) - Book about interpretable machine learning
 - [stanford-futuredata/sinkhorn-label-allocation](https://github.com/stanford-futuredata/sinkhorn-label-allocation) - Sinkhorn Label Allocation is a label assignment method for semi-supervised self-training algorithms. The SLA algorithm is described in full in this ICML 2021 paper: https://arxiv.org/abs/2102.08622.
-- [curlconverter/curlconverter](https://github.com/curlconverter/curlconverter) - Convert cURL commands to Python, JavaScript, Java, C#, PHP, Go, Dart, R, Ruby, Rust, MATLAB, Elixir, CFML, Ansible or JSON
+- [curlconverter/curlconverter](https://github.com/curlconverter/curlconverter) - Convert cURL commands to code
 - [TD-er/fritzing-parts](https://github.com/TD-er/fritzing-parts) - Parts to be used in Fritzing which are frequently used along with popular ESP boards. (boards included)
 - [ttv20/gDriveOCR](https://github.com/ttv20/gDriveOCR) - OCR by Google Drive API
 - [lebigot/uncertainties](https://github.com/lebigot/uncertainties) - Transparent calculations with uncertainties on the quantities involved (aka "error propagation"); calculation of derivatives.
