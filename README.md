@@ -188,7 +188,7 @@
 - [klaudiosinani/hyper-pokemon](https://github.com/klaudiosinani/hyper-pokemon) - Tailor-made Pokémon themes for your Hyper terminal
 - [serverless/serverless](https://github.com/serverless/serverless) - ⚡ Serverless Framework – Build web, mobile and IoT applications with serverless architectures using AWS Lambda, Azure Functions, Google CloudFunctions & more! –
 - [aksakalli/gtop](https://github.com/aksakalli/gtop) - System monitoring dashboard for terminal
-- [cerebroapp/cerebro](https://github.com/cerebroapp/cerebro) - Open-source productivity booster with a brain
+- [cerebroapp/cerebro](https://github.com/cerebroapp/cerebro) - 🔵 Cerebro is an open-source launcher to improve your productivity and efficiency
 - [juliangarnier/anime](https://github.com/juliangarnier/anime) - JavaScript animation engine
 - [santinic/how2](https://github.com/santinic/how2) - AI for the Command Line
 - [NARKOZ/hacker-scripts](https://github.com/NARKOZ/hacker-scripts) - Based on a true story
