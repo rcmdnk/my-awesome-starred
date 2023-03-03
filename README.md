@@ -309,7 +309,7 @@
 
 ## Python 
 
-- [FMInference/FlexGen](https://github.com/FMInference/FlexGen) - Running large language models like OPT-175B/GPT-3 on a single GPU. Focusing on large-batch high-throughput generation.
+- [FMInference/FlexGen](https://github.com/FMInference/FlexGen) - Throughput-oriented systems for large language models on commodity GPUs.
 - [pytest-dev/pytest-xdist](https://github.com/pytest-dev/pytest-xdist) - pytest plugin for distributed testing and loop-on-failures testing modes.
 - [kevlened/pytest-parallel](https://github.com/kevlened/pytest-parallel) - A pytest plugin for parallel and concurrent testing
 - [wemake-services/wemake-python-styleguide](https://github.com/wemake-services/wemake-python-styleguide) - The strictest and most opinionated python linter ever!
