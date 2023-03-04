@@ -309,6 +309,7 @@
 
 ## Python 
 
+- [hirokidaichi/wanna](https://github.com/hirokidaichi/wanna) - Shell command launcher with natural language
 - [FMInference/FlexGen](https://github.com/FMInference/FlexGen) - Throughput-oriented systems for large language models on commodity GPUs.
 - [pytest-dev/pytest-xdist](https://github.com/pytest-dev/pytest-xdist) - pytest plugin for distributed testing and loop-on-failures testing modes.
 - [kevlened/pytest-parallel](https://github.com/kevlened/pytest-parallel) - A pytest plugin for parallel and concurrent testing
