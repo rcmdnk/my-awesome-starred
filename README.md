@@ -208,6 +208,7 @@
 
 ## Jupyter Notebook 
 
+- [numediart/EEGLearn-Pytorch](https://github.com/numediart/EEGLearn-Pytorch) - 
 - [aws-samples/amazon-sagemaker-mlflow-fargate](https://github.com/aws-samples/amazon-sagemaker-mlflow-fargate) - Managing your machine learning lifecycle with MLflow and Amazon SageMaker
 - [dcmoura/spyql](https://github.com/dcmoura/spyql) - Query data on the command line with SQL-like SELECTs powered by Python expressions
 - [Dreem-Organization/dosed](https://github.com/Dreem-Organization/dosed) - Dreem One Shot Detector
