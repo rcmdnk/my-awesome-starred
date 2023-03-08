@@ -769,7 +769,7 @@
 - [facebookresearch/hydra](https://github.com/facebookresearch/hydra) - Hydra is a framework for elegantly configuring complex applications
 - [pfnet/pysen](https://github.com/pfnet/pysen) - Python linting made easy. Also a casual yet honorific way to address individuals who have entered an organization prior to you.
 - [haampie/libtree](https://github.com/haampie/libtree) - ldd as a tree
-- [zesterer/chumsky](https://github.com/zesterer/chumsky) - A parser library for humans with powerful error recovery.
+- [zesterer/chumsky](https://github.com/zesterer/chumsky) - Blindingly quick parsers for humans with expressive errors, powerful recovery, zero-copy parsing, built-in span support, and much more. All in an easy to use package.
 - [xkotaro/lockdowneR](https://github.com/xkotaro/lockdowneR) - 
 - [datahub-project/datahub](https://github.com/datahub-project/datahub) - The Metadata Platform for the Modern Data Stack
 - [djanderson/aho](https://github.com/djanderson/aho) - A git implementation in awk
@@ -1163,6 +1163,7 @@
 
 ## vim 
 
+- [tenderlove/initial-v](https://github.com/tenderlove/initial-v) - It's a BMW shifter converted to a Bluetooth Keyboard that you use with Vim
 - [chaoren/vim-wordmotion](https://github.com/chaoren/vim-wordmotion) - More useful word motions for Vim
 - [Jelmerro/Vieb](https://github.com/Jelmerro/Vieb) - Vim Inspired Electron Browser - Vim bindings for the web by design
 - [pit-ray/win-vind](https://github.com/pit-ray/win-vind) - You can operate Windows with key bindings like Vim.
