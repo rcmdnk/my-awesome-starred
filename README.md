@@ -512,6 +512,7 @@
 
 ## Vim Script 
 
+- [mattn/vim-chatgpt](https://github.com/mattn/vim-chatgpt) - 
 - [chaoren/vim-wordmotion](https://github.com/chaoren/vim-wordmotion) - More useful word motions for Vim
 - [junegunn/vim-easy-align](https://github.com/junegunn/vim-easy-align) - :sunflower: A Vim alignment plugin
 - [rbtnn/vim-mario](https://github.com/rbtnn/vim-mario) - Mario on Vim
