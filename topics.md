@@ -766,7 +766,7 @@
 - [magmax/python-inquirer](https://github.com/magmax/python-inquirer) - A collection of common interactive command line user interfaces, based on Inquirer.js (https://github.com/SBoudrias/Inquirer.js/)
 - [IngoMeyer441/simple-term-menu](https://github.com/IngoMeyer441/simple-term-menu) - A Python package which creates simple interactive menus on the command line.
 - [Dreem-Organization/dosed](https://github.com/Dreem-Organization/dosed) - Dreem One Shot Detector
-- [Kubasinska/MI-EEG-1D-CNN](https://github.com/Kubasinska/MI-EEG-1D-CNN) - A new approach based on a 10-layer one-dimensional convolution neural network (1D-CNN) to classify five brain states (four MI classes plus a 'baseline' class) using a data augmentation algorithm and a
+- [ambitious-octopus/MI-EEG-1D-CNN](https://github.com/ambitious-octopus/MI-EEG-1D-CNN) - A new approach based on a 10-layer one-dimensional convolution neural network (1D-CNN) to classify five brain states (four MI classes plus a 'baseline' class) using a data augmentation algorithm and a
 - [thoughtbot/rcm](https://github.com/thoughtbot/rcm) - rc file (dotfile) management
 - [facebookresearch/hydra](https://github.com/facebookresearch/hydra) - Hydra is a framework for elegantly configuring complex applications
 - [pfnet/pysen](https://github.com/pfnet/pysen) - Python linting made easy. Also a casual yet honorific way to address individuals who have entered an organization prior to you.
