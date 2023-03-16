@@ -96,6 +96,7 @@
 - [others](#others)
 - [p2p](#p2p)
 - [package-manager](#package-manager)
+- [parsing](#parsing)
 - [programming](#programming)
 - [project-management](#project-management)
 - [python](#python)
@@ -743,6 +744,7 @@
 
 ## others 
 
+- [openai/evals](https://github.com/openai/evals) - Evals is a framework for evaluating OpenAI models and an open-source registry of benchmarks.
 - [mattn/vim-chatgpt](https://github.com/mattn/vim-chatgpt) - 
 - [numediart/EEGLearn-Pytorch](https://github.com/numediart/EEGLearn-Pytorch) - 
 - [hirokidaichi/wanna](https://github.com/hirokidaichi/wanna) - Shell command launcher with natural language
@@ -771,7 +773,6 @@
 - [facebookresearch/hydra](https://github.com/facebookresearch/hydra) - Hydra is a framework for elegantly configuring complex applications
 - [pfnet/pysen](https://github.com/pfnet/pysen) - Python linting made easy. Also a casual yet honorific way to address individuals who have entered an organization prior to you.
 - [haampie/libtree](https://github.com/haampie/libtree) - ldd as a tree
-- [zesterer/chumsky](https://github.com/zesterer/chumsky) - Blindingly quick parsers for humans with expressive errors, powerful recovery, zero-copy parsing, built-in span support, and much more. All in an easy to use package.
 - [xkotaro/lockdowneR](https://github.com/xkotaro/lockdowneR) - 
 - [datahub-project/datahub](https://github.com/datahub-project/datahub) - The Metadata Platform for the Modern Data Stack
 - [djanderson/aho](https://github.com/djanderson/aho) - A git implementation in awk
@@ -783,7 +784,7 @@
 - [DmitryUlyanov/deep-image-prior](https://github.com/DmitryUlyanov/deep-image-prior) - Image restoration with neural networks but without learning.
 - [christophM/interpretable-ml-book](https://github.com/christophM/interpretable-ml-book) - Book about interpretable machine learning
 - [stanford-futuredata/sinkhorn-label-allocation](https://github.com/stanford-futuredata/sinkhorn-label-allocation) - Sinkhorn Label Allocation is a label assignment method for semi-supervised self-training algorithms. The SLA algorithm is described in full in this ICML 2021 paper: https://arxiv.org/abs/2102.08622.
-- [curlconverter/curlconverter](https://github.com/curlconverter/curlconverter) - Convert cURL commands to code
+- [curlconverter/curlconverter](https://github.com/curlconverter/curlconverter) - Generate code from cURL commands
 - [TD-er/fritzing-parts](https://github.com/TD-er/fritzing-parts) - Parts to be used in Fritzing which are frequently used along with popular ESP boards. (boards included)
 - [ttv20/gDriveOCR](https://github.com/ttv20/gDriveOCR) - OCR by Google Drive API
 - [lebigot/uncertainties](https://github.com/lebigot/uncertainties) - Transparent calculations with uncertainties on the quantities involved (aka "error propagation"); calculation of derivatives.
@@ -934,6 +935,10 @@
 
 - [whalebrew/whalebrew](https://github.com/whalebrew/whalebrew) - Homebrew, but with Docker images
 - [python-poetry/poetry](https://github.com/python-poetry/poetry) - Python packaging and dependency management made easy
+
+## parsing 
+
+- [zesterer/chumsky](https://github.com/zesterer/chumsky) - Write expressive, high-performance parsers with ease.
 
 ## programming 
 
