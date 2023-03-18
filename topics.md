@@ -149,6 +149,7 @@
 
 ## api 
 
+- [ayaka14732/ChatGPTAPIFree](https://github.com/ayaka14732/ChatGPTAPIFree) - A simple and open-source proxy API that allows you to access OpenAI's ChatGPT API for free!
 - [vangorra/python_withings_api](https://github.com/vangorra/python_withings_api) - Library for the Withings Health API
 - [gotify/server](https://github.com/gotify/server) - A simple server for sending and receiving messages in real-time per WebSocket. (Includes a sleek web-ui)
 - [neovim/neovim](https://github.com/neovim/neovim) - Vim-fork focused on extensibility and usability
@@ -214,6 +215,7 @@
 
 ## chatgpt 
 
+- [ayaka14732/ChatGPTAPIFree](https://github.com/ayaka14732/ChatGPTAPIFree) - A simple and open-source proxy API that allows you to access OpenAI's ChatGPT API for free!
 - [ml-tooling/best-of-ml-python](https://github.com/ml-tooling/best-of-ml-python) - 🏆 A ranked list of awesome machine learning Python libraries. Updated weekly.
 
 ## chrome 
@@ -744,6 +746,8 @@
 
 ## others 
 
+- [mpoon/gpt-repository-loader](https://github.com/mpoon/gpt-repository-loader) - 
+- [tloen/alpaca-lora](https://github.com/tloen/alpaca-lora) - Instruct-tuning LLaMA on consumer hardware
 - [openai/evals](https://github.com/openai/evals) - Evals is a framework for evaluating OpenAI models and an open-source registry of benchmarks.
 - [mattn/vim-chatgpt](https://github.com/mattn/vim-chatgpt) - 
 - [numediart/EEGLearn-Pytorch](https://github.com/numediart/EEGLearn-Pytorch) - 
