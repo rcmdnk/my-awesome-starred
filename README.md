@@ -164,6 +164,7 @@
 
 ## JavaScript 
 
+- [ayaka14732/ChatGPTAPIFree](https://github.com/ayaka14732/ChatGPTAPIFree) - A simple and open-source proxy API that allows you to access OpenAI's ChatGPT API for free!
 - [mxschmitt/action-tmate](https://github.com/mxschmitt/action-tmate) - Debug your GitHub Actions via SSH by using tmate to get access to the runner system itself.
 - [MishaKav/pytest-coverage-comment](https://github.com/MishaKav/pytest-coverage-comment) - Comments a pull request with the pytest code coverage badge and full report
 - [kuwala-io/kuwala](https://github.com/kuwala-io/kuwala) - Kuwala is the no-code data platform for BI analysts and engineers enabling you to build powerful analytics workflows. We are set out to bring state-of-the-art data engineering tools you love, such as 
@@ -210,6 +211,7 @@
 
 ## Jupyter Notebook 
 
+- [tloen/alpaca-lora](https://github.com/tloen/alpaca-lora) - Instruct-tuning LLaMA on consumer hardware
 - [numediart/EEGLearn-Pytorch](https://github.com/numediart/EEGLearn-Pytorch) - 
 - [aws-samples/amazon-sagemaker-mlflow-fargate](https://github.com/aws-samples/amazon-sagemaker-mlflow-fargate) - Managing your machine learning lifecycle with MLflow and Amazon SageMaker
 - [dcmoura/spyql](https://github.com/dcmoura/spyql) - Query data on the command line with SQL-like SELECTs powered by Python expressions
@@ -312,6 +314,7 @@
 
 ## Python 
 
+- [mpoon/gpt-repository-loader](https://github.com/mpoon/gpt-repository-loader) - 
 - [openai/evals](https://github.com/openai/evals) - Evals is a framework for evaluating OpenAI models and an open-source registry of benchmarks.
 - [hirokidaichi/wanna](https://github.com/hirokidaichi/wanna) - Shell command launcher with natural language
 - [FMInference/FlexGen](https://github.com/FMInference/FlexGen) - Running large language models on a single GPU for throughput-oriented scenarios.
