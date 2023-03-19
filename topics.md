@@ -711,7 +711,6 @@
 
 - [hppRC/bert-classification-tutorial](https://github.com/hppRC/bert-classification-tutorial) - 【2023年版】BERTによるテキスト分類
 - [rinnakk/japanese-pretrained-models](https://github.com/rinnakk/japanese-pretrained-models) - Code for producing Japanese pretrained models provided by rinna Co., Ltd.
-- [pycaret/pycaret](https://github.com/pycaret/pycaret) - An open-source, low-code machine learning library in Python
 - [ikegami-yukino/neologdn](https://github.com/ikegami-yukino/neologdn) - Japanese text normalizer for mecab-neologd
 - [huggingface/transformers](https://github.com/huggingface/transformers) - 🤗 Transformers: State-of-the-art Machine Learning for Pytorch, TensorFlow, and JAX.
 - [yagays/ja-timex](https://github.com/yagays/ja-timex) - 自然言語で書かれた時間情報表現を抽出/規格化するルールベースの解析器
@@ -746,8 +745,9 @@
 
 ## others 
 
-- [mpoon/gpt-repository-loader](https://github.com/mpoon/gpt-repository-loader) - 
-- [tloen/alpaca-lora](https://github.com/tloen/alpaca-lora) - Instruct-tuning LLaMA on consumer hardware
+- [oberon-lang/specification](https://github.com/oberon-lang/specification) - The Oberon+ Programming Language Specification
+- [mpoon/gpt-repository-loader](https://github.com/mpoon/gpt-repository-loader) - Convert code repos into an LLM prompt-friendly format. Mostly built by GPT-4.
+- [tloen/alpaca-lora](https://github.com/tloen/alpaca-lora) - Instruct-tune LLaMA on consumer hardware
 - [openai/evals](https://github.com/openai/evals) - Evals is a framework for evaluating OpenAI models and an open-source registry of benchmarks.
 - [mattn/vim-chatgpt](https://github.com/mattn/vim-chatgpt) - 
 - [numediart/EEGLearn-Pytorch](https://github.com/numediart/EEGLearn-Pytorch) - 
