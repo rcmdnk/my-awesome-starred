@@ -148,6 +148,7 @@
 
 ## HTML 
 
+- [oberon-lang/specification](https://github.com/oberon-lang/specification) - The Oberon+ Programming Language Specification
 - [tadashi0713/howtheytest-jp](https://github.com/tadashi0713/howtheytest-jp) - 日本のソフトウェア企業のテスト・テスト自動化に関する資料をまとめています
 - [The-Japan-DataScientist-Society/100knocks-preprocess](https://github.com/The-Japan-DataScientist-Society/100knocks-preprocess) - データサイエンス100本ノック（構造化データ加工編）
 - [pqrs-org/KE-complex_modifications](https://github.com/pqrs-org/KE-complex_modifications) - Karabiner-Elements complex_modifications rules
@@ -211,7 +212,7 @@
 
 ## Jupyter Notebook 
 
-- [tloen/alpaca-lora](https://github.com/tloen/alpaca-lora) - Instruct-tuning LLaMA on consumer hardware
+- [tloen/alpaca-lora](https://github.com/tloen/alpaca-lora) - Instruct-tune LLaMA on consumer hardware
 - [numediart/EEGLearn-Pytorch](https://github.com/numediart/EEGLearn-Pytorch) - 
 - [aws-samples/amazon-sagemaker-mlflow-fargate](https://github.com/aws-samples/amazon-sagemaker-mlflow-fargate) - Managing your machine learning lifecycle with MLflow and Amazon SageMaker
 - [dcmoura/spyql](https://github.com/dcmoura/spyql) - Query data on the command line with SQL-like SELECTs powered by Python expressions
@@ -314,7 +315,7 @@
 
 ## Python 
 
-- [mpoon/gpt-repository-loader](https://github.com/mpoon/gpt-repository-loader) - 
+- [mpoon/gpt-repository-loader](https://github.com/mpoon/gpt-repository-loader) - Convert code repos into an LLM prompt-friendly format. Mostly built by GPT-4.
 - [openai/evals](https://github.com/openai/evals) - Evals is a framework for evaluating OpenAI models and an open-source registry of benchmarks.
 - [hirokidaichi/wanna](https://github.com/hirokidaichi/wanna) - Shell command launcher with natural language
 - [FMInference/FlexGen](https://github.com/FMInference/FlexGen) - Running large language models on a single GPU for throughput-oriented scenarios.
