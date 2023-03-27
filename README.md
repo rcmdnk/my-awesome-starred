@@ -316,7 +316,7 @@
 
 ## Python 
 
-- [openai/chatgpt-retrieval-plugin](https://github.com/openai/chatgpt-retrieval-plugin) - 
+- [openai/chatgpt-retrieval-plugin](https://github.com/openai/chatgpt-retrieval-plugin) - The ChatGPT Retrieval Plugin lets you easily search and find personal or work documents by asking questions in everyday language.
 - [swansonk14/typed-argument-parser](https://github.com/swansonk14/typed-argument-parser) - Typed argument parser for Python
 - [hwchase17/langchain](https://github.com/hwchase17/langchain) - ⚡ Building applications with LLMs through composability ⚡
 - [mpoon/gpt-repository-loader](https://github.com/mpoon/gpt-repository-loader) - Convert code repos into an LLM prompt-friendly format. Mostly built by GPT-4.
