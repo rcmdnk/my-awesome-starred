@@ -746,6 +746,7 @@
 
 ## others 
 
+- [Lightning-AI/lit-llama](https://github.com/Lightning-AI/lit-llama) - 
 - [tani/cheeriogs](https://github.com/tani/cheeriogs) - Cheerio for Google Apps Script
 - [hwchase17/langchain](https://github.com/hwchase17/langchain) - ⚡ Building applications with LLMs through composability ⚡
 - [oberon-lang/specification](https://github.com/oberon-lang/specification) - The Oberon+ Programming Language Specification
