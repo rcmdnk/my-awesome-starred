@@ -322,6 +322,9 @@
 
 ## Python 
 
+- [yoheinakajima/babyagi](https://github.com/yoheinakajima/babyagi) - 
+- [everythingishacked/Semaphore](https://github.com/everythingishacked/Semaphore) - A full-body keyboard using gestures to type through computer vision
+- [biobootloader/wolverine](https://github.com/biobootloader/wolverine) - 
 - [lightaime/camel](https://github.com/lightaime/camel) - CAMEL: Communicative Agents for “Mind” Exploration of Large Scale Language Model Society
 - [lm-sys/FastChat](https://github.com/lm-sys/FastChat) - The release repo for "Vicuna: An Open Chatbot Impressing GPT-4"
 - [nomic-ai/gpt4all](https://github.com/nomic-ai/gpt4all) - gpt4all: an ecosystem of open-source chatbots trained on a massive collections of clean assistant data including code, stories and dialogue
