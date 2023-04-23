@@ -770,6 +770,7 @@
 
 ## others 
 
+- [suno-ai/bark](https://github.com/suno-ai/bark) - 🔊 Text-Prompted Generative Audio Model
 - [facebookresearch/AnimatedDrawings](https://github.com/facebookresearch/AnimatedDrawings) - Code to accompany "A Method for Animating Children's Drawings of the Human Figure"
 - [yoheinakajima/babyagi](https://github.com/yoheinakajima/babyagi) - 
 - [biobootloader/wolverine](https://github.com/biobootloader/wolverine) - 
