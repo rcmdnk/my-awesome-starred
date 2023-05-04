@@ -782,6 +782,7 @@
 
 ## others 
 
+- [modularml/mojo](https://github.com/modularml/mojo) - The Mojo Programming Language
 - [memorysafety/sudo-rs](https://github.com/memorysafety/sudo-rs) - A memory safe implementation of sudo and su.
 - [google/kati](https://github.com/google/kati) - An experimental GNU make clone
 - [raphaelvallat/yasa](https://github.com/raphaelvallat/yasa) - YASA (Yet Another Spindle Algorithm): a Python package to analyze polysomnographic sleep recordings.
