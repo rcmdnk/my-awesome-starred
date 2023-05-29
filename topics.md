@@ -229,6 +229,7 @@
 
 ## chatgpt 
 
+- [sisbell/chatgpt-plugin-store](https://github.com/sisbell/chatgpt-plugin-store) - ChatGPT Plugin Store List
 - [xtekky/gpt4free](https://github.com/xtekky/gpt4free) - decentralising the Ai Industry, just some language model api's...
 - [Torantulino/AI-Functions](https://github.com/Torantulino/AI-Functions) - AI-Powered Function Magic: Never code again with GPT models!
 - [openai/chatgpt-retrieval-plugin](https://github.com/openai/chatgpt-retrieval-plugin) - The ChatGPT Retrieval Plugin lets you easily find personal or work documents by asking questions in natural language.
