@@ -307,7 +307,7 @@
 ## covid-19 
 
 - [InstituteforDiseaseModeling/covasim](https://github.com/InstituteforDiseaseModeling/covasim) - COVID-19 Agent-based Simulator (Covasim): a model for exploring coronavirus dynamics and interventions
-- [tokyo-metropolitan-gov/covid19](https://github.com/tokyo-metropolitan-gov/covid19) - 東京都 新型コロナウイルス感染症対策サイト / Tokyo COVID-19 Task Force website
+- [Tokyo-Metro-Gov/covid19](https://github.com/Tokyo-Metro-Gov/covid19) - 東京都 新型コロナウイルス感染症対策サイト / Tokyo COVID-19 Task Force website
 
 ## cpp 
 
