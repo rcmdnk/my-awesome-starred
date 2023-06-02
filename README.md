@@ -574,7 +574,7 @@
 
 ## Vue 
 
-- [tokyo-metropolitan-gov/covid19](https://github.com/tokyo-metropolitan-gov/covid19) - 東京都 新型コロナウイルス感染症対策サイト / Tokyo COVID-19 Task Force website
+- [Tokyo-Metro-Gov/covid19](https://github.com/Tokyo-Metro-Gov/covid19) - 東京都 新型コロナウイルス感染症対策サイト / Tokyo COVID-19 Task Force website
 
 
 ## License
