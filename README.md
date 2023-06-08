@@ -286,6 +286,7 @@
 - [TD-er/fritzing-parts](https://github.com/TD-er/fritzing-parts) - Parts to be used in Fritzing which are frequently used along with popular ESP boards. (boards included)
 - [ml-tooling/best-of-ml-python](https://github.com/ml-tooling/best-of-ml-python) - 🏆 A ranked list of awesome machine learning Python libraries. Updated weekly.
 - [contributorpw/google-apps-script-awesome-list](https://github.com/contributorpw/google-apps-script-awesome-list) - The usual list of links to interesting resources for Google Apps Script
+- [microsoft/winget-pkgs](https://github.com/microsoft/winget-pkgs) - The Microsoft community Windows Package Manager manifest repository
 - [ahkscript/awesome-AutoHotkey](https://github.com/ahkscript/awesome-AutoHotkey) - A curated list of awesome AutoHotkey libraries, library distributions, scripts, tools and resources.
 - [ztombol/bats-docs](https://github.com/ztombol/bats-docs) - Shared Bats helper documentation
 - [arXivQuration/arXivQuration](https://github.com/arXivQuration/arXivQuration) - repository to share the quantum information and quantum computer articles
@@ -323,7 +324,6 @@
 ## PowerShell 
 
 - [TheDotSource/Expand-TarBall](https://github.com/TheDotSource/Expand-TarBall) - Expand tarball archives (.tar.gz) natively with PowerShell with no dependencies.
-- [microsoft/winget-pkgs](https://github.com/microsoft/winget-pkgs) - The Microsoft community Windows Package Manager manifest repository
 - [chocolatey-archive/chocolatey](https://github.com/chocolatey-archive/chocolatey) - [DEPRECATED - https://github.com/chocolatey/choco] Chocolatey NuGet - Like apt-get, but for windows.
 
 ## Python 
