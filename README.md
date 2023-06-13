@@ -415,7 +415,7 @@
 - [mingrammer/diagrams](https://github.com/mingrammer/diagrams) - :art: Diagram as Code for prototyping cloud system architectures
 - [mumumu/pep8-ja](https://github.com/mumumu/pep8-ja) - PEP8 日本語版
 - [dephell/dephell](https://github.com/dephell/dephell) - :package: :fire: Python project management. Manage packages: convert between formats, lock, install, resolve, isolate, test, build graph, show outdated, audit. Manage venvs, build package, bump versio
-- [Qiskit/qiskit-ignis](https://github.com/Qiskit/qiskit-ignis) - Ignis (deprecated) provides tools for quantum hardware verification, noise characterization, and error correction.
+- [qiskit-community/qiskit-ignis](https://github.com/qiskit-community/qiskit-ignis) - Ignis (deprecated) provides tools for quantum hardware verification, noise characterization, and error correction.
 - [PennyLaneAI/pennylane-cirq](https://github.com/PennyLaneAI/pennylane-cirq) - The PennyLane-Cirq plugin integrates Google's Cirq software library with with PennyLane's quantum machine learning capabilities.
 - [scrapinghub/slackbot](https://github.com/scrapinghub/slackbot) - A chat bot for Slack (https://slack.com).
 - [pre-commit/pre-commit](https://github.com/pre-commit/pre-commit) - A framework for managing and maintaining multi-language pre-commit hooks.
