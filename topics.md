@@ -896,7 +896,7 @@
 - [brammool/vim9](https://github.com/brammool/vim9) - An experimental fork of Vim, exploring ways to make Vim script faster and better.
 - [MichaelMure/mdr](https://github.com/MichaelMure/mdr) - MarkDown Renderer for the terminal
 - [htcondor/htcondor](https://github.com/htcondor/htcondor) - HTCondor source repository, formerly the Condor Project
-- [Qiskit/qiskit-ignis](https://github.com/Qiskit/qiskit-ignis) - Ignis (deprecated) provides tools for quantum hardware verification, noise characterization, and error correction.
+- [qiskit-community/qiskit-ignis](https://github.com/qiskit-community/qiskit-ignis) - Ignis (deprecated) provides tools for quantum hardware verification, noise characterization, and error correction.
 - [matoruru/vim-hjkl-warning](https://github.com/matoruru/vim-hjkl-warning) - Stop to use h/j/k/l many times.
 - [PennyLaneAI/pennylane-cirq](https://github.com/PennyLaneAI/pennylane-cirq) - The PennyLane-Cirq plugin integrates Google's Cirq software library with with PennyLane's quantum machine learning capabilities.
 - [scrapinghub/slackbot](https://github.com/scrapinghub/slackbot) - A chat bot for Slack (https://slack.com).
