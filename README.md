@@ -426,7 +426,7 @@
 - [OpenWonderLabs/python-host](https://github.com/OpenWonderLabs/python-host) - The python code running on Raspberry Pi or other Linux based boards to control SwitchBot.
 - [emasaka/jpholidayp](https://github.com/emasaka/jpholidayp) - Is it holiday today in Japan?
 - [ssut/py-googletrans](https://github.com/ssut/py-googletrans) - (unofficial) Googletrans: Free and Unlimited Google translate API for Python. Translates totally free of charge.
-- [Blueqat/Blueqat](https://github.com/Blueqat/Blueqat) - Quantum Computer Library for Everyone
+- [Qaqarot/qaqarot](https://github.com/Qaqarot/qaqarot) - Quantum Computer Library for Everyone
 - [minimaxir/get-profile-data-of-repo-stargazers](https://github.com/minimaxir/get-profile-data-of-repo-stargazers) - This repository contains a script used to get the GitHub profile information of all the people who've Stared a given GitHub repository
 - [python-poetry/poetry](https://github.com/python-poetry/poetry) - Python packaging and dependency management made easy
 - [ProjectQ-Framework/ProjectQ](https://github.com/ProjectQ-Framework/ProjectQ) - ProjectQ: An open source software framework for quantum computing
