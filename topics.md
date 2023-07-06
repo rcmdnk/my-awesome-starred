@@ -1045,6 +1045,7 @@
 
 ## python 
 
+- [Aura-healthcare/hrv-analysis](https://github.com/Aura-healthcare/hrv-analysis) - Package for Heart Rate Variability analysis in Python
 - [reactive-python/reactpy](https://github.com/reactive-python/reactpy) - It's React, but in Python
 - [raphaelvallat/antropy](https://github.com/raphaelvallat/antropy) - AntroPy: entropy and complexity of (EEG) time-series in Python
 - [pyrustic/jesth](https://github.com/pyrustic/jesth) - Next-level human-readable data serialization format
