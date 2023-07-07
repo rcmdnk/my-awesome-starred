@@ -222,6 +222,7 @@
 
 ## Jupyter Notebook 
 
+- [microsoft/OpenAIWorkshop](https://github.com/microsoft/OpenAIWorkshop) - workshop materials to build intelligent solutions on Open AI
 - [suno-ai/bark](https://github.com/suno-ai/bark) - 🔊 Text-Prompted Generative Audio Model
 - [facebookresearch/segment-anything](https://github.com/facebookresearch/segment-anything) - The repository provides code for running inference with the SegmentAnything Model (SAM), links for downloading the trained model checkpoints, and example notebooks that show how to use the model.
 - [tloen/alpaca-lora](https://github.com/tloen/alpaca-lora) - Instruct-tune LLaMA on consumer hardware
@@ -383,7 +384,7 @@
 - [rinnakk/japanese-pretrained-models](https://github.com/rinnakk/japanese-pretrained-models) - Code for producing Japanese pretrained models provided by rinna Co., Ltd.
 - [bchao1/bullet](https://github.com/bchao1/bullet) - 🚅 Interactive prompts made simple. Build a prompt like stacking blocks.
 - [megagonlabs/ginza](https://github.com/megagonlabs/ginza) - A Japanese NLP Library using spaCy as framework based on Universal Dependencies
-- [EmuKit/emukit](https://github.com/EmuKit/emukit) - A Python-based toolbox of various methods in uncertainty quantification and statistical emulation: multi-fidelity, experimental design, Bayesian optimisation, Bayesian quadrature, etc.
+- [EmuKit/emukit](https://github.com/EmuKit/emukit) - A Python-based toolbox of various methods in decision making, uncertainty quantification and statistical emulation: multi-fidelity, experimental design, Bayesian optimisation, Bayesian quadrature, etc
 - [ikegami-yukino/neologdn](https://github.com/ikegami-yukino/neologdn) - Japanese text normalizer for mecab-neologd
 - [huggingface/transformers](https://github.com/huggingface/transformers) - 🤗 Transformers: State-of-the-art Machine Learning for Pytorch, TensorFlow, and JAX.
 - [nalepae/pandarallel](https://github.com/nalepae/pandarallel) - A simple and efficient tool to parallelize Pandas operations on all available CPUs
