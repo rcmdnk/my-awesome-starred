@@ -180,6 +180,7 @@
 
 ## automation 
 
+- [github/command](https://github.com/github/command) - IssueOps commands in GitHub Actions
 - [automatisch/automatisch](https://github.com/automatisch/automatisch) - The open source Zapier alternative. Build workflow automation without spending time and money.
 - [semantic-release/semantic-release](https://github.com/semantic-release/semantic-release) - :package::rocket: Fully automated version management and package publishing
 
