@@ -1031,6 +1031,7 @@
 
 ## package-manager 
 
+- [pdm-project/pdm](https://github.com/pdm-project/pdm) - A modern Python package and dependency manager supporting the latest PEP standards
 - [whalebrew/whalebrew](https://github.com/whalebrew/whalebrew) - Homebrew, but with Docker images
 - [python-poetry/poetry](https://github.com/python-poetry/poetry) - Python packaging and dependency management made easy
 
@@ -1052,6 +1053,7 @@
 
 ## python 
 
+- [pdm-project/pdm](https://github.com/pdm-project/pdm) - A modern Python package and dependency manager supporting the latest PEP standards
 - [Aura-healthcare/hrv-analysis](https://github.com/Aura-healthcare/hrv-analysis) - Package for Heart Rate Variability analysis in Python
 - [reactive-python/reactpy](https://github.com/reactive-python/reactpy) - It's React, but in Python
 - [raphaelvallat/antropy](https://github.com/raphaelvallat/antropy) - AntroPy: entropy and complexity of (EEG) time-series in Python
