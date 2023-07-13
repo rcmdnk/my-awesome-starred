@@ -177,6 +177,7 @@
 - [tani/cheeriogs](https://github.com/tani/cheeriogs) - Cheerio for Google Apps Script
 - [ayaka14732/ChatGPTAPIFree](https://github.com/ayaka14732/ChatGPTAPIFree) - A simple and open-source proxy API that allows you to access OpenAI's ChatGPT API for free!
 - [mxschmitt/action-tmate](https://github.com/mxschmitt/action-tmate) - Debug your GitHub Actions via SSH by using tmate to get access to the runner system itself.
+- [zauberzeug/nicegui](https://github.com/zauberzeug/nicegui) - Create web-based user interfaces with Python. The nice way.
 - [MishaKav/pytest-coverage-comment](https://github.com/MishaKav/pytest-coverage-comment) - Comments a pull request with the pytest code coverage badge and full report
 - [kuwala-io/kuwala](https://github.com/kuwala-io/kuwala) - Kuwala is the no-code data platform for BI analysts and engineers enabling you to build powerful analytics workflows. We are set out to bring state-of-the-art data engineering tools you love, such as 
 - [umami-software/umami](https://github.com/umami-software/umami) - Umami is a simple, fast, privacy-focused alternative to Google Analytics.
@@ -370,7 +371,6 @@
 - [shellcheck-py/shellcheck-py](https://github.com/shellcheck-py/shellcheck-py) - python3/pip3 wrapper for installing shellcheck
 - [marsupialtail/quokka](https://github.com/marsupialtail/quokka) - Open source SQL engine in Python
 - [AntoineD/docstring-inheritance](https://github.com/AntoineD/docstring-inheritance) - A python package to avoid writing and maintaining duplicated python docstrings.
-- [zauberzeug/nicegui](https://github.com/zauberzeug/nicegui) - Create web-based user interfaces with Python. The nice way.
 - [cbrnr/mnelab](https://github.com/cbrnr/mnelab) - MNELAB – a GUI for MNE
 - [xinntao/Real-ESRGAN](https://github.com/xinntao/Real-ESRGAN) - Real-ESRGAN aims at developing Practical Algorithms for General Image/Video Restoration.
 - [aegirhall/console-menu](https://github.com/aegirhall/console-menu) - A simple Python menu system for building terminal user interfaces.
