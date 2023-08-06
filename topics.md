@@ -1238,7 +1238,7 @@
 
 ## sql 
 
-- [marsupialtail/quokka](https://github.com/marsupialtail/quokka) - Open source SQL engine in Python
+- [marsupialtail/quokka](https://github.com/marsupialtail/quokka) - Making data lake work for time series
 - [dcmoura/spyql](https://github.com/dcmoura/spyql) - Query data on the command line with SQL-like SELECTs powered by Python expressions
 - [mergestat/mergestat-lite](https://github.com/mergestat/mergestat-lite) - Query git repositories with SQL. Generate reports, perform status checks, analyze codebases. 🔍 📊
 
