@@ -570,7 +570,6 @@
 - [optuna/optuna](https://github.com/optuna/optuna) - A hyperparameter optimization framework
 - [withfig/autocomplete](https://github.com/withfig/autocomplete) - IDE-style autocomplete for your existing terminal & shell
 - [TheAlgorithms/Python](https://github.com/TheAlgorithms/Python) - All Algorithms implemented in Python
-- [zellij-org/zellij](https://github.com/zellij-org/zellij) - A terminal workspace with batteries included
 - [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats) - :zap: Dynamically generated stats for your github readmes
 - [home-assistant/core](https://github.com/home-assistant/core) - :house_with_garden: Open source home automation that puts local control and privacy first.
 - [super-linter/super-linter](https://github.com/super-linter/super-linter) - Combination of multiple linters to install as a GitHub Action
@@ -826,7 +825,7 @@
 
 ## others 
 
-- [opentffoundation/opentf](https://github.com/opentffoundation/opentf) - OpenTF lets you declaratively manage your cloud infrastructure.
+- [opentofu/opentofu](https://github.com/opentofu/opentofu) - OpenTF lets you declaratively manage your cloud infrastructure.
 - [OpenBMB/ChatDev](https://github.com/OpenBMB/ChatDev) - Create Customized Software using Natural Language Idea (through Multi-Agent Collaboration)
 - [geolonia/normalize-japanese-addresses](https://github.com/geolonia/normalize-japanese-addresses) - オープンソースの住所正規化ライブラリ。
 - [pmbarrett314/curses-menu](https://github.com/pmbarrett314/curses-menu) - A simple console menu system in python using the curses library
