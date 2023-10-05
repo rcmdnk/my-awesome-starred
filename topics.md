@@ -1142,6 +1142,7 @@
 - [xinntao/Real-ESRGAN](https://github.com/xinntao/Real-ESRGAN) - Real-ESRGAN aims at developing Practical Algorithms for General Image/Video Restoration.
 - [advimman/lama](https://github.com/advimman/lama) - 🦙  LaMa Image Inpainting, Resolution-robust Large Mask Inpainting with Fourier Convolutions, WACV 2022
 - [huggingface/transformers](https://github.com/huggingface/transformers) - 🤗 Transformers: State-of-the-art Machine Learning for Pytorch, TensorFlow, and JAX.
+- [saforem2/l2hmc-qcd](https://github.com/saforem2/l2hmc-qcd) - Application of the L2HMC algorithm to simulations in lattice QCD.
 - [ml-tooling/best-of-ml-python](https://github.com/ml-tooling/best-of-ml-python) - 🏆 A ranked list of awesome machine learning Python libraries. Updated weekly.
 - [microsoft/DeepSpeed](https://github.com/microsoft/DeepSpeed) - DeepSpeed is a deep learning optimization library that makes distributed training and inference easy, efficient, and effective.
 
@@ -1267,6 +1268,7 @@
 - [SuperBruceJia/EEG-DL](https://github.com/SuperBruceJia/EEG-DL) - A Deep Learning library for EEG Tasks (Signals) Classification, based on TensorFlow.
 - [cerlymarco/keras-hypetune](https://github.com/cerlymarco/keras-hypetune) - A friendly python package for Keras Hyperparameters Tuning based only on NumPy and hyperopt.
 - [huggingface/transformers](https://github.com/huggingface/transformers) - 🤗 Transformers: State-of-the-art Machine Learning for Pytorch, TensorFlow, and JAX.
+- [saforem2/l2hmc-qcd](https://github.com/saforem2/l2hmc-qcd) - Application of the L2HMC algorithm to simulations in lattice QCD.
 - [mrdbourke/tensorflow-deep-learning](https://github.com/mrdbourke/tensorflow-deep-learning) - All course materials for the Zero to Mastery Deep Learning with TensorFlow course.
 - [ml-tooling/best-of-ml-python](https://github.com/ml-tooling/best-of-ml-python) - 🏆 A ranked list of awesome machine learning Python libraries. Updated weekly.
 - [freedomtan/edge_tpu_python_scripts](https://github.com/freedomtan/edge_tpu_python_scripts) - some scripts I used to test Google's Edge TPU
