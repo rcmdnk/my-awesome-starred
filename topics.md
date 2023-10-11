@@ -960,6 +960,7 @@
 - [qosf/awesome-quantum-software](https://github.com/qosf/awesome-quantum-software) - Curated list of open-source quantum software projects.
 - [nferraz/st](https://github.com/nferraz/st) - simple statistics from the command line
 - [skeeto/endlessh](https://github.com/skeeto/endlessh) - SSH tarpit that slowly sends an endless banner
+- [antonmedv/countdown](https://github.com/antonmedv/countdown) - Terminal countdown timer
 - [puppetlabs/r10k](https://github.com/puppetlabs/r10k) - Smarter Puppet deployment
 - [Linuxbrew/install](https://github.com/Linuxbrew/install) - 💀 Linuxbrew/install (deprecated)
 - [hashbang/git-signatures](https://github.com/hashbang/git-signatures) - Git extensions for m-of-n signing and verification on commits/tags.
@@ -1060,6 +1061,7 @@
 
 ## python 
 
+- [inducer/pudb](https://github.com/inducer/pudb) - Full-screen console debugger for Python
 - [KillianLucas/open-interpreter](https://github.com/KillianLucas/open-interpreter) - OpenAI's Code Interpreter in your terminal, running locally
 - [satwikkansal/wtfpython](https://github.com/satwikkansal/wtfpython) - What the f*ck Python? 😱
 - [PyO3/pyo3](https://github.com/PyO3/pyo3) - Rust bindings for the Python interpreter
