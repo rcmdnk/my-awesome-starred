@@ -125,7 +125,7 @@
 - [nektos/act](https://github.com/nektos/act) - Run your GitHub Actions locally 🚀
 - [dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash) - A beautiful CLI dashboard for GitHub 🚀
 - [jiro4989/slotchmod](https://github.com/jiro4989/slotchmod) - slotchmod changes file permission with a slot.
-- [lima-vm/lima](https://github.com/lima-vm/lima) - Linux virtual machines
+- [lima-vm/lima](https://github.com/lima-vm/lima) - Linux virtual machines, with a focus on running containers
 - [irevenko/what-anime-cli](https://github.com/irevenko/what-anime-cli) - ❓🖼 Find the anime scene by image using your terminal
 - [n7olkachev/imgdiff](https://github.com/n7olkachev/imgdiff) - Faster than the fastest in the world pixel-by-pixel image difference tool.
 - [whalebrew/whalebrew](https://github.com/whalebrew/whalebrew) - Homebrew, but with Docker images
