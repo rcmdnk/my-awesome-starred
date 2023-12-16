@@ -310,7 +310,7 @@
 ## compiler 
 
 - [exaloop/codon](https://github.com/exaloop/codon) - A high-performance, zero-overhead, extensible Python compiler using LLVM
-- [erg-lang/erg](https://github.com/erg-lang/erg) - A statically typed language that can deeply improve the Python ecosystem
+- [erg-lang/erg](https://github.com/erg-lang/erg) - A statically typed language compatible with Python
 - [carbon-language/carbon-lang](https://github.com/carbon-language/carbon-lang) - Carbon Language's main repository: documents, design, implementation, and related tools. (NOTE: Carbon Language is experimental; see README)
 - [ryanmjacobs/c](https://github.com/ryanmjacobs/c) - Compile and execute C "scripts" in one go!
 
@@ -682,7 +682,7 @@
 ## language 
 
 - [modularml/mojo](https://github.com/modularml/mojo) - The Mojo Programming Language
-- [erg-lang/erg](https://github.com/erg-lang/erg) - A statically typed language that can deeply improve the Python ecosystem
+- [erg-lang/erg](https://github.com/erg-lang/erg) - A statically typed language compatible with Python
 - [carbon-language/carbon-lang](https://github.com/carbon-language/carbon-lang) - Carbon Language's main repository: documents, design, implementation, and related tools. (NOTE: Carbon Language is experimental; see README)
 
 ## latex 
@@ -736,7 +736,7 @@
 - [interpretml/DiCE](https://github.com/interpretml/DiCE) - Generate Diverse Counterfactual Explanations for any machine learning model.
 - [ml-tooling/best-of-ml-python](https://github.com/ml-tooling/best-of-ml-python) - 🏆 A ranked list of awesome machine learning Python libraries. Updated weekly.
 - [vaexio/vaex](https://github.com/vaexio/vaex) - Out-of-Core hybrid Apache Arrow/NumPy DataFrame for Python, ML, visualization and exploration of big tabular data at a billion rows per second 🚀
-- [tslearn-team/tslearn](https://github.com/tslearn-team/tslearn) - A machine learning toolkit dedicated to time-series data
+- [tslearn-team/tslearn](https://github.com/tslearn-team/tslearn) - The machine learning toolkit for time series analysis in Python
 - [microsoft/DeepSpeed](https://github.com/microsoft/DeepSpeed) - DeepSpeed is a deep learning optimization library that makes distributed training and inference easy, efficient, and effective.
 - [unit8co/darts](https://github.com/unit8co/darts) - A python library for user-friendly forecasting and anomaly detection on time series.
 - [mlflow/mlflow](https://github.com/mlflow/mlflow) - Open source platform for the machine learning lifecycle
@@ -843,6 +843,7 @@
 
 ## others 
 
+- [ebeweber/flake8-mutable](https://github.com/ebeweber/flake8-mutable) - flake8 extension for mutable default arguments
 - [nomic-ai/gpt4all](https://github.com/nomic-ai/gpt4all) - gpt4all: open-source LLM chatbots that you can run anywhere
 - [opentofu/opentofu](https://github.com/opentofu/opentofu) - OpenTofu lets you declaratively manage your cloud infrastructure.
 - [OpenBMB/ChatDev](https://github.com/OpenBMB/ChatDev) - Create Customized Software using Natural Language Idea (through LLM-powered Multi-Agent Collaboration)
@@ -1110,7 +1111,7 @@
 - [cbrnr/mnelab](https://github.com/cbrnr/mnelab) - MNELAB – a GUI for MNE
 - [analyticalmonk/awesome-neuroscience](https://github.com/analyticalmonk/awesome-neuroscience) - A curated list of awesome neuroscience libraries, software and any content related to the domain.
 - [astral-sh/ruff](https://github.com/astral-sh/ruff) - An extremely fast Python linter and code formatter, written in Rust.
-- [erg-lang/erg](https://github.com/erg-lang/erg) - A statically typed language that can deeply improve the Python ecosystem
+- [erg-lang/erg](https://github.com/erg-lang/erg) - A statically typed language compatible with Python
 - [neuropsychology/NeuroKit](https://github.com/neuropsychology/NeuroKit) - NeuroKit2: The Python Toolbox for Neurophysiological Signal Processing
 - [mne-tools/mne-python](https://github.com/mne-tools/mne-python) - MNE: Magnetoencephalography (MEG) and Electroencephalography (EEG) in Python
 - [pallets/click](https://github.com/pallets/click) - Python composable command line interface toolkit
@@ -1128,7 +1129,7 @@
 - [ml-tooling/best-of-ml-python](https://github.com/ml-tooling/best-of-ml-python) - 🏆 A ranked list of awesome machine learning Python libraries. Updated weekly.
 - [vaexio/vaex](https://github.com/vaexio/vaex) - Out-of-Core hybrid Apache Arrow/NumPy DataFrame for Python, ML, visualization and exploration of big tabular data at a billion rows per second 🚀
 - [PyGithub/PyGithub](https://github.com/PyGithub/PyGithub) - Typed interactions with the GitHub API v3
-- [tslearn-team/tslearn](https://github.com/tslearn-team/tslearn) - A machine learning toolkit dedicated to time-series data
+- [tslearn-team/tslearn](https://github.com/tslearn-team/tslearn) - The machine learning toolkit for time series analysis in Python
 - [home-assistant/core](https://github.com/home-assistant/core) - :house_with_garden: Open source home automation that puts local control and privacy first.
 - [unit8co/darts](https://github.com/unit8co/darts) - A python library for user-friendly forecasting and anomaly detection on time series.
 - [semgrep/semgrep](https://github.com/semgrep/semgrep) - Lightweight static analysis for many languages. Find bug variants with patterns that look like source code.
@@ -1218,7 +1219,7 @@
 - [1Password/typeshare](https://github.com/1Password/typeshare) - Typeshare is the ultimate tool for synchronizing your type definitions between Rust and other languages for seamless FFI.
 - [astral-sh/ruff](https://github.com/astral-sh/ruff) - An extremely fast Python linter and code formatter, written in Rust.
 - [TheAlgorithms/Rust](https://github.com/TheAlgorithms/Rust) - All Algorithms implemented in Rust
-- [erg-lang/erg](https://github.com/erg-lang/erg) - A statically typed language that can deeply improve the Python ecosystem
+- [erg-lang/erg](https://github.com/erg-lang/erg) - A statically typed language compatible with Python
 - [rust-embedded/rust-raspberrypi-OS-tutorials](https://github.com/rust-embedded/rust-raspberrypi-OS-tutorials) - :books: Learn to write an embedded OS in Rust :crab:
 - [dalance/procs](https://github.com/dalance/procs) - A modern replacement for ps written in Rust
 
