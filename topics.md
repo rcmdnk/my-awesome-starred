@@ -843,6 +843,7 @@
 
 ## others 
 
+- [pjeby/hot-reload](https://github.com/pjeby/hot-reload) - Automatically reload Obsidian plugins in development when their files are changed
 - [obsidianmd/obsidian-sample-plugin](https://github.com/obsidianmd/obsidian-sample-plugin) - 
 - [ebeweber/flake8-mutable](https://github.com/ebeweber/flake8-mutable) - flake8 extension for mutable default arguments
 - [nomic-ai/gpt4all](https://github.com/nomic-ai/gpt4all) - gpt4all: open-source LLM chatbots that you can run anywhere
