@@ -696,7 +696,7 @@
 
 ## library 
 
-- [pyrustic/jesth](https://github.com/pyrustic/jesth) - Next-level human-readable data serialization format
+- [pyrustic/jesth](https://github.com/pyrustic/jesth) - Human-readable versatile data format
 - [ml-tooling/best-of-python](https://github.com/ml-tooling/best-of-python) - 🏆 A ranked list of awesome Python open-source libraries and tools. Updated weekly.
 
 ## linux 
@@ -1095,7 +1095,7 @@
 - [AntonOsika/gpt-engineer](https://github.com/AntonOsika/gpt-engineer) - Specify what you want it to build, the AI asks for clarification, and then builds it.
 - [reactive-python/reactpy](https://github.com/reactive-python/reactpy) - It's React, but in Python
 - [raphaelvallat/antropy](https://github.com/raphaelvallat/antropy) - AntroPy: entropy and complexity of (EEG) time-series in Python
-- [pyrustic/jesth](https://github.com/pyrustic/jesth) - Next-level human-readable data serialization format
+- [pyrustic/jesth](https://github.com/pyrustic/jesth) - Human-readable versatile data format
 - [pyscript/pyscript](https://github.com/pyscript/pyscript) - Try PyScript: https://pyscript.com  Examples: https://tinyurl.com/pyscript-examples  Community: https://discord.gg/HxvBtukrg2
 - [xtekky/gpt4free](https://github.com/xtekky/gpt4free) - The official gpt4free repository | various collection of powerful language models
 - [Torantulino/AI-Functions](https://github.com/Torantulino/AI-Functions) - AI-Powered Function Magic: Never code again with GPT models!
