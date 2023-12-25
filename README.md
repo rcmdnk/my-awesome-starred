@@ -300,7 +300,7 @@
 - [ztombol/bats-docs](https://github.com/ztombol/bats-docs) - Shared Bats helper documentation
 - [arXivQuration/arXivQuration](https://github.com/arXivQuration/arXivQuration) - repository to share the quantum information and quantum computer articles
 - [arXivTimes/arXivTimes](https://github.com/arXivTimes/arXivTimes) - repository to research & share the machine learning articles
-- [stevemao/github-issue-templates](https://github.com/stevemao/github-issue-templates) - :symbols: A collection of GitHub issue and pull request templates
+- [stevemao/github-issue-templates](https://github.com/stevemao/github-issue-templates) - 🔣 A collection of GitHub issue, pull request and security templates
 - [ookamiinc/kinto](https://github.com/ookamiinc/kinto) - 均等 — Kinto is a Japanese font family adapted to match size & balance with Latin characters in user interfaces. A project based off Google Noto fonts.
 - [RomuloOliveira/commit-messages-guide](https://github.com/RomuloOliveira/commit-messages-guide) - A guide to understand the importance of commit messages and how to write them well
 - [qosf/awesome-quantum-software](https://github.com/qosf/awesome-quantum-software) - Curated list of open-source quantum software projects.
