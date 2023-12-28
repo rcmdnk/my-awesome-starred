@@ -267,7 +267,7 @@
 
 ## chrome-extension 
 
-- [alyssaxuu/screenity](https://github.com/alyssaxuu/screenity) - The most powerful screen recorder & annotation tool for Chrome 🎥
+- [alyssaxuu/screenity](https://github.com/alyssaxuu/screenity) - The free and privacy-friendly screen recorder with no limits 🎥
 - [leonhartX/gas-github](https://github.com/leonhartX/gas-github) - sync gas code to github
 - [refined-github/refined-github](https://github.com/refined-github/refined-github) - :octocat: Browser extension that simplifies the GitHub interface and adds useful features
 - [1995eaton/chromium-vim](https://github.com/1995eaton/chromium-vim) - Vim bindings for Google Chrome.
@@ -409,7 +409,7 @@
 
 ## design 
 
-- [alyssaxuu/screenity](https://github.com/alyssaxuu/screenity) - The most powerful screen recorder & annotation tool for Chrome 🎥
+- [alyssaxuu/screenity](https://github.com/alyssaxuu/screenity) - The free and privacy-friendly screen recorder with no limits 🎥
 
 ## devops 
 
@@ -646,7 +646,7 @@
 - [vercel/hyper](https://github.com/vercel/hyper) - A terminal built on web technologies
 - [shelljs/shelljs](https://github.com/shelljs/shelljs) - :shell: Portable Unix shell commands for Node.js
 - [Jelmerro/Vieb](https://github.com/Jelmerro/Vieb) - Vim Inspired Electron Browser - Vim bindings for the web by design
-- [alyssaxuu/screenity](https://github.com/alyssaxuu/screenity) - The most powerful screen recorder & annotation tool for Chrome 🎥
+- [alyssaxuu/screenity](https://github.com/alyssaxuu/screenity) - The free and privacy-friendly screen recorder with no limits 🎥
 - [jerosoler/Drawflow](https://github.com/jerosoler/Drawflow) - Simple flow library 🖥️🖱️
 - [semgrep/semgrep](https://github.com/semgrep/semgrep) - Lightweight static analysis for many languages. Find bug variants with patterns that look like source code.
 - [dutiyesh/chrome-extension-cli](https://github.com/dutiyesh/chrome-extension-cli) - 🚀 The CLI for your next Chrome Extension
@@ -1301,6 +1301,7 @@
 - [saforem2/l2hmc-qcd](https://github.com/saforem2/l2hmc-qcd) - Application of the L2HMC algorithm to simulations in lattice QCD.
 - [mrdbourke/tensorflow-deep-learning](https://github.com/mrdbourke/tensorflow-deep-learning) - All course materials for the Zero to Mastery Deep Learning with TensorFlow course.
 - [ml-tooling/best-of-ml-python](https://github.com/ml-tooling/best-of-ml-python) - 🏆 A ranked list of awesome machine learning Python libraries. Updated weekly.
+- [alyssaxuu/screenity](https://github.com/alyssaxuu/screenity) - The free and privacy-friendly screen recorder with no limits 🎥
 - [freedomtan/edge_tpu_python_scripts](https://github.com/freedomtan/edge_tpu_python_scripts) - some scripts I used to test Google's Edge TPU
 - [google-research/bert](https://github.com/google-research/bert) - TensorFlow code and pre-trained models for BERT
 - [instillai/TensorFlow-Course](https://github.com/instillai/TensorFlow-Course) - :satellite: Simple and ready-to-use tutorials for TensorFlow
