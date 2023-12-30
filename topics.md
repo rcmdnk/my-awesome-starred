@@ -846,6 +846,7 @@
 
 ## others 
 
+- [Wilfred/difftastic](https://github.com/Wilfred/difftastic) - a structural diff that understands syntax 🟥🟩
 - [pjeby/hot-reload](https://github.com/pjeby/hot-reload) - Automatically reload Obsidian plugins in development when their files are changed
 - [obsidianmd/obsidian-sample-plugin](https://github.com/obsidianmd/obsidian-sample-plugin) - 
 - [ebeweber/flake8-mutable](https://github.com/ebeweber/flake8-mutable) - flake8 extension for mutable default arguments
