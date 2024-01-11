@@ -467,7 +467,6 @@
 - [z4r/python-coveralls](https://github.com/z4r/python-coveralls) - Python API for http://coveralls.io
 - [davidhalter/jedi-vim](https://github.com/davidhalter/jedi-vim) - Using the jedi autocompletion library for VIM.
 - [mooz/percol](https://github.com/mooz/percol) - adds flavor of interactive filtering to the traditional pipe concept of UNIX shell
-- [asciinema/asciinema](https://github.com/asciinema/asciinema) - Terminal session recorder 📹
 - [insanum/gcalcli](https://github.com/insanum/gcalcli) - Google Calendar Command Line Interface
 
 ## QML 
@@ -510,6 +509,7 @@
 - [zellij-org/zellij](https://github.com/zellij-org/zellij) - A terminal workspace with batteries included
 - [dalance/procs](https://github.com/dalance/procs) - A modern replacement for ps written in Rust
 - [motemen/slack-stream-json](https://github.com/motemen/slack-stream-json) - 
+- [asciinema/asciinema](https://github.com/asciinema/asciinema) - Terminal session recorder 📹
 
 ## SCSS 
 
