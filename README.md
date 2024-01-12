@@ -525,7 +525,7 @@
 - [koalaman/shellcheck-precommit](https://github.com/koalaman/shellcheck-precommit) - Pre-commit hook for ShellCheck
 - [sdushantha/tmpmail](https://github.com/sdushantha/tmpmail) - A temporary email right from your terminal written in POSIX sh
 - [neologd/mecab-ipadic-neologd](https://github.com/neologd/mecab-ipadic-neologd) - Neologism dictionary based on the language resources on the Web for mecab-ipadic
-- [super-linter/super-linter](https://github.com/super-linter/super-linter) - Combination of multiple linters to install as a GitHub Action
+- [super-linter/super-linter](https://github.com/super-linter/super-linter) - Combination of multiple linters to run as a GitHub Action or standalone
 - [gigamonkey/monorepoize](https://github.com/gigamonkey/monorepoize) - Bash scripts for creating a monorepo out of smaller repos.
 - [kward/shunit2](https://github.com/kward/shunit2) - shUnit2 is a xUnit based unit test framework for Bourne based shell scripts.
 - [bats-core/bats-core](https://github.com/bats-core/bats-core) - Bash Automated Testing System
