@@ -919,7 +919,7 @@
 - [pfnet-research/xfeat](https://github.com/pfnet-research/xfeat) - Flexible Feature Engineering & Exploration Library using GPUs and Optuna.
 - [Xuyuanp/scrollbar.nvim](https://github.com/Xuyuanp/scrollbar.nvim) - scrollbar for neovim
 - [rbtnn/vim-mario](https://github.com/rbtnn/vim-mario) - Mario on Vim
-- [upptime/upptime](https://github.com/upptime/upptime) - ⬆️ Free uptime monitor and status page powered by GitHub
+- [upptime/upptime](https://github.com/upptime/upptime) - ⬆️ GitHub Actions uptime monitor & status page by @AnandChowdhary
 - [hannari-python/tutorial](https://github.com/hannari-python/tutorial) - 
 - [WorksApplications/SudachiPy](https://github.com/WorksApplications/SudachiPy) - Python version of Sudachi, a Japanese tokenizer.
 - [withings-sas/api-oauth2-python](https://github.com/withings-sas/api-oauth2-python) - Python sample code for OAuth2
