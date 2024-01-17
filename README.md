@@ -50,6 +50,7 @@
 
 ## AutoHotkey 
 
+- [k-ayaki/IMEv2.ahk](https://github.com/k-ayaki/IMEv2.ahk) - Autohotkey v2.0 でIMEを制御する関数群
 - [maestrith/AHK-Studio](https://github.com/maestrith/AHK-Studio) - Created with AHK Studio
 
 ## Awk 
