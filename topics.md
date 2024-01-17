@@ -847,6 +847,7 @@
 
 ## others 
 
+- [k-ayaki/IMEv2.ahk](https://github.com/k-ayaki/IMEv2.ahk) - Autohotkey v2.0 でIMEを制御する関数群
 - [Wilfred/difftastic](https://github.com/Wilfred/difftastic) - a structural diff that understands syntax 🟥🟩
 - [pjeby/hot-reload](https://github.com/pjeby/hot-reload) - Automatically reload Obsidian plugins in development when their files are changed
 - [obsidianmd/obsidian-sample-plugin](https://github.com/obsidianmd/obsidian-sample-plugin) - 
