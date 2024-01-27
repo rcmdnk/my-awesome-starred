@@ -142,6 +142,7 @@
 - [vim](#vim)
 - [vue](#vue)
 - [web](#web)
+- [web-development](#web-development)
 - [webapp](#webapp)
 - [website](#website)
 - [windows](#windows)
@@ -572,7 +573,6 @@
 ## hacktoberfest 
 
 - [antonbabenko/pre-commit-terraform](https://github.com/antonbabenko/pre-commit-terraform) - pre-commit git hooks to take care of Terraform configurations 🇺🇦
-- [PyO3/pyo3](https://github.com/PyO3/pyo3) - Rust bindings for the Python interpreter
 - [pdm-project/pdm](https://github.com/pdm-project/pdm) - A modern Python package and dependency manager supporting the latest PEP standards
 - [pytest-dev/pytest-xdist](https://github.com/pytest-dev/pytest-xdist) - pytest plugin for distributed testing and loop-on-failures testing modes.
 - [wemake-services/wemake-python-styleguide](https://github.com/wemake-services/wemake-python-styleguide) - The strictest and most opinionated python linter ever!
@@ -1383,6 +1383,10 @@
 - [nwtgck/piping-server](https://github.com/nwtgck/piping-server) - Infinitely transfer between every device over pure HTTP with pipes or browsers
 - [beefsack/webify](https://github.com/beefsack/webify) - Turn shell commands into web services
 - [linkchecker/linkchecker](https://github.com/linkchecker/linkchecker) - check links in web documents or full websites
+
+## web-development 
+
+- [joshbuchea/HEAD](https://github.com/joshbuchea/HEAD) - A simple guide to HTML &lt;head&gt; elements
 
 ## webapp 
 
