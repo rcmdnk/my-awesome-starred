@@ -278,6 +278,8 @@
 
 ## cli 
 
+- [charmbracelet/vhs](https://github.com/charmbracelet/vhs) - Your CLI home video recorder 📼
+- [koki-develop/clive](https://github.com/koki-develop/clive) - ⚡ Automates terminal operations.
 - [microsoft/inshellisense](https://github.com/microsoft/inshellisense) - IDE style command line auto complete
 - [ml-tooling/best-of-python](https://github.com/ml-tooling/best-of-python) - 🏆 A ranked list of awesome Python open-source libraries and tools. Updated weekly.
 - [1Password/typeshare](https://github.com/1Password/typeshare) - Typeshare is the ultimate tool for synchronizing your type definitions between Rust and other languages for seamless FFI.
@@ -546,6 +548,7 @@
 
 ## golang 
 
+- [koki-develop/clive](https://github.com/koki-develop/clive) - ⚡ Automates terminal operations.
 - [nektos/act](https://github.com/nektos/act) - Run your GitHub Actions locally 🚀
 - [dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash) - A beautiful CLI dashboard for GitHub 🚀
 - [irevenko/what-anime-cli](https://github.com/irevenko/what-anime-cli) - ❓🖼 Find the anime scene by image using your terminal
@@ -1313,6 +1316,8 @@
 
 ## terminal 
 
+- [charmbracelet/vhs](https://github.com/charmbracelet/vhs) - Your CLI home video recorder 📼
+- [koki-develop/clive](https://github.com/koki-develop/clive) - ⚡ Automates terminal operations.
 - [microsoft/inshellisense](https://github.com/microsoft/inshellisense) - IDE style command line auto complete
 - [dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash) - A beautiful CLI dashboard for GitHub 🚀
 - [vercel/hyper](https://github.com/vercel/hyper) - A terminal built on web technologies
