@@ -559,6 +559,7 @@
 
 ## TypeScript 
 
+- [reorproject/reor](https://github.com/reorproject/reor) - AI note-taking app that runs models locally.
 - [obsidianmd/obsidian-sample-plugin](https://github.com/obsidianmd/obsidian-sample-plugin) - 
 - [microsoft/inshellisense](https://github.com/microsoft/inshellisense) - IDE style command line auto complete
 - [coderabbitai/ai-pr-reviewer](https://github.com/coderabbitai/ai-pr-reviewer) - AI-based Pull Request Summarizer and Reviewer with Chat Capabilities.
