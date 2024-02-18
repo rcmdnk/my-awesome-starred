@@ -401,6 +401,7 @@
 
 ## deep-learning 
 
+- [google/magika](https://github.com/google/magika) - Detect file content types with deep learning
 - [iryna-kondr/scikit-llm](https://github.com/iryna-kondr/scikit-llm) - Seamlessly integrate LLMs into scikit-learn.
 - [camel-ai/camel](https://github.com/camel-ai/camel) - 🐫 CAMEL: Communicative Agents for “Mind” Exploration of Large Language Model Society (NeruIPS'2023) https://www.camel-ai.org
 - [FMInference/FlexGen](https://github.com/FMInference/FlexGen) - Running large language models on a single GPU for throughput-oriented scenarios.
@@ -861,6 +862,7 @@
 
 ## others 
 
+- [dzove855/Bash-web-server](https://github.com/dzove855/Bash-web-server) - A purely bash web server, no socat, netcat, etc...
 - [awslabs/llrt](https://github.com/awslabs/llrt) - LLRT (Low Latency Runtime) is an experimental, lightweight JavaScript runtime designed to address the growing demand for fast and efficient Serverless applications.
 - [k-ayaki/IMEv2.ahk](https://github.com/k-ayaki/IMEv2.ahk) - Autohotkey v2.0 でIMEを制御する関数群
 - [Wilfred/difftastic](https://github.com/Wilfred/difftastic) - a structural diff that understands syntax 🟥🟩
