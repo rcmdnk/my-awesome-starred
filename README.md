@@ -341,6 +341,7 @@
 
 ## Python 
 
+- [microsoft/UFO](https://github.com/microsoft/UFO) - A UI-Focused Agent for Windows OS Interaction.
 - [google/magika](https://github.com/google/magika) - Detect file content types with deep learning
 - [awslabs/aws-icons-for-plantuml](https://github.com/awslabs/aws-icons-for-plantuml) - PlantUML sprites, macros, and other includes for Amazon Web Services services and resources
 - [ebeweber/flake8-mutable](https://github.com/ebeweber/flake8-mutable) - flake8 extension for mutable default arguments
@@ -381,7 +382,7 @@
 - [pytest-dev/pytest-xdist](https://github.com/pytest-dev/pytest-xdist) - pytest plugin for distributed testing and loop-on-failures testing modes.
 - [kevlened/pytest-parallel](https://github.com/kevlened/pytest-parallel) - A pytest plugin for parallel and concurrent testing
 - [wemake-services/wemake-python-styleguide](https://github.com/wemake-services/wemake-python-styleguide) - The strictest and most opinionated python linter ever!
-- [run-llama/llama_index](https://github.com/run-llama/llama_index) - LlamaIndex (formerly GPT Index) is a data framework for your LLM applications
+- [run-llama/llama_index](https://github.com/run-llama/llama_index) - LlamaIndex is a data framework for your LLM applications
 - [SuperBruceJia/EEG-DL](https://github.com/SuperBruceJia/EEG-DL) - A Deep Learning library for EEG Tasks (Signals) Classification, based on TensorFlow.
 - [aronhoff/regex_spm](https://github.com/aronhoff/regex_spm) - Enable Structural Pattern Matching for Python regular expressions
 - [hppRC/bert-classification-tutorial](https://github.com/hppRC/bert-classification-tutorial) - 【2023年版】BERTによるテキスト分類
