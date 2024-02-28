@@ -864,6 +864,7 @@
 
 ## others 
 
+- [yt-dlp/Pyinstaller-Builds](https://github.com/yt-dlp/Pyinstaller-Builds) - PyInstaller Builds for yt-dlp
 - [dzove855/Bash-web-server](https://github.com/dzove855/Bash-web-server) - A purely bash web server, no socat, netcat, etc...
 - [awslabs/llrt](https://github.com/awslabs/llrt) - LLRT (Low Latency Runtime) is an experimental, lightweight JavaScript runtime designed to address the growing demand for fast and efficient Serverless applications.
 - [k-ayaki/IMEv2.ahk](https://github.com/k-ayaki/IMEv2.ahk) - Autohotkey v2.0 でIMEを制御する関数群
