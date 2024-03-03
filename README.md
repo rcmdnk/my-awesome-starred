@@ -77,7 +77,7 @@
 
 ## C# # 
 
-- [veler/DevToys](https://github.com/veler/DevToys) - A Swiss Army knife for developers.
+- [DevToys-app/DevToys](https://github.com/DevToys-app/DevToys) - A Swiss Army knife for developers.
 - [mdhiggins/CenterTaskbar](https://github.com/mdhiggins/CenterTaskbar) - Center Windows Taskbar Icons
 
 ## C++ 
@@ -507,6 +507,7 @@
 
 ## Rust 
 
+- [Eventual-Inc/Daft](https://github.com/Eventual-Inc/Daft) - Distributed DataFrame for Python designed for the cloud, powered by Rust
 - [martinvonz/jj](https://github.com/martinvonz/jj) - A Git-compatible VCS that is both simple and powerful
 - [ratatui-org/ratatui](https://github.com/ratatui-org/ratatui) - Rust library that's all about cooking up terminal user interfaces (TUIs)
 - [Wilfred/difftastic](https://github.com/Wilfred/difftastic) - a structural diff that understands syntax 🟥🟩
