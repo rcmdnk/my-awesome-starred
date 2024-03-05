@@ -90,6 +90,7 @@
 - [brainflow-dev/brainflow](https://github.com/brainflow-dev/brainflow) - BrainFlow is a library intended to obtain, parse and analyze EEG, EMG, ECG and other kinds of data from biosensors
 - [epasveer/seer](https://github.com/epasveer/seer) - Seer - a gui frontend to gdb
 - [carbon-language/carbon-lang](https://github.com/carbon-language/carbon-lang) - Carbon Language's main repository: documents, design, implementation, and related tools. (NOTE: Carbon Language is experimental; see README)
+- [openai/triton](https://github.com/openai/triton) - Development repository for the Triton language and compiler
 - [pit-ray/win-vind](https://github.com/pit-ray/win-vind) - You can operate Windows with key bindings like Vim.
 - [WifWaf/MH-Z19](https://github.com/WifWaf/MH-Z19) - For Arduino Boards (&ESP32). Additional Examples/Commands., Hardware/Software Serial
 - [keroro824/HashingDeepLearning](https://github.com/keroro824/HashingDeepLearning) - Codebase for "SLIDE : In Defense of Smart Algorithms over Hardware Acceleration for Large-Scale Deep Learning Systems"
@@ -417,13 +418,12 @@
 - [vshymanskyy/blynk-library-python](https://github.com/vshymanskyy/blynk-library-python) - Blynk library for Python. Works with Python 2, Python 3, MicroPython.
 - [InstituteforDiseaseModeling/covasim](https://github.com/InstituteforDiseaseModeling/covasim) - COVID-19 Agent-based Simulator (Covasim): a model for exploring coronavirus dynamics and interventions
 - [yagays/ja-timex](https://github.com/yagays/ja-timex) - 自然言語で書かれた時間情報表現を抽出/規格化するルールベースの解析器
-- [openai/triton](https://github.com/openai/triton) - Development repository for the Triton language and compiler
 - [Python-Markdown/markdown](https://github.com/Python-Markdown/markdown) - A Python implementation of John Gruber’s Markdown with Extension support.
 - [stanford-futuredata/sinkhorn-label-allocation](https://github.com/stanford-futuredata/sinkhorn-label-allocation) - Sinkhorn Label Allocation is a label assignment method for semi-supervised self-training algorithms. The SLA algorithm is described in full in this ICML 2021 paper: https://arxiv.org/abs/2102.08622.
 - [TheAlgorithms/Python](https://github.com/TheAlgorithms/Python) - All Algorithms implemented in Python
 - [interpretml/DiCE](https://github.com/interpretml/DiCE) - Generate Diverse Counterfactual Explanations for any machine learning model.
 - [UedaTakeyuki/mh-z19](https://github.com/UedaTakeyuki/mh-z19) - Read CO2 concentration from mh-z19 sensor on the Raspberry Pi & handle it. Detect Raspberry Pi model automatically and read the value from an appropriate serial device.
-- [lebigot/uncertainties](https://github.com/lebigot/uncertainties) - Transparent calculations with uncertainties on the quantities involved (aka "error propagation"); calculation of derivatives.
+- [lmfit/uncertainties](https://github.com/lmfit/uncertainties) - Transparent calculations with uncertainties on the quantities involved (aka "error propagation"); calculation of derivatives.
 - [vaexio/vaex](https://github.com/vaexio/vaex) - Out-of-Core hybrid Apache Arrow/NumPy DataFrame for Python, ML, visualization and exploration of big tabular data at a billion rows per second 🚀
 - [pfnet-research/xfeat](https://github.com/pfnet-research/xfeat) - Flexible Feature Engineering & Exploration Library using GPUs and Optuna.
 - [PyGithub/PyGithub](https://github.com/PyGithub/PyGithub) - Typed interactions with the GitHub API v3
