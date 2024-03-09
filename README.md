@@ -344,6 +344,7 @@
 
 ## Python 
 
+- [CopilotC-Nvim/CopilotChat.nvim](https://github.com/CopilotC-Nvim/CopilotChat.nvim) - Chat with GitHub Copilot in Neovim
 - [kyegomez/BitNet](https://github.com/kyegomez/BitNet) - Implementation of "BitNet: Scaling 1-bit Transformers for Large Language Models" in pytorch
 - [tangboxuan/reverse-python-exe](https://github.com/tangboxuan/reverse-python-exe) - Reverse engineer python exe
 - [microsoft/UFO](https://github.com/microsoft/UFO) - A UI-Focused Agent for Windows OS Interaction.
@@ -489,7 +490,6 @@
 - [buo/homebrew-cask-upgrade](https://github.com/buo/homebrew-cask-upgrade) - A command line tool for upgrading every outdated app installed by Homebrew Cask
 - [jeffreytse/jekyll-spaceship](https://github.com/jeffreytse/jekyll-spaceship) - 🚀 A Jekyll plugin to provide powerful supports for table, mathjax, plantuml, mermaid, emoji, video, audio, youtube, vimeo, dailymotion, soundcloud, spotify, etc.
 - [Vimjas/vim-python-pep8-indent](https://github.com/Vimjas/vim-python-pep8-indent) - A nicer Python indentation style for vim.
-- [Homebrew/linuxbrew-core](https://github.com/Homebrew/linuxbrew-core) - 💀Formerly the core formulae for the Homebrew package manager on Linux
 - [holiday-jp/holiday_jp](https://github.com/holiday-jp/holiday_jp) - Japanese holiday datasets
 - [puppetlabs/r10k](https://github.com/puppetlabs/r10k) - Smarter Puppet deployment
 - [Linuxbrew/install](https://github.com/Linuxbrew/install) - 💀 Linuxbrew/install (deprecated)
