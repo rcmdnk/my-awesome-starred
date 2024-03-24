@@ -880,6 +880,7 @@
 
 ## others 
 
+- [radekvit/coffee_break](https://github.com/radekvit/coffee_break) - Take a break while compiling.
 - [tangboxuan/reverse-python-exe](https://github.com/tangboxuan/reverse-python-exe) - Reverse engineer python exe
 - [yt-dlp/Pyinstaller-Builds](https://github.com/yt-dlp/Pyinstaller-Builds) - PyInstaller Builds for yt-dlp
 - [dzove855/Bash-web-server](https://github.com/dzove855/Bash-web-server) - A purely bash web server, no socat, netcat, etc...
