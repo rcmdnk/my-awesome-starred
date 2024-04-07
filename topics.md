@@ -151,6 +151,7 @@
 
 ## ai 
 
+- [plandex-ai/plandex](https://github.com/plandex-ai/plandex) - An AI coding engine for complex tasks
 - [reorproject/reor](https://github.com/reorproject/reor) - Self-organizing AI note-taking app that runs models locally.
 - [gpt-engineer-org/gpt-engineer](https://github.com/gpt-engineer-org/gpt-engineer) - Specify what you want it to build, the AI asks for clarification, and then builds it.
 - [modularml/mojo](https://github.com/modularml/mojo) - The Mojo Programming Language
@@ -286,6 +287,7 @@
 
 ## cli 
 
+- [plandex-ai/plandex](https://github.com/plandex-ai/plandex) - An AI coding engine for complex tasks
 - [martinvonz/jj](https://github.com/martinvonz/jj) - A Git-compatible VCS that is both simple and powerful
 - [ratatui-org/ratatui](https://github.com/ratatui-org/ratatui) - Rust library that's all about cooking up terminal user interfaces (TUIs)
 - [charmbracelet/vhs](https://github.com/charmbracelet/vhs) - Your CLI home video recorder 📼
@@ -567,6 +569,7 @@
 
 ## golang 
 
+- [plandex-ai/plandex](https://github.com/plandex-ai/plandex) - An AI coding engine for complex tasks
 - [koki-develop/clive](https://github.com/koki-develop/clive) - ⚡ Automates terminal operations.
 - [nektos/act](https://github.com/nektos/act) - Run your GitHub Actions locally 🚀
 - [dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash) - A beautiful CLI dashboard for GitHub 🚀
