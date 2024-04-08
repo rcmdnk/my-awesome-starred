@@ -351,6 +351,7 @@
 
 ## Python 
 
+- [ryanpetrello/vimwhisperer](https://github.com/ryanpetrello/vimwhisperer) - A simple VIM plugin for AWS CodeWhisperer code completion support.
 - [kyegomez/BitNet](https://github.com/kyegomez/BitNet) - Implementation of "BitNet: Scaling 1-bit Transformers for Large Language Models" in pytorch
 - [tangboxuan/reverse-python-exe](https://github.com/tangboxuan/reverse-python-exe) - Reverse engineer python exe
 - [microsoft/UFO](https://github.com/microsoft/UFO) - A UI-Focused Agent for Windows OS Interaction.
@@ -574,7 +575,7 @@
 
 ## TypeScript 
 
-- [eduardoleao052/js-torch](https://github.com/eduardoleao052/js-torch) - A JavaScript library like PyTorch, built from scratch.
+- [eduardoleao052/js-pytorch](https://github.com/eduardoleao052/js-pytorch) - A JavaScript library like PyTorch, built from scratch.
 - [marimo-team/marimo](https://github.com/marimo-team/marimo) - A reactive notebook for Python — run reproducible experiments, execute as a script, deploy as an app, and version with git.
 - [reorproject/reor](https://github.com/reorproject/reor) - Self-organizing AI note-taking app that runs models locally.
 - [obsidianmd/obsidian-sample-plugin](https://github.com/obsidianmd/obsidian-sample-plugin) - 
@@ -605,6 +606,7 @@
 
 ## Vim Script 
 
+- [madox2/vim-ai](https://github.com/madox2/vim-ai) - AI-powered code assistant for Vim. OpenAI and ChatGPT plugin for Vim and Neovim.
 - [simeji/winresizer](https://github.com/simeji/winresizer) - very simple vim plugin for easy resizing of your vim windows
 - [mattn/vim-chatgpt](https://github.com/mattn/vim-chatgpt) - 
 - [chaoren/vim-wordmotion](https://github.com/chaoren/vim-wordmotion) - More useful word motions for Vim
