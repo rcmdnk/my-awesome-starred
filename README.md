@@ -51,6 +51,7 @@
 
 ## AutoHotkey 
 
+- [mmikeww/AHK-v2-script-converter](https://github.com/mmikeww/AHK-v2-script-converter) - AHK v1 -&gt; v2 script converter
 - [k-ayaki/IMEv2.ahk](https://github.com/k-ayaki/IMEv2.ahk) - Autohotkey v2.0 でIMEを制御する関数群
 - [maestrith/AHK-Studio](https://github.com/maestrith/AHK-Studio) - Created with AHK Studio
 
