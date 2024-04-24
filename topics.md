@@ -50,6 +50,7 @@
 - [education](#education)
 - [electron](#electron)
 - [emacs](#emacs)
+- [embedded](#embedded)
 - [emoji](#emoji)
 - [emulator](#emulator)
 - [es6](#es6)
@@ -480,6 +481,10 @@
 ## emacs 
 
 - [zee-editor/zee](https://github.com/zee-editor/zee) - A modern text editor for the terminal written in Rust
+
+## embedded 
+
+- [blynkkk/blynk-library](https://github.com/blynkkk/blynk-library) - Blynk library for IoT boards. Works with Arduino, ESP32, ESP8266, Raspberry Pi, Particle, ARM Mbed, etc.
 
 ## emoji 
 
