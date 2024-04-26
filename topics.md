@@ -1110,7 +1110,7 @@
 - [AndrewRadev/switch.vim](https://github.com/AndrewRadev/switch.vim) - A simple Vim plugin to switch segments of text with predefined replacements
 - [chocolatey-archive/chocolatey](https://github.com/chocolatey-archive/chocolatey) - [DEPRECATED - https://github.com/chocolatey/choco] Chocolatey NuGet - Like apt-get, but for windows.
 - [boxen/our-boxen](https://github.com/boxen/our-boxen) - Copy me for your team.
-- [tekezo/Karabiner](https://github.com/tekezo/Karabiner) - Karabiner (KeyRemap4MacBook) is a powerful utility for keyboard customization.
+- [pqrs-org/Karabiner-archived](https://github.com/pqrs-org/Karabiner-archived) - Karabiner (KeyRemap4MacBook) is a powerful utility for keyboard customization.
 - [neerajcse/octopress-calendar-aside](https://github.com/neerajcse/octopress-calendar-aside) - Show a calendar(as aside) with clickable dates to your posts in octopress.
 - [transcode-open/apt-cyg](https://github.com/transcode-open/apt-cyg) - Apt-cyg, an apt-get like tool for Cygwin
 - [imathis/octopress](https://github.com/imathis/octopress) - Octopress is an obsessively designed framework for Jekyll blogging. It’s easy to configure and easy to deploy. Sweet huh?
