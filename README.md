@@ -354,6 +354,7 @@
 
 ## Python 
 
+- [google-research/timesfm](https://github.com/google-research/timesfm) - TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting.
 - [piskvorky/smart_open](https://github.com/piskvorky/smart_open) - Utils for streaming large files (S3, HDFS, gzip, bz2...)
 - [gradio-app/gradio](https://github.com/gradio-app/gradio) - Build and share delightful machine learning apps, all in Python. 🌟 Star to support our work!
 - [ryanpetrello/vimwhisperer](https://github.com/ryanpetrello/vimwhisperer) - A simple VIM plugin for AWS CodeWhisperer code completion support.
