@@ -913,6 +913,7 @@
 
 ## others 
 
+- [google-research/timesfm](https://github.com/google-research/timesfm) - TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting.
 - [KindXiaoming/pykan](https://github.com/KindXiaoming/pykan) - Kolmogorov Arnold Networks
 - [mmikeww/AHK-v2-script-converter](https://github.com/mmikeww/AHK-v2-script-converter) - AHK v1 -&gt; v2 script converter
 - [ryanpetrello/vimwhisperer](https://github.com/ryanpetrello/vimwhisperer) - A simple VIM plugin for AWS CodeWhisperer code completion support.
