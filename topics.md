@@ -982,7 +982,7 @@
 - [megagonlabs/ginza](https://github.com/megagonlabs/ginza) - A Japanese NLP Library using spaCy as framework based on Universal Dependencies
 - [kenjihiranabe/The-Art-of-Linear-Algebra](https://github.com/kenjihiranabe/The-Art-of-Linear-Algebra) - Graphic notes on Gilbert Strang's "Linear Algebra for Everyone"
 - [TheDotSource/Expand-TarBall](https://github.com/TheDotSource/Expand-TarBall) - Expand tarball archives (.tar.gz) natively with PowerShell with no dependencies.
-- [openai/triton](https://github.com/openai/triton) - Development repository for the Triton language and compiler
+- [triton-lang/triton](https://github.com/triton-lang/triton) - Development repository for the Triton language and compiler
 - [maestrith/AHK-Studio](https://github.com/maestrith/AHK-Studio) - Created with AHK Studio
 - [DmitryUlyanov/deep-image-prior](https://github.com/DmitryUlyanov/deep-image-prior) - Image restoration with neural networks but without learning.
 - [christophM/interpretable-ml-book](https://github.com/christophM/interpretable-ml-book) - Book about interpretable machine learning
