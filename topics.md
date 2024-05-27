@@ -920,6 +920,7 @@
 
 ## others 
 
+- [fujiwara/awslim](https://github.com/fujiwara/awslim) - A simplified alternative to the AWS CLI for limited use cases.
 - [google-research/timesfm](https://github.com/google-research/timesfm) - TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting.
 - [KindXiaoming/pykan](https://github.com/KindXiaoming/pykan) - Kolmogorov Arnold Networks
 - [mmikeww/AHK-v2-script-converter](https://github.com/mmikeww/AHK-v2-script-converter) - AHK v1 -&gt; v2 script converter
