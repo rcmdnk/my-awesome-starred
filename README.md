@@ -124,6 +124,7 @@
 
 ## Go 
 
+- [fujiwara/awslim](https://github.com/fujiwara/awslim) - A simplified alternative to the AWS CLI for limited use cases.
 - [plandex-ai/plandex](https://github.com/plandex-ai/plandex) - AI driven development in your terminal. Designed for large, real-world tasks.
 - [charmbracelet/vhs](https://github.com/charmbracelet/vhs) - Your CLI home video recorder 📼
 - [koki-develop/clive](https://github.com/koki-develop/clive) - ⚡ Automates terminal operations.
