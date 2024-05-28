@@ -522,6 +522,7 @@
 
 ## Rust 
 
+- [rhysd/cargo-husky](https://github.com/rhysd/cargo-husky) - Setup Git hooks automatically for cargo projects with :dog:
 - [microsoft/sudo](https://github.com/microsoft/sudo) - It's sudo, for Windows
 - [alacritty/alacritty](https://github.com/alacritty/alacritty) - A cross-platform, OpenGL terminal emulator.
 - [radekvit/coffee_break](https://github.com/radekvit/coffee_break) - Take a break while compiling.
