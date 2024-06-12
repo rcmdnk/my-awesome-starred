@@ -921,6 +921,7 @@
 
 ## others 
 
+- [google/mesop](https://github.com/google/mesop) - 
 - [rhysd/actionlint](https://github.com/rhysd/actionlint) - :octocat: Static checker for GitHub Actions workflow files
 - [fujiwara/awslim](https://github.com/fujiwara/awslim) - A simplified alternative to the AWS CLI for limited use cases.
 - [google-research/timesfm](https://github.com/google-research/timesfm) - TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting.
