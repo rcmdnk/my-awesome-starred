@@ -17,13 +17,13 @@
 - [Go](#go)
 - [HTML](#html)
 - [Haskell](#haskell)
+- [JSON](#json)
 - [Java](#java)
 - [JavaScript](#javascript)
 - [Julia](#julia)
 - [Jupyter Notebook](#jupyter-notebook)
 - [Lua](#lua)
 - [MATLAB](#matlab)
-- [Markdown](#markdown)
 - [Mojo](#mojo)
 - [Nim](#nim)
 - [Nix](#nix)
@@ -179,6 +179,10 @@
 
 - [lotz84/remote-house](https://github.com/lotz84/remote-house) - 話したい人々と話しかけられたい人々を繋げるWebアプリ
 
+## JSON 
+
+- [upptime/upptime](https://github.com/upptime/upptime) - ⬆️ GitHub Actions uptime monitor & status page by @AnandChowdhary
+
 ## Java 
 
 - [datahub-project/datahub](https://github.com/datahub-project/datahub) - The Metadata Platform for your Data Stack
@@ -275,10 +279,6 @@
 ## MATLAB 
 
 - [sccn/ICLabel](https://github.com/sccn/ICLabel) - Automatic EEG IC classification plugin for EEGLAB
-
-## Markdown 
-
-- [upptime/upptime](https://github.com/upptime/upptime) - ⬆️ GitHub Actions uptime monitor & status page by @AnandChowdhary
 
 ## Mojo 
 
