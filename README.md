@@ -116,6 +116,7 @@
 
 ## Cuda 
 
+- [NVIDIA/multi-gpu-programming-models](https://github.com/NVIDIA/multi-gpu-programming-models) - Examples demonstrating available options to program multiple GPUs in a single node or a cluster
 - [GooFit/GooFit](https://github.com/GooFit/GooFit) - Code repository for the massively-parallel framework for maximum-likelihood fits, implemented in CUDA/OpenMP
 
 ## Cython 
