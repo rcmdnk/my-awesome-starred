@@ -1086,7 +1086,7 @@
 - [mptre/yank](https://github.com/mptre/yank) - Yank terminal output to clipboard
 - [fossology/fossology](https://github.com/fossology/fossology) - FOSSology is an open source license compliance software system and toolkit.  As a toolkit you can run license, copyright and export control scans from the command line.  As a system, a database and we
 - [AGWA/git-crypt](https://github.com/AGWA/git-crypt) - Transparent file encryption in git
-- [emilengler/sysget](https://github.com/emilengler/sysget) - One package manager to rule them all
+- [cvengler/sysget](https://github.com/cvengler/sysget) - One package manager to rule them all
 - [pulumi/kubespy](https://github.com/pulumi/kubespy) - Tools for observing Kubernetes resources in real time, powered by Pulumi.
 - [cfenollosa/os-tutorial](https://github.com/cfenollosa/os-tutorial) - How to create an OS from scratch
 - [quantumlib/OpenFermion-Cirq](https://github.com/quantumlib/OpenFermion-Cirq) - Quantum circuits for simulations of quantum chemistry and materials.
