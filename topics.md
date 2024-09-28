@@ -106,6 +106,7 @@
 - [nlp](#nlp)
 - [node](#node)
 - [nodejs](#nodejs)
+- [numpy](#numpy)
 - [open-data](#open-data)
 - [open-source](#open-source)
 - [openai](#openai)
@@ -931,6 +932,10 @@
 - [GitSquared/edex-ui](https://github.com/GitSquared/edex-ui) - A cross-platform, customizable science fiction terminal emulator with advanced monitoring & touchscreen support.
 - [aksakalli/gtop](https://github.com/aksakalli/gtop) - System monitoring dashboard for terminal
 
+## numpy 
+
+- [cupy/cupy](https://github.com/cupy/cupy) - NumPy & SciPy for GPU
+
 ## open-data 
 
 - [japan-opendata/awesome-japan-opendata](https://github.com/japan-opendata/awesome-japan-opendata) - Awesome Japan Open Data - 日本のオープンデータ情報一覧・まとめ
@@ -1222,6 +1227,7 @@
 
 ## python 
 
+- [cupy/cupy](https://github.com/cupy/cupy) - NumPy & SciPy for GPU
 - [piskvorky/smart_open](https://github.com/piskvorky/smart_open) - Utils for streaming large files (S3, HDFS, gzip, bz2...)
 - [gradio-app/gradio](https://github.com/gradio-app/gradio) - Build and share delightful machine learning apps, all in Python. 🌟 Star to support our work!
 - [marimo-team/marimo](https://github.com/marimo-team/marimo) - A reactive notebook for Python — run reproducible experiments, execute as a script, deploy as an app, and version with git.
