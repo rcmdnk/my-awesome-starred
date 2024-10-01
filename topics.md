@@ -486,7 +486,6 @@
 - [whalebrew/whalebrew](https://github.com/whalebrew/whalebrew) - Homebrew, but with Docker images
 - [rancher/k3c](https://github.com/rancher/k3c) - Lightweight local container engine for container development
 - [dephell/dephell](https://github.com/dephell/dephell) - :package: :fire: Python project management. Manage packages: convert between formats, lock, install, resolve, isolate, test, build graph, show outdated, audit. Manage venvs, build package, bump versio
-- [quantumlib/OpenFermion](https://github.com/quantumlib/OpenFermion) - The electronic structure package for quantum computers.
 
 ## documentation 
 
