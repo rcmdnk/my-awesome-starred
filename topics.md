@@ -1229,6 +1229,7 @@
 
 ## python 
 
+- [boxed/mutmut](https://github.com/boxed/mutmut) - Mutation testing system
 - [cupy/cupy](https://github.com/cupy/cupy) - NumPy & SciPy for GPU
 - [piskvorky/smart_open](https://github.com/piskvorky/smart_open) - Utils for streaming large files (S3, HDFS, gzip, bz2...)
 - [gradio-app/gradio](https://github.com/gradio-app/gradio) - Build and share delightful machine learning apps, all in Python. 🌟 Star to support our work!
@@ -1504,6 +1505,7 @@
 
 ## testing 
 
+- [boxed/mutmut](https://github.com/boxed/mutmut) - Mutation testing system
 - [MishaKav/pytest-coverage-comment](https://github.com/MishaKav/pytest-coverage-comment) - Comments a pull request with the pytest code coverage badge and full report
 - [tadashi0713/howtheytest-jp](https://github.com/tadashi0713/howtheytest-jp) - 日本のソフトウェア企業のテスト・テスト自動化に関する資料をまとめています
 - [dephell/dephell](https://github.com/dephell/dephell) - :package: :fire: Python project management. Manage packages: convert between formats, lock, install, resolve, isolate, test, build graph, show outdated, audit. Manage venvs, build package, bump versio
