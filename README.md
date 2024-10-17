@@ -362,6 +362,7 @@
 
 ## Python 
 
+- [sentient-engineering/sentient](https://github.com/sentient-engineering/sentient) - the framework/ sdk that lets you build browser controlling agents in 3 lines of code. join chat @ https://discord.gg/umgnyQU2K8
 - [boxed/mutmut](https://github.com/boxed/mutmut) - Mutation testing system
 - [cupy/cupy](https://github.com/cupy/cupy) - NumPy & SciPy for GPU
 - [google/mesop](https://github.com/google/mesop) - Rapidly build AI apps in Python
