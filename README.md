@@ -362,6 +362,7 @@
 
 ## Python 
 
+- [awslabs/git-remote-s3](https://github.com/awslabs/git-remote-s3) - 
 - [getomni-ai/zerox](https://github.com/getomni-ai/zerox) - Zero shot pdf OCR with gpt-4o-mini
 - [sentient-engineering/sentient](https://github.com/sentient-engineering/sentient) - the framework/ sdk that lets you build browser controlling agents in 3 lines of code. join chat @ https://discord.gg/umgnyQU2K8
 - [boxed/mutmut](https://github.com/boxed/mutmut) - Mutation testing system
