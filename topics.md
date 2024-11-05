@@ -973,7 +973,7 @@
 ## others 
 
 - [awslabs/git-remote-s3](https://github.com/awslabs/git-remote-s3) - 
-- [getomni-ai/zerox](https://github.com/getomni-ai/zerox) - Zero shot pdf OCR with gpt-4o-mini
+- [getomni-ai/zerox](https://github.com/getomni-ai/zerox) - PDF to Markdown with vision models
 - [sentient-engineering/sentient](https://github.com/sentient-engineering/sentient) - the framework/ sdk that lets you build browser controlling agents in 3 lines of code. join chat @ https://discord.gg/umgnyQU2K8
 - [Kesin11/actions-timeline](https://github.com/Kesin11/actions-timeline) - An Action shows timeline of a workflow in a run summary.
 - [curzel-it/pipper](https://github.com/curzel-it/pipper) - App that allows users to keep a webview always visible on their screen, on top of other windows, like for watching youtube while working and stuff. Still a proof of concept
