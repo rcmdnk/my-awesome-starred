@@ -188,7 +188,7 @@
 
 ## Java 
 
-- [datahub-project/datahub](https://github.com/datahub-project/datahub) - The Metadata Platform for your Data Stack
+- [datahub-project/datahub](https://github.com/datahub-project/datahub) - The Metadata Platform for your Data and AI Stack
 - [data-integrations/google-cloud](https://github.com/data-integrations/google-cloud) - A collection of Google Cloud Platform (GCP) plugins
 
 ## JavaScript 
