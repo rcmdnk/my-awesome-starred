@@ -361,6 +361,7 @@
 
 ## Python 
 
+- [3b1b/manim](https://github.com/3b1b/manim) - Animation engine for explanatory math videos
 - [awslabs/git-remote-s3](https://github.com/awslabs/git-remote-s3) - 
 - [getomni-ai/zerox](https://github.com/getomni-ai/zerox) - PDF to Markdown with vision models
 - [sentient-engineering/sentient](https://github.com/sentient-engineering/sentient) - the framework/ sdk that lets you build browser controlling agents in 3 lines of code. join chat @ https://discord.gg/umgnyQU2K8
