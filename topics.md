@@ -1232,6 +1232,7 @@
 
 ## python 
 
+- [3b1b/manim](https://github.com/3b1b/manim) - Animation engine for explanatory math videos
 - [boxed/mutmut](https://github.com/boxed/mutmut) - Mutation testing system
 - [cupy/cupy](https://github.com/cupy/cupy) - NumPy & SciPy for GPU
 - [piskvorky/smart_open](https://github.com/piskvorky/smart_open) - Utils for streaming large files (S3, HDFS, gzip, bz2...)
