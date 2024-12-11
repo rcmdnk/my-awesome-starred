@@ -353,6 +353,7 @@
 
 ## compiler 
 
+- [benmusson/ahk2exe-action](https://github.com/benmusson/ahk2exe-action) - Compile AutoHotkey v1.1 and v2.0 scripts using Ahk2Exe.
 - [RustPython/RustPython](https://github.com/RustPython/RustPython) - A Python Interpreter written in Rust
 - [exaloop/codon](https://github.com/exaloop/codon) - A high-performance, zero-overhead, extensible Python compiler using LLVM
 - [erg-lang/erg](https://github.com/erg-lang/erg) - A statically typed language compatible with Python
