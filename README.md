@@ -357,6 +357,7 @@
 
 ## PowerShell 
 
+- [benmusson/ahk2exe-action](https://github.com/benmusson/ahk2exe-action) - Compile AutoHotkey v1.1 and v2.0 scripts using Ahk2Exe.
 - [TheDotSource/Expand-TarBall](https://github.com/TheDotSource/Expand-TarBall) - Expand tarball archives (.tar.gz) natively with PowerShell with no dependencies.
 - [microsoft/winget-pkgs](https://github.com/microsoft/winget-pkgs) - The Microsoft community Windows Package Manager manifest repository
 - [chocolatey-archive/chocolatey](https://github.com/chocolatey-archive/chocolatey) - [DEPRECATED - https://github.com/chocolatey/choco] Chocolatey NuGet - Like apt-get, but for windows.
