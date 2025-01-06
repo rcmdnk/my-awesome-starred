@@ -162,6 +162,7 @@
 
 - [plandex-ai/plandex](https://github.com/plandex-ai/plandex) - AI driven development in your terminal. Designed for large, real-world tasks.
 - [reorproject/reor](https://github.com/reorproject/reor) - Private & local AI personal knowledge management app for high entropy people.
+- [microsoft/autogen](https://github.com/microsoft/autogen) - A programming framework for agentic AI 🤖 PyPi: autogen-agentchat Discord: https://aka.ms/autogen-discord Office Hour: https://aka.ms/autogen-officehour
 - [AntonOsika/gpt-engineer](https://github.com/AntonOsika/gpt-engineer) - Platform to experiment with the AI Software Engineer. Terminal based. NOTE: Very different from https://gptengineer.app
 - [modularml/mojo](https://github.com/modularml/mojo) - The Mojo Programming Language
 - [visenger/awesome-mlops](https://github.com/visenger/awesome-mlops) - A curated list of references for MLOps
@@ -275,7 +276,6 @@
 ## chatbot 
 
 - [stackblitz/bolt.new](https://github.com/stackblitz/bolt.new) - Prompt, run, edit, and deploy full-stack web applications
-- [microsoft/autogen](https://github.com/microsoft/autogen) - A programming framework for agentic AI 🤖 PyPi: autogen-agentchat Discord: https://aka.ms/autogen-discord Office Hour: https://aka.ms/autogen-officehour
 - [xtekky/gpt4free](https://github.com/xtekky/gpt4free) - The official gpt4free repository | various collection of powerful language models
 - [ayaka14732/ChatGPTAPIFree](https://github.com/ayaka14732/ChatGPTAPIFree) - A simple and open-source proxy API that allows you to access OpenAI's ChatGPT API for free!
 
@@ -285,7 +285,7 @@
 - [anc95/ChatGPT-CodeReview](https://github.com/anc95/ChatGPT-CodeReview) - 🐥 A code review bot powered by ChatGPT
 - [microsoft/autogen](https://github.com/microsoft/autogen) - A programming framework for agentic AI 🤖 PyPi: autogen-agentchat Discord: https://aka.ms/autogen-discord Office Hour: https://aka.ms/autogen-officehour
 - [OpenInterpreter/open-interpreter](https://github.com/OpenInterpreter/open-interpreter) - A natural language interface for computers
-- [iryna-kondr/scikit-llm](https://github.com/iryna-kondr/scikit-llm) - Seamlessly integrate LLMs into scikit-learn.
+- [BeastByteAI/scikit-llm](https://github.com/BeastByteAI/scikit-llm) - Seamlessly integrate LLMs into scikit-learn.
 - [sisbell/chatgpt-plugin-store](https://github.com/sisbell/chatgpt-plugin-store) - ChatGPT Plugin Store List
 - [xtekky/gpt4free](https://github.com/xtekky/gpt4free) - The official gpt4free repository | various collection of powerful language models
 - [Torantulino/AI-Functions](https://github.com/Torantulino/AI-Functions) - AI-Powered Function Magic: Never code again with GPT models!
@@ -448,7 +448,7 @@
 - [gradio-app/gradio](https://github.com/gradio-app/gradio) - Build and share delightful machine learning apps, all in Python. 🌟 Star to support our work!
 - [eduardoleao052/js-pytorch](https://github.com/eduardoleao052/js-pytorch) - A JavaScript library like PyTorch, with GPU acceleration.
 - [google/magika](https://github.com/google/magika) - Detect file content types with deep learning
-- [iryna-kondr/scikit-llm](https://github.com/iryna-kondr/scikit-llm) - Seamlessly integrate LLMs into scikit-learn.
+- [BeastByteAI/scikit-llm](https://github.com/BeastByteAI/scikit-llm) - Seamlessly integrate LLMs into scikit-learn.
 - [camel-ai/camel](https://github.com/camel-ai/camel) - 🐫 CAMEL: Finding the Scaling Law of Agents. The first and the best multi-agent framework. https://www.camel-ai.org
 - [FMInference/FlexLLMGen](https://github.com/FMInference/FlexLLMGen) - Running large language models on a single GPU for throughput-oriented scenarios.
 - [SuperBruceJia/EEG-DL](https://github.com/SuperBruceJia/EEG-DL) - A Deep Learning library for EEG Tasks (Signals) Classification, based on TensorFlow.
@@ -539,6 +539,7 @@
 
 ## framework 
 
+- [microsoft/autogen](https://github.com/microsoft/autogen) - A programming framework for agentic AI 🤖 PyPi: autogen-agentchat Discord: https://aka.ms/autogen-discord Office Hour: https://aka.ms/autogen-officehour
 - [run-llama/llama_index](https://github.com/run-llama/llama_index) - LlamaIndex is a data framework for your LLM applications
 - [earthly/earthly](https://github.com/earthly/earthly) - Super simple build framework with fast, repeatable builds and an instantly familiar syntax – like Dockerfile and Makefile had a baby.
 - [niieani/bash-oo-framework](https://github.com/niieani/bash-oo-framework) - Bash Infinity is a modern standard library / framework / boilerplate for Bash
@@ -794,7 +795,7 @@
 - [madox2/vim-ai](https://github.com/madox2/vim-ai) - AI-powered code assistant for Vim. OpenAI and ChatGPT plugin for Vim and Neovim.
 - [plandex-ai/plandex](https://github.com/plandex-ai/plandex) - AI driven development in your terminal. Designed for large, real-world tasks.
 - [microsoft/UFO](https://github.com/microsoft/UFO) - A UI-Focused Agent for Windows OS Interaction.
-- [iryna-kondr/scikit-llm](https://github.com/iryna-kondr/scikit-llm) - Seamlessly integrate LLMs into scikit-learn.
+- [BeastByteAI/scikit-llm](https://github.com/BeastByteAI/scikit-llm) - Seamlessly integrate LLMs into scikit-learn.
 - [run-llama/llama_index](https://github.com/run-llama/llama_index) - LlamaIndex is a data framework for your LLM applications
 
 ## low-code 
@@ -813,7 +814,7 @@
 - [Eventual-Inc/Daft](https://github.com/Eventual-Inc/Daft) - Distributed data engine for Python/SQL designed for the cloud, powered by Rust
 - [kyegomez/BitNet](https://github.com/kyegomez/BitNet) - Implementation of "BitNet: Scaling 1-bit Transformers for Large Language Models" in pytorch
 - [microsoft/OpenAIWorkshop](https://github.com/microsoft/OpenAIWorkshop) - workshop materials to build intelligent solutions on Open AI
-- [iryna-kondr/scikit-llm](https://github.com/iryna-kondr/scikit-llm) - Seamlessly integrate LLMs into scikit-learn.
+- [BeastByteAI/scikit-llm](https://github.com/BeastByteAI/scikit-llm) - Seamlessly integrate LLMs into scikit-learn.
 - [raphaelvallat/antropy](https://github.com/raphaelvallat/antropy) - AntroPy: entropy and complexity of (EEG) time-series in Python
 - [DamRsn/NeuralNote](https://github.com/DamRsn/NeuralNote) - Audio Plugin for Audio to MIDI transcription using deep learning.
 - [modularml/mojo](https://github.com/modularml/mojo) - The Mojo Programming Language
@@ -1406,7 +1407,7 @@
 
 ## scikit-learn 
 
-- [iryna-kondr/scikit-llm](https://github.com/iryna-kondr/scikit-llm) - Seamlessly integrate LLMs into scikit-learn.
+- [BeastByteAI/scikit-llm](https://github.com/BeastByteAI/scikit-llm) - Seamlessly integrate LLMs into scikit-learn.
 - [ml-tooling/best-of-ml-python](https://github.com/ml-tooling/best-of-ml-python) - 🏆 A ranked list of awesome machine learning Python libraries. Updated weekly.
 
 ## security 
