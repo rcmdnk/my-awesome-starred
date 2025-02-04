@@ -464,7 +464,7 @@
 - [PyGithub/PyGithub](https://github.com/PyGithub/PyGithub) - Typed interactions with the GitHub API v3
 - [tslearn-team/tslearn](https://github.com/tslearn-team/tslearn) - The machine learning toolkit for time series analysis in Python
 - [WorksApplications/SudachiPy](https://github.com/WorksApplications/SudachiPy) - Python version of Sudachi, a Japanese tokenizer.
-- [microsoft/DeepSpeed](https://github.com/microsoft/DeepSpeed) - DeepSpeed is a deep learning optimization library that makes distributed training and inference easy, efficient, and effective.
+- [deepspeedai/DeepSpeed](https://github.com/deepspeedai/DeepSpeed) - DeepSpeed is a deep learning optimization library that makes distributed training and inference easy, efficient, and effective.
 - [vangorra/python_withings_api](https://github.com/vangorra/python_withings_api) - Library for the Withings Health API
 - [withings-sas/api-oauth2-python](https://github.com/withings-sas/api-oauth2-python) - Python sample code for OAuth2
 - [home-assistant/core](https://github.com/home-assistant/core) - :house_with_garden: Open source home automation that puts local control and privacy first.
