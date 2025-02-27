@@ -1245,9 +1245,9 @@
 
 ## python 
 
+- [cupy/cupy](https://github.com/cupy/cupy) - NumPy & SciPy for GPU
 - [3b1b/manim](https://github.com/3b1b/manim) - Animation engine for explanatory math videos
 - [boxed/mutmut](https://github.com/boxed/mutmut) - Mutation testing system
-- [cupy/cupy](https://github.com/cupy/cupy) - NumPy & SciPy for GPU
 - [piskvorky/smart_open](https://github.com/piskvorky/smart_open) - Utils for streaming large files (S3, HDFS, gzip, bz2...)
 - [gradio-app/gradio](https://github.com/gradio-app/gradio) - Build and share delightful machine learning apps, all in Python. 🌟 Star to support our work!
 - [marimo-team/marimo](https://github.com/marimo-team/marimo) - A reactive notebook for Python — run reproducible experiments, execute as a script, deploy as an app, and version with git.
