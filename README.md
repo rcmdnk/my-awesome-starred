@@ -368,12 +368,12 @@
 
 ## Python 
 
+- [cupy/cupy](https://github.com/cupy/cupy) - NumPy & SciPy for GPU
 - [openai/swarm](https://github.com/openai/swarm) - Educational framework exploring ergonomic, lightweight multi-agent orchestration. Managed by OpenAI Solution team.
 - [3b1b/manim](https://github.com/3b1b/manim) - Animation engine for explanatory math videos
 - [awslabs/git-remote-s3](https://github.com/awslabs/git-remote-s3) - 
 - [sentient-engineering/sentient](https://github.com/sentient-engineering/sentient) - the framework/ sdk that lets you build browser controlling agents in 3 lines of code. join chat @ https://discord.gg/umgnyQU2K8
 - [boxed/mutmut](https://github.com/boxed/mutmut) - Mutation testing system
-- [cupy/cupy](https://github.com/cupy/cupy) - NumPy & SciPy for GPU
 - [google/mesop](https://github.com/google/mesop) - Rapidly build AI apps in Python
 - [google-research/timesfm](https://github.com/google-research/timesfm) - TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting.
 - [piskvorky/smart_open](https://github.com/piskvorky/smart_open) - Utils for streaming large files (S3, HDFS, gzip, bz2...)
