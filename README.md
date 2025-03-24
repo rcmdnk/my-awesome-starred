@@ -367,6 +367,7 @@
 
 ## Python 
 
+- [mindverse/Second-Me](https://github.com/mindverse/Second-Me) - Train your AI self, amplify you, bridge the world
 - [Aider-AI/aider](https://github.com/Aider-AI/aider) - aider is AI pair programming in your terminal
 - [facebookresearch/schedule_free](https://github.com/facebookresearch/schedule_free) - Schedule-Free Optimization in PyTorch
 - [cupy/cupy](https://github.com/cupy/cupy) - NumPy & SciPy for GPU
