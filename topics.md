@@ -46,6 +46,7 @@
 - [database](#database)
 - [deep-learning](#deep-learning)
 - [design](#design)
+- [development](#development)
 - [devops](#devops)
 - [django](#django)
 - [docker](#docker)
@@ -473,6 +474,10 @@
 ## design 
 
 - [alyssaxuu/screenity](https://github.com/alyssaxuu/screenity) - The free and privacy-friendly screen recorder with no limits 🎥
+
+## development 
+
+- [xtermjs/xterm.js](https://github.com/xtermjs/xterm.js) - A terminal for the web
 
 ## devops 
 
