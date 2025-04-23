@@ -388,7 +388,7 @@
 - [marimo-team/marimo](https://github.com/marimo-team/marimo) - A reactive notebook for Python — run reproducible experiments, query with SQL, execute as a script, deploy as an app, and version with git. All in a modern, AI-native editor.
 - [kyegomez/BitNet](https://github.com/kyegomez/BitNet) - Implementation of "BitNet: Scaling 1-bit Transformers for Large Language Models" in pytorch
 - [tangboxuan/reverse-python-exe](https://github.com/tangboxuan/reverse-python-exe) - Reverse engineer python exe
-- [microsoft/UFO](https://github.com/microsoft/UFO) - A UI-Focused Agent for Windows OS Interaction.
+- [microsoft/UFO](https://github.com/microsoft/UFO) - The Desktop AgentOS.
 - [google/magika](https://github.com/google/magika) - Detect file content types with deep learning
 - [awslabs/aws-icons-for-plantuml](https://github.com/awslabs/aws-icons-for-plantuml) - PlantUML sprites, macros, and other includes for Amazon Web Services services and resources
 - [ebeweber/flake8-mutable](https://github.com/ebeweber/flake8-mutable) - flake8 extension for mutable default arguments
