@@ -207,7 +207,7 @@
 
 ## automation 
 
-- [microsoft/UFO](https://github.com/microsoft/UFO) - A UI-Focused Agent for Windows OS Interaction.
+- [microsoft/UFO](https://github.com/microsoft/UFO) - The Desktop AgentOS.
 - [antonbabenko/pre-commit-terraform](https://github.com/antonbabenko/pre-commit-terraform) - pre-commit git hooks to take care of Terraform configurations 🇺🇦
 - [github/command](https://github.com/github/command) - IssueOps commands in GitHub Actions
 - [automatisch/automatisch](https://github.com/automatisch/automatisch) - The open source Zapier alternative. Build workflow automation without spending time and money.
@@ -807,7 +807,7 @@
 - [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3.3, DeepSeek-R1, Phi-4, Gemma 3, Mistral Small 3.1 and other large language models.
 - [madox2/vim-ai](https://github.com/madox2/vim-ai) - AI-powered code assistant for Vim. OpenAI and ChatGPT plugin for Vim and Neovim.
 - [plandex-ai/plandex](https://github.com/plandex-ai/plandex) - Open source AI coding agent. Designed for large projects and real world tasks.
-- [microsoft/UFO](https://github.com/microsoft/UFO) - A UI-Focused Agent for Windows OS Interaction.
+- [microsoft/UFO](https://github.com/microsoft/UFO) - The Desktop AgentOS.
 - [BeastByteAI/scikit-llm](https://github.com/BeastByteAI/scikit-llm) - Seamlessly integrate LLMs into scikit-learn.
 - [run-llama/llama_index](https://github.com/run-llama/llama_index) - LlamaIndex is the leading framework for building LLM-powered agents over your data.
 
@@ -1609,7 +1609,7 @@
 
 - [microsoft/sudo](https://github.com/microsoft/sudo) - It's sudo, for Windows
 - [alacritty/alacritty](https://github.com/alacritty/alacritty) - A cross-platform, OpenGL terminal emulator.
-- [microsoft/UFO](https://github.com/microsoft/UFO) - A UI-Focused Agent for Windows OS Interaction.
+- [microsoft/UFO](https://github.com/microsoft/UFO) - The Desktop AgentOS.
 - [microsoft/inshellisense](https://github.com/microsoft/inshellisense) - IDE style command line auto complete
 - [DevToys-app/DevToys](https://github.com/DevToys-app/DevToys) - A Swiss Army knife for developers.
 - [pit-ray/win-vind](https://github.com/pit-ray/win-vind) - You can operate Windows with key bindings like Vim.
