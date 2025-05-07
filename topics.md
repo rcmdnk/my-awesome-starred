@@ -1333,7 +1333,7 @@
 - [CoatiSoftware/Sourcetrail](https://github.com/CoatiSoftware/Sourcetrail) - Sourcetrail - free and open-source interactive source explorer
 - [pre-commit/pre-commit](https://github.com/pre-commit/pre-commit) - A framework for managing and maintaining multi-language pre-commit hooks.
 - [networkx/networkx](https://github.com/networkx/networkx) - Network Analysis in Python
-- [Qaqarot/qaqarot](https://github.com/Qaqarot/qaqarot) - Quantum Computer Library for Everyone
+- [blueqat/blueqatSDK](https://github.com/blueqat/blueqatSDK) - Quantum Computer Library for Everyone
 - [python-poetry/poetry](https://github.com/python-poetry/poetry) - Python packaging and dependency management made easy
 - [tbicr/django-pg-zero-downtime-migrations](https://github.com/tbicr/django-pg-zero-downtime-migrations) - Django postgresql backend that apply migrations with respect to database locks
 - [instillai/TensorFlow-Course](https://github.com/instillai/TensorFlow-Course) - :satellite: Simple and ready-to-use tutorials for TensorFlow
