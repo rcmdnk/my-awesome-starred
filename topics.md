@@ -153,6 +153,7 @@
 - [terraform](#terraform)
 - [testing](#testing)
 - [typescript](#typescript)
+- [ui](#ui)
 - [vim](#vim)
 - [vue](#vue)
 - [web](#web)
@@ -1563,6 +1564,11 @@
 - [taniarascia/takenote](https://github.com/taniarascia/takenote) - 📝  ‎ A web-based notes app for developers.
 - [onivim/oni](https://github.com/onivim/oni) - Oni: Modern Modal Editing - powered by Neovim
 - [xtermjs/xterm.js](https://github.com/xtermjs/xterm.js) - A terminal for the web
+
+## ui 
+
+- [gradio-app/gradio](https://github.com/gradio-app/gradio) - Build and share delightful machine learning apps, all in Python. 🌟 Star to support our work!
+- [onivim/oni](https://github.com/onivim/oni) - Oni: Modern Modal Editing - powered by Neovim
 
 ## vim 
 
