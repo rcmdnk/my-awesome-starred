@@ -178,7 +178,6 @@
 - [tadashi0713/howtheytest-jp](https://github.com/tadashi0713/howtheytest-jp) - 日本のソフトウェア企業のテスト・テスト自動化に関する資料をまとめています
 - [The-Japan-DataScientist-Society/100knocks-preprocess](https://github.com/The-Japan-DataScientist-Society/100knocks-preprocess) - データサイエンス100本ノック（構造化データ加工編）
 - [fossology/fossology](https://github.com/fossology/fossology) - FOSSology is an open source license compliance software system and toolkit.  As a toolkit you can run license, copyright and export control scans from the command line.  As a system, a database and we
-- [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) - :books: Freely available programming books
 - [georgebrock/1pass](https://github.com/georgebrock/1pass) - A command line interface for 1Password
 
 ## Haskell 
@@ -517,6 +516,7 @@
 - [google/tcp_killer](https://github.com/google/tcp_killer) - Shuts down a TCP connection on Linux or macOS. Local and remote endpoint arguments can be copied from the output of 'netstat -lanW'.
 - [django/channels](https://github.com/django/channels) - Developer-friendly asynchrony for Django
 - [gleitz/howdoi](https://github.com/gleitz/howdoi) - instant coding answers via the command line
+- [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) - :books: Freely available programming books
 - [belltailjp/selective_search_py](https://github.com/belltailjp/selective_search_py) - Python-based implementation of the Selective Search for Object Recognition.
 - [lra/mackup](https://github.com/lra/mackup) - Keep your application settings in sync (OS X/Linux)
 - [grimlck/github_helpers](https://github.com/grimlck/github_helpers) - Little helper scripts to talk to GitHub from the command line
