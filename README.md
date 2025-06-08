@@ -66,7 +66,7 @@
 - [form-dev/form](https://github.com/form-dev/form) - The FORM project for symbolic manipulation of very big expressions
 - [haampie/libtree](https://github.com/haampie/libtree) - ldd as a tree
 - [Genymobile/scrcpy](https://github.com/Genymobile/scrcpy) - Display and control your Android device
-- [netdata/netdata](https://github.com/netdata/netdata) - X-Ray Vision for your infrastructure!
+- [netdata/netdata](https://github.com/netdata/netdata) - The fastest path to AI-powered full stack observability, even for lean teams.
 - [torvalds/linux](https://github.com/torvalds/linux) - Linux kernel source tree
 - [joan2937/pigpio](https://github.com/joan2937/pigpio) - pigpio is a C library for the Raspberry which allows control of the General Purpose Input Outputs (GPIO).
 - [andreiva/raspberry-pi-bme280](https://github.com/andreiva/raspberry-pi-bme280) - Raspberry Pi BME280 driver
