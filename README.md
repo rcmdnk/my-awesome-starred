@@ -457,7 +457,7 @@
 - [bchao1/bullet](https://github.com/bchao1/bullet) - 🚅 Interactive prompts made simple. Build a prompt like stacking blocks.
 - [megagonlabs/ginza](https://github.com/megagonlabs/ginza) - A Japanese NLP Library using spaCy as framework based on Universal Dependencies
 - [EmuKit/emukit](https://github.com/EmuKit/emukit) - A Python-based toolbox of various methods in decision making, uncertainty quantification and statistical emulation: multi-fidelity, experimental design, Bayesian optimisation, Bayesian quadrature, etc
-- [huggingface/transformers](https://github.com/huggingface/transformers) - 🤗 Transformers: State-of-the-art Machine Learning for Pytorch, TensorFlow, and JAX.
+- [huggingface/transformers](https://github.com/huggingface/transformers) - 🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training.
 - [nalepae/pandarallel](https://github.com/nalepae/pandarallel) - A simple and efficient tool to parallelize Pandas operations on all available CPUs
 - [optuna/optuna](https://github.com/optuna/optuna) - A hyperparameter optimization framework
 - [vshymanskyy/blynk-library-python](https://github.com/vshymanskyy/blynk-library-python) - Blynk library for Python. Works with Python 2, Python 3, MicroPython.
