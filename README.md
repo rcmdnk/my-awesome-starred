@@ -552,6 +552,7 @@
 
 ## Rust 
 
+- [KOBA789/human-in-the-loop](https://github.com/KOBA789/human-in-the-loop) - An MCP (Model Context Protocol) server that allows AI assistants to ask questions to humans via Discord.
 - [rustcoreutils/posixutils-rs](https://github.com/rustcoreutils/posixutils-rs) - Core POSIX command line utilities in safe Rust
 - [RustPython/RustPython](https://github.com/RustPython/RustPython) - A Python Interpreter written in Rust
 - [rhysd/cargo-husky](https://github.com/rhysd/cargo-husky) - Setup Git hooks automatically for cargo projects with :dog:
