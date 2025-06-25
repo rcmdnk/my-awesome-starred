@@ -1284,6 +1284,7 @@
 
 ## python 
 
+- [astral-sh/uv](https://github.com/astral-sh/uv) - An extremely fast Python package and project manager, written in Rust.
 - [cupy/cupy](https://github.com/cupy/cupy) - NumPy & SciPy for GPU
 - [3b1b/manim](https://github.com/3b1b/manim) - Animation engine for explanatory math videos
 - [boxed/mutmut](https://github.com/boxed/mutmut) - Mutation testing system
