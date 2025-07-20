@@ -27,6 +27,7 @@
 - [chrome](#chrome)
 - [chrome-extension](#chrome-extension)
 - [cli](#cli)
+- [cms](#cms)
 - [code-quality](#code-quality)
 - [code-review](#code-review)
 - [compiler](#compiler)
@@ -354,6 +355,10 @@
 - [asciimoo/wuzz](https://github.com/asciimoo/wuzz) - Interactive cli tool for HTTP inspection
 - [ryanmjacobs/c](https://github.com/ryanmjacobs/c) - Compile and execute C "scripts" in one go!
 - [asciinema/asciinema](https://github.com/asciinema/asciinema) - Terminal session recorder 📹
+
+## cms 
+
+- [gohugoio/hugo](https://github.com/gohugoio/hugo) - The world’s fastest framework for building websites.
 
 ## code-quality 
 
