@@ -1016,6 +1016,7 @@
 
 ## others 
 
+- [leonardsellem/n8n-mcp-server](https://github.com/leonardsellem/n8n-mcp-server) - MCP server that provides tools and resources for interacting with n8n API
 - [skanehira/ghost](https://github.com/skanehira/ghost) - Simple shell command management tool.
 - [KOBA789/human-in-the-loop](https://github.com/KOBA789/human-in-the-loop) - An MCP (Model Context Protocol) server that allows AI assistants to ask questions to humans via Discord.
 - [openai/simple-evals](https://github.com/openai/simple-evals) - 
