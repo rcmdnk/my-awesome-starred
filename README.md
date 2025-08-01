@@ -509,9 +509,9 @@
 - [google-research/bert](https://github.com/google-research/bert) - TensorFlow code and pre-trained models for BERT
 - [tbicr/django-pg-zero-downtime-migrations](https://github.com/tbicr/django-pg-zero-downtime-migrations) - Django postgresql backend that apply migrations with respect to database locks
 - [quantumlib/OpenFermion-Cirq](https://github.com/quantumlib/OpenFermion-Cirq) - Quantum circuits for simulations of quantum chemistry and materials.
-- [quantumlib/OpenFermion](https://github.com/quantumlib/OpenFermion) - The electronic structure package for quantum computers.
+- [quantumlib/OpenFermion](https://github.com/quantumlib/OpenFermion) - Python package for compiling and analyzing quantum algorithms to simulate electronic structures.
 - [nvbn/thefuck](https://github.com/nvbn/thefuck) - Magnificent app which corrects your previous console command.
-- [quantumlib/Cirq](https://github.com/quantumlib/Cirq) - An open-source Python framework for creating, editing, and invoking Noisy Intermediate-Scale Quantum (NISQ) circuits.
+- [quantumlib/Cirq](https://github.com/quantumlib/Cirq) - Python framework for creating, editing, and invoking Noisy Intermediate-Scale Quantum (NISQ) circuits.
 - [googleapis/google-api-python-client](https://github.com/googleapis/google-api-python-client) - 🐍 The official Python client library for Google's discovery based APIs.
 - [Chalarangelo/30-seconds-of-python](https://github.com/Chalarangelo/30-seconds-of-python) - Short Python code snippets for all your development needs
 - [0xAX/linux-insides](https://github.com/0xAX/linux-insides) - A little bit about a linux kernel
