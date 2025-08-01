@@ -165,6 +165,7 @@
 - [webapp](#webapp)
 - [website](#website)
 - [windows](#windows)
+- [zsh](#zsh)
 
 ## ai 
 
@@ -201,7 +202,7 @@
 - [gotify/server](https://github.com/gotify/server) - A simple server for sending and receiving messages in real-time per WebSocket. (Includes a sleek web-ui)
 - [neovim/neovim](https://github.com/neovim/neovim) - Vim-fork focused on extensibility and usability
 - [gulyasm/jsonui](https://github.com/gulyasm/jsonui) - jsonui is an interactive JSON explorer on your command line
-- [quantumlib/Cirq](https://github.com/quantumlib/Cirq) - An open-source Python framework for creating, editing, and invoking Noisy Intermediate-Scale Quantum (NISQ) circuits.
+- [quantumlib/Cirq](https://github.com/quantumlib/Cirq) - Python framework for creating, editing, and invoking Noisy Intermediate-Scale Quantum (NISQ) circuits.
 - [slatedocs/slate](https://github.com/slatedocs/slate) - Beautiful static documentation for your API
 
 ## arduino 
@@ -680,7 +681,7 @@
 - [infracost/infracost](https://github.com/infracost/infracost) - Cloud cost estimates for Terraform in pull requests💰📉 Shift FinOps Left!
 - [data-integrations/google-cloud](https://github.com/data-integrations/google-cloud) - A collection of Google Cloud Platform (GCP) plugins
 - [google-research/bert](https://github.com/google-research/bert) - TensorFlow code and pre-trained models for BERT
-- [quantumlib/Cirq](https://github.com/quantumlib/Cirq) - An open-source Python framework for creating, editing, and invoking Noisy Intermediate-Scale Quantum (NISQ) circuits.
+- [quantumlib/Cirq](https://github.com/quantumlib/Cirq) - Python framework for creating, editing, and invoking Noisy Intermediate-Scale Quantum (NISQ) circuits.
 
 ## hacktoberfest 
 
@@ -787,7 +788,7 @@
 ## jupyter-notebook 
 
 - [lambdalisue/jupyter-vim-binding](https://github.com/lambdalisue/jupyter-vim-binding) - Jupyter meets Vim. Vimmer will fall in love.
-- [quantumlib/OpenFermion](https://github.com/quantumlib/OpenFermion) - The electronic structure package for quantum computers.
+- [quantumlib/OpenFermion](https://github.com/quantumlib/OpenFermion) - Python package for compiling and analyzing quantum algorithms to simulate electronic structures.
 
 ## kubernetes 
 
@@ -1386,9 +1387,9 @@
 - [python-poetry/poetry](https://github.com/python-poetry/poetry) - Python packaging and dependency management made easy
 - [tbicr/django-pg-zero-downtime-migrations](https://github.com/tbicr/django-pg-zero-downtime-migrations) - Django postgresql backend that apply migrations with respect to database locks
 - [instillai/TensorFlow-Course](https://github.com/instillai/TensorFlow-Course) - :satellite: Simple and ready-to-use tutorials for TensorFlow
-- [quantumlib/OpenFermion](https://github.com/quantumlib/OpenFermion) - The electronic structure package for quantum computers.
+- [quantumlib/OpenFermion](https://github.com/quantumlib/OpenFermion) - Python package for compiling and analyzing quantum algorithms to simulate electronic structures.
 - [nvbn/thefuck](https://github.com/nvbn/thefuck) - Magnificent app which corrects your previous console command.
-- [quantumlib/Cirq](https://github.com/quantumlib/Cirq) - An open-source Python framework for creating, editing, and invoking Noisy Intermediate-Scale Quantum (NISQ) circuits.
+- [quantumlib/Cirq](https://github.com/quantumlib/Cirq) - Python framework for creating, editing, and invoking Noisy Intermediate-Scale Quantum (NISQ) circuits.
 
 ## python3 
 
@@ -1675,6 +1676,13 @@
 - [microsoft/terminal](https://github.com/microsoft/terminal) - The new Windows Terminal and the original Windows console host, all in the same place!
 - [GitSquared/edex-ui](https://github.com/GitSquared/edex-ui) - A cross-platform, customizable science fiction terminal emulator with advanced monitoring & touchscreen support.
 - [jlevy/the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) - Master the command line, in one page
+
+## zsh 
+
+- [direnv/direnv](https://github.com/direnv/direnv) - unclutter your .profile
+- [microsoft/inshellisense](https://github.com/microsoft/inshellisense) - IDE style command line auto complete
+- [withfig/autocomplete](https://github.com/withfig/autocomplete) - IDE-style autocomplete for your existing terminal & shell
+- [iridakos/goto](https://github.com/iridakos/goto) - Alias and navigate to directories with tab completion in Linux
 
 
 ## License
