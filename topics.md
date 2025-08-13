@@ -123,6 +123,7 @@
 - [p2p](#p2p)
 - [package-manager](#package-manager)
 - [parsing](#parsing)
+- [physics](#physics)
 - [postgresql](#postgresql)
 - [powershell](#powershell)
 - [privacy](#privacy)
@@ -1196,7 +1197,6 @@
 - [ssut/py-googletrans](https://github.com/ssut/py-googletrans) - (unofficial) Googletrans: Free and Unlimited Google translate API for Python. Translates totally free of charge.
 - [ookamiinc/kinto](https://github.com/ookamiinc/kinto) - 均等 — Kinto is a Japanese font family adapted to match size & balance with Latin characters in user interfaces. A project based off Google Noto fonts.
 - [matsuolab-edu/dl4us](https://github.com/matsuolab-edu/dl4us) - 
-- [GooFit/GooFit](https://github.com/GooFit/GooFit) - Code repository for the massively-parallel framework for maximum-likelihood fits, implemented in CUDA/OpenMP
 - [RomuloOliveira/commit-messages-guide](https://github.com/RomuloOliveira/commit-messages-guide) - A guide to understand the importance of commit messages and how to write them well
 - [lemonade-command/lemonade](https://github.com/lemonade-command/lemonade) - Lemonade is a remote utility tool. (copy, paste and open browser) over TCP.
 - [qosf/awesome-quantum-software](https://github.com/qosf/awesome-quantum-software) - Curated list of open-source quantum software projects.
@@ -1286,6 +1286,10 @@
 ## parsing 
 
 - [zesterer/chumsky](https://github.com/zesterer/chumsky) - Write expressive, high-performance parsers with ease.
+
+## physics 
+
+- [GooFit/GooFit](https://github.com/GooFit/GooFit) - Code repository for the massively-parallel framework for maximum-likelihood fits, implemented in CUDA/OpenMP
 
 ## postgresql 
 
