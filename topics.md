@@ -112,6 +112,7 @@
 - [node](#node)
 - [nodejs](#nodejs)
 - [numpy](#numpy)
+- [obsidian-md](#obsidian-md)
 - [obsidian-plugin](#obsidian-plugin)
 - [open-data](#open-data)
 - [open-source](#open-source)
@@ -992,6 +993,10 @@
 
 - [cupy/cupy](https://github.com/cupy/cupy) - NumPy & SciPy for GPU
 - [exaloop/codon](https://github.com/exaloop/codon) - A high-performance, zero-overhead, extensible Python compiler with built-in NumPy support
+
+## obsidian-md 
+
+- [pjeby/hot-reload](https://github.com/pjeby/hot-reload) - Automatically reload Obsidian plugins in development when their files are changed
 
 ## obsidian-plugin 
 
