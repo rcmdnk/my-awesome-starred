@@ -278,6 +278,7 @@
 
 ## Lua 
 
+- [olimorris/codecompanion.nvim](https://github.com/olimorris/codecompanion.nvim) - ✨ AI Coding, Vim Style
 - [catppuccin/nvim](https://github.com/catppuccin/nvim) - 🍨 Soothing pastel theme for (Neo)vim
 - [folke/tokyonight.nvim](https://github.com/folke/tokyonight.nvim) - 🏙  A clean, dark Neovim theme written in Lua, with support for lsp, treesitter and lots of plugins. Includes additional themes for Kitty, Alacritty, iTerm and Fish.
 - [epwalsh/obsidian.nvim](https://github.com/epwalsh/obsidian.nvim) - Obsidian 🤝 Neovim
@@ -628,6 +629,7 @@
 
 ## TypeScript 
 
+- [d-kimuson/claude-code-viewer](https://github.com/d-kimuson/claude-code-viewer) - A full-featured web-based Claude Code client that provides complete interactive functionality for managing Claude Code projects
 - [openai/agents.md](https://github.com/openai/agents.md) - AGENTS.md — a simple, open format for guiding coding agents
 - [leonardsellem/n8n-mcp-server](https://github.com/leonardsellem/n8n-mcp-server) - MCP server that provides tools and resources for interacting with n8n API
 - [aws-samples/generative-ai-use-cases](https://github.com/aws-samples/generative-ai-use-cases) - Application implementation with business use cases for safely utilizing generative AI in business operations
