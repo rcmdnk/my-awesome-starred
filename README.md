@@ -317,6 +317,7 @@
 
 ## Others 
 
+- [PicoTrex/Awesome-Nano-Banana-images](https://github.com/PicoTrex/Awesome-Nano-Banana-images) - A curated collection of fun and creative examples generated with Nano Banana🍌, Gemini-2.5-flash-image based model. This repository showcases diverse AI-generated visuals and prompts, highlighting the 
 - [japan-opendata/awesome-japan-opendata](https://github.com/japan-opendata/awesome-japan-opendata) - Awesome Japan Open Data - 日本のオープンデータ情報一覧・まとめ
 - [yt-dlp/Pyinstaller-Builds](https://github.com/yt-dlp/Pyinstaller-Builds) - PyInstaller Builds for yt-dlp
 - [sisbell/chatgpt-plugin-store](https://github.com/sisbell/chatgpt-plugin-store) - ChatGPT Plugin Store List
