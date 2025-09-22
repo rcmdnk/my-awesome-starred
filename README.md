@@ -559,8 +559,9 @@
 
 ## Rust 
 
+- [bahdotsh/wrkflw](https://github.com/bahdotsh/wrkflw) - Validate and Run GitHub Actions locally.
 - [dora-rs/dora](https://github.com/dora-rs/dora) - DORA (Dataflow-Oriented Robotic Architecture) is middleware designed to streamline and simplify the creation of AI-based robotic applications. It offers low latency, composable, and distributed datafl
-- [skanehira/ghost](https://github.com/skanehira/ghost) - Simple shell command management tool.
+- [skanehira/ghost](https://github.com/skanehira/ghost) - Simple background process manager for Unix systems
 - [astral-sh/uv](https://github.com/astral-sh/uv) - An extremely fast Python package and project manager, written in Rust.
 - [KOBA789/human-in-the-loop](https://github.com/KOBA789/human-in-the-loop) - An MCP (Model Context Protocol) server that allows AI assistants to ask questions to humans via Discord.
 - [rustcoreutils/posixutils-rs](https://github.com/rustcoreutils/posixutils-rs) - Core POSIX command line utilities in safe Rust
