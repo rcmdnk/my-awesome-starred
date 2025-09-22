@@ -131,6 +131,7 @@
 - [privacy](#privacy)
 - [productivity](#productivity)
 - [programming](#programming)
+- [programming-language](#programming-language)
 - [project-management](#project-management)
 - [python](#python)
 - [python3](#python3)
@@ -519,6 +520,7 @@
 
 ## devops 
 
+- [bahdotsh/wrkflw](https://github.com/bahdotsh/wrkflw) - Validate and Run GitHub Actions locally.
 - [infracost/infracost](https://github.com/infracost/infracost) - Cloud cost estimates for Terraform in pull requests💰📉 Shift FinOps Left!
 - [nektos/act](https://github.com/nektos/act) - Run your GitHub Actions locally 🚀
 - [tadashi0713/howtheytest-jp](https://github.com/tadashi0713/howtheytest-jp) - 日本のソフトウェア企業のテスト・テスト自動化に関する資料をまとめています
@@ -621,6 +623,7 @@
 
 ## github 
 
+- [bahdotsh/wrkflw](https://github.com/bahdotsh/wrkflw) - Validate and Run GitHub Actions locally.
 - [CopilotC-Nvim/CopilotChat.nvim](https://github.com/CopilotC-Nvim/CopilotChat.nvim) - Chat with GitHub Copilot in Neovim
 - [star-history/star-history](https://github.com/star-history/star-history) - The missing star history graph of GitHub repos - https://star-history.com
 - [dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash) - A beautiful CLI dashboard for GitHub 🚀
@@ -1062,7 +1065,7 @@
 - [openai/agents.md](https://github.com/openai/agents.md) - AGENTS.md — a simple, open format for guiding coding agents
 - [openai/gpt-oss](https://github.com/openai/gpt-oss) - gpt-oss-120b and gpt-oss-20b are two open-weight language models by OpenAI
 - [leonardsellem/n8n-mcp-server](https://github.com/leonardsellem/n8n-mcp-server) - MCP server that provides tools and resources for interacting with n8n API
-- [skanehira/ghost](https://github.com/skanehira/ghost) - Simple shell command management tool.
+- [skanehira/ghost](https://github.com/skanehira/ghost) - Simple background process manager for Unix systems
 - [KOBA789/human-in-the-loop](https://github.com/KOBA789/human-in-the-loop) - An MCP (Model Context Protocol) server that allows AI assistants to ask questions to humans via Discord.
 - [openai/simple-evals](https://github.com/openai/simple-evals) - 
 - [astral-sh/ty](https://github.com/astral-sh/ty) - An extremely fast Python type checker and language server, written in Rust.
@@ -1334,6 +1337,13 @@
 ## programming 
 
 - [Chalarangelo/30-seconds-of-python](https://github.com/Chalarangelo/30-seconds-of-python) - Short Python code snippets for all your development needs
+
+## programming-language 
+
+- [modular/modular](https://github.com/modular/modular) - The Modular Platform (includes MAX & Mojo)
+- [erg-lang/erg](https://github.com/erg-lang/erg) - A statically typed language compatible with Python
+- [carbon-language/carbon-lang](https://github.com/carbon-language/carbon-lang) - Carbon Language's main repository: documents, design, implementation, and related tools. (NOTE: Carbon Language is experimental; see README)
+- [gfngfn/SATySFi](https://github.com/gfngfn/SATySFi) - A statically-typed, functional typesetting system
 
 ## project-management 
 
