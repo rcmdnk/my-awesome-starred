@@ -197,6 +197,7 @@
 
 ## JavaScript 
 
+- [upstash/context7](https://github.com/upstash/context7) - Context7 MCP Server -- Up-to-date code documentation for LLMs and AI code editors
 - [leeoniya/uPlot](https://github.com/leeoniya/uPlot) - 📈 A small, fast chart for time series, lines, areas, ohlc & bars
 - [eduardoleao052/js-pytorch](https://github.com/eduardoleao052/js-pytorch) - A JavaScript library like PyTorch, with GPU acceleration.
 - [anc95/ChatGPT-CodeReview](https://github.com/anc95/ChatGPT-CodeReview) - 🐥 A code review bot powered by ChatGPT
