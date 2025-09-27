@@ -516,6 +516,7 @@
 
 ## developer-tools 
 
+- [shuymn/gh-mcp](https://github.com/shuymn/gh-mcp) - A GitHub CLI extension that seamlessly runs the github-mcp-server in Docker using your existing gh authentication. Eliminates manual PAT setup by automatically retrieving GitHub credentials and launch
 - [plandex-ai/plandex](https://github.com/plandex-ai/plandex) - Open source AI coding agent. Designed for large projects and real world tasks.
 - [marimo-team/marimo](https://github.com/marimo-team/marimo) - Transform data, train models, and run SQL with marimo — feels like a next-gen reactive notebook, stored as Git-friendly reproducible Python. Deploy as scripts, pipelines, endpoints, and apps. All from
 - [DevToys-app/DevToys](https://github.com/DevToys-app/DevToys) - A Swiss Army knife for developers.
@@ -540,6 +541,7 @@
 
 ## docker 
 
+- [shuymn/gh-mcp](https://github.com/shuymn/gh-mcp) - A GitHub CLI extension that seamlessly runs the github-mcp-server in Docker using your existing gh authentication. Eliminates manual PAT setup by automatically retrieving GitHub credentials and launch
 - [secretlint/secretlint](https://github.com/secretlint/secretlint) - Pluggable linting tool to prevent committing credential.
 - [netdata/netdata](https://github.com/netdata/netdata) - The fastest path to AI-powered full stack observability, even for lean teams.
 - [whalebrew/whalebrew](https://github.com/whalebrew/whalebrew) - Homebrew, but with Docker images
@@ -611,6 +613,7 @@
 
 ## gh-extension 
 
+- [shuymn/gh-mcp](https://github.com/shuymn/gh-mcp) - A GitHub CLI extension that seamlessly runs the github-mcp-server in Docker using your existing gh authentication. Eliminates manual PAT setup by automatically retrieving GitHub credentials and launch
 - [dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash) - A rich terminal UI for GitHub that doesn't break your flow.
 
 ## git 
@@ -644,6 +647,7 @@
 
 ## github-api 
 
+- [shuymn/gh-mcp](https://github.com/shuymn/gh-mcp) - A GitHub CLI extension that seamlessly runs the github-mcp-server in Docker using your existing gh authentication. Eliminates manual PAT setup by automatically retrieving GitHub credentials and launch
 - [PyGithub/PyGithub](https://github.com/PyGithub/PyGithub) - Typed interactions with the GitHub API v3
 - [leonhartX/gas-github](https://github.com/leonhartX/gas-github) - sync gas code to github
 - [mislav/hub](https://github.com/mislav/hub) - A command-line tool that makes git easier to use with GitHub.
@@ -671,6 +675,7 @@
 
 ## golang 
 
+- [shuymn/gh-mcp](https://github.com/shuymn/gh-mcp) - A GitHub CLI extension that seamlessly runs the github-mcp-server in Docker using your existing gh authentication. Eliminates manual PAT setup by automatically retrieving GitHub credentials and launch
 - [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with OpenAI gpt-oss, DeepSeek-R1, Gemma 3 and other models.
 - [plandex-ai/plandex](https://github.com/plandex-ai/plandex) - Open source AI coding agent. Designed for large projects and real world tasks.
 - [koki-develop/clive](https://github.com/koki-develop/clive) - ⚡ Automates terminal operations.
@@ -851,6 +856,7 @@
 
 ## llm 
 
+- [upstash/context7](https://github.com/upstash/context7) - Context7 MCP Server -- Up-to-date code documentation for LLMs and AI code editors
 - [olimorris/codecompanion.nvim](https://github.com/olimorris/codecompanion.nvim) - ✨ AI Coding, Vim Style
 - [aws-samples/generative-ai-use-cases](https://github.com/aws-samples/generative-ai-use-cases) - Application implementation with business use cases for safely utilizing generative AI in business operations
 - [steel-dev/steel-browser](https://github.com/steel-dev/steel-browser) - 🔥 Open Source Browser API for AI Agents & Apps. Steel Browser is a batteries-included browser sandbox that lets you automate the web without worrying about infrastructure.
