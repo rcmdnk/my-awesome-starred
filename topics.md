@@ -164,6 +164,7 @@
 - [typescript](#typescript)
 - [ui](#ui)
 - [vim](#vim)
+- [visualization](#visualization)
 - [vue](#vue)
 - [web](#web)
 - [web-development](#web-development)
@@ -1698,6 +1699,12 @@
 - [1995eaton/chromium-vim](https://github.com/1995eaton/chromium-vim) - Vim bindings for Google Chrome.
 - [vim-jp/issues](https://github.com/vim-jp/issues) - 有志で既知のバグや要望を検討・管理し、オフィシャルへの還元をしていきます。
 - [itchyny/lightline.vim](https://github.com/itchyny/lightline.vim) - A light and configurable statusline/tabline plugin for Vim
+
+## visualization 
+
+- [mne-tools/mne-python](https://github.com/mne-tools/mne-python) - MNE: Magnetoencephalography (MEG) and Electroencephalography (EEG) in Python
+- [vaexio/vaex](https://github.com/vaexio/vaex) - Out-of-Core hybrid Apache Arrow/NumPy DataFrame for Python, ML, visualization and exploration of big tabular data at a billion rows per second 🚀
+- [sqshq/sampler](https://github.com/sqshq/sampler) - Tool for shell commands execution, visualization and alerting. Configured with a simple YAML file.
 
 ## vue 
 
