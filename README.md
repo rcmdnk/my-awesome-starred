@@ -530,7 +530,7 @@
 - [gleitz/howdoi](https://github.com/gleitz/howdoi) - instant coding answers via the command line
 - [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) - :books: Freely available programming books
 - [belltailjp/selective_search_py](https://github.com/belltailjp/selective_search_py) - Python-based implementation of the Selective Search for Object Recognition.
-- [lra/mackup](https://github.com/lra/mackup) - Keep your application settings in sync (OS X/Linux)
+- [lra/mackup](https://github.com/lra/mackup) - Backup and keep your application settings in sync (OS X/Linux)
 - [grimlck/github_helpers](https://github.com/grimlck/github_helpers) - Little helper scripts to talk to GitHub from the command line
 - [z4r/python-coveralls](https://github.com/z4r/python-coveralls) - Python API for http://coveralls.io
 - [davidhalter/jedi-vim](https://github.com/davidhalter/jedi-vim) - Using the jedi autocompletion library for VIM.
