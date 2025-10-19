@@ -1290,7 +1290,7 @@
 - [minimagick/minimagick](https://github.com/minimagick/minimagick) - mini replacement for RMagick
 - [belltailjp/selective_search_py](https://github.com/belltailjp/selective_search_py) - Python-based implementation of the Selective Search for Object Recognition.
 - [gizak/termui](https://github.com/gizak/termui) - Golang terminal dashboard
-- [lra/mackup](https://github.com/lra/mackup) - Backup and keep your application settings in sync (OS X/Linux)
+- [lra/mackup](https://github.com/lra/mackup) - Backup and keep your application settings in sync.
 - [grimlck/github_helpers](https://github.com/grimlck/github_helpers) - Little helper scripts to talk to GitHub from the command line
 - [cho45/KeyCast](https://github.com/cho45/KeyCast) - Record keystroke for screencast
 - [gsi-cyberjapan/gsimaps](https://github.com/gsi-cyberjapan/gsimaps) - The source of GSI Maps (https://maps.gsi.go.jp/)
