@@ -1576,6 +1576,7 @@
 
 ## shell 
 
+- [mchav/with](https://github.com/mchav/with) - Command prefixing for continuous workflow using a single tool.
 - [direnv/direnv](https://github.com/direnv/direnv) - unclutter your .profile
 - [withfig/autocomplete](https://github.com/withfig/autocomplete) - IDE-style autocomplete for your existing terminal & shell
 - [shelljs/shelljs](https://github.com/shelljs/shelljs) - :shell: Portable Unix shell commands for Node.js
