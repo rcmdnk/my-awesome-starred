@@ -464,7 +464,6 @@
 - [facebookresearch/hydra](https://github.com/facebookresearch/hydra) - Hydra is a framework for elegantly configuring complex applications
 - [pallets/click](https://github.com/pallets/click) - Python composable command line interface toolkit
 - [pfnet/pysen](https://github.com/pfnet/pysen) - Python linting made easy. Also a casual yet honorific way to address individuals who have entered an organization prior to you.
-- [rinnakk/japanese-pretrained-models](https://github.com/rinnakk/japanese-pretrained-models) - Code for producing Japanese pretrained models provided by rinna Co., Ltd.
 - [bchao1/bullet](https://github.com/bchao1/bullet) - 🚅 Interactive prompts made simple. Build a prompt like stacking blocks.
 - [megagonlabs/ginza](https://github.com/megagonlabs/ginza) - A Japanese NLP Library using spaCy as framework based on Universal Dependencies
 - [EmuKit/emukit](https://github.com/EmuKit/emukit) - A Python-based toolbox of various methods in decision making, uncertainty quantification and statistical emulation: multi-fidelity, experimental design, Bayesian optimisation, Bayesian quadrature, etc
