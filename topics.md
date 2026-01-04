@@ -107,6 +107,7 @@
 - [macos](#macos)
 - [markdown](#markdown)
 - [matlab](#matlab)
+- [mcp](#mcp)
 - [microservices](#microservices)
 - [mobile](#mobile)
 - [mongodb](#mongodb)
@@ -1006,6 +1007,12 @@
 
 - [analyticalmonk/awesome-neuroscience](https://github.com/analyticalmonk/awesome-neuroscience) - A curated list of awesome neuroscience libraries, software and any content related to the domain.
 - [sccn/ICLabel](https://github.com/sccn/ICLabel) - Automatic EEG IC classification plugin for EEGLAB
+
+## mcp 
+
+- [shuymn/gh-mcp](https://github.com/shuymn/gh-mcp) - A GitHub CLI extension that seamlessly runs the github-mcp-server in Docker using your existing gh authentication. Eliminates manual PAT setup by automatically retrieving GitHub credentials and launch
+- [upstash/context7](https://github.com/upstash/context7) - Context7 MCP Server -- Up-to-date code documentation for LLMs and AI code editors
+- [netdata/netdata](https://github.com/netdata/netdata) - The fastest path to AI-powered full stack observability, even for lean teams.
 
 ## microservices 
 
