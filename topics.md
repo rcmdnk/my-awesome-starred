@@ -569,7 +569,7 @@
 
 ## developer-tools 
 
-- [shuymn/gh-mcp](https://github.com/shuymn/gh-mcp) - A GitHub CLI extension that seamlessly runs the github-mcp-server in Docker using your existing gh authentication. Eliminates manual PAT setup by automatically retrieving GitHub credentials and launch
+- [shuymn/gh-mcp](https://github.com/shuymn/gh-mcp) - A GitHub CLI extension that seamlessly runs the github-mcp-server using your existing gh authentication. Eliminates manual PAT setup by automatically retrieving GitHub credentials and launching the MC
 - [plandex-ai/plandex](https://github.com/plandex-ai/plandex) - Open source AI coding agent. Designed for large projects and real world tasks.
 - [marimo-team/marimo](https://github.com/marimo-team/marimo) - A reactive notebook for Python — run reproducible experiments, query with SQL, execute as a script, deploy as an app, and version with git. Stored as pure Python. All in a modern, AI-native editor.
 - [DevToys-app/DevToys](https://github.com/DevToys-app/DevToys) - A Swiss Army knife for developers.
@@ -594,7 +594,6 @@
 
 ## docker 
 
-- [shuymn/gh-mcp](https://github.com/shuymn/gh-mcp) - A GitHub CLI extension that seamlessly runs the github-mcp-server in Docker using your existing gh authentication. Eliminates manual PAT setup by automatically retrieving GitHub credentials and launch
 - [secretlint/secretlint](https://github.com/secretlint/secretlint) - Pluggable linting tool to prevent committing credential.
 - [netdata/netdata](https://github.com/netdata/netdata) - The fastest path to AI-powered full stack observability, even for lean teams.
 - [whalebrew/whalebrew](https://github.com/whalebrew/whalebrew) - Homebrew, but with Docker images
@@ -674,7 +673,7 @@
 
 ## gh-extension 
 
-- [shuymn/gh-mcp](https://github.com/shuymn/gh-mcp) - A GitHub CLI extension that seamlessly runs the github-mcp-server in Docker using your existing gh authentication. Eliminates manual PAT setup by automatically retrieving GitHub credentials and launch
+- [shuymn/gh-mcp](https://github.com/shuymn/gh-mcp) - A GitHub CLI extension that seamlessly runs the github-mcp-server using your existing gh authentication. Eliminates manual PAT setup by automatically retrieving GitHub credentials and launching the MC
 - [dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash) - A rich terminal UI for GitHub that doesn't break your flow.
 
 ## git 
@@ -712,7 +711,7 @@
 
 ## github-api 
 
-- [shuymn/gh-mcp](https://github.com/shuymn/gh-mcp) - A GitHub CLI extension that seamlessly runs the github-mcp-server in Docker using your existing gh authentication. Eliminates manual PAT setup by automatically retrieving GitHub credentials and launch
+- [shuymn/gh-mcp](https://github.com/shuymn/gh-mcp) - A GitHub CLI extension that seamlessly runs the github-mcp-server using your existing gh authentication. Eliminates manual PAT setup by automatically retrieving GitHub credentials and launching the MC
 - [PyGithub/PyGithub](https://github.com/PyGithub/PyGithub) - Typed interactions with the GitHub API v3
 - [leonhartX/gas-github](https://github.com/leonhartX/gas-github) - sync gas code to github
 - [mislav/hub](https://github.com/mislav/hub) - A command-line tool that makes git easier to use with GitHub.
@@ -741,7 +740,7 @@
 ## golang 
 
 - [dlvhdr/diffnav](https://github.com/dlvhdr/diffnav) - A git diff pager based on delta but with a file tree, à la GitHub.
-- [shuymn/gh-mcp](https://github.com/shuymn/gh-mcp) - A GitHub CLI extension that seamlessly runs the github-mcp-server in Docker using your existing gh authentication. Eliminates manual PAT setup by automatically retrieving GitHub credentials and launch
+- [shuymn/gh-mcp](https://github.com/shuymn/gh-mcp) - A GitHub CLI extension that seamlessly runs the github-mcp-server using your existing gh authentication. Eliminates manual PAT setup by automatically retrieving GitHub credentials and launching the MC
 - [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Kimi-K2.5, GLM-5, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.
 - [plandex-ai/plandex](https://github.com/plandex-ai/plandex) - Open source AI coding agent. Designed for large projects and real world tasks.
 - [koki-develop/clive](https://github.com/koki-develop/clive) - ⚡ Automates terminal operations.
@@ -1021,7 +1020,7 @@
 
 ## mcp 
 
-- [shuymn/gh-mcp](https://github.com/shuymn/gh-mcp) - A GitHub CLI extension that seamlessly runs the github-mcp-server in Docker using your existing gh authentication. Eliminates manual PAT setup by automatically retrieving GitHub credentials and launch
+- [shuymn/gh-mcp](https://github.com/shuymn/gh-mcp) - A GitHub CLI extension that seamlessly runs the github-mcp-server using your existing gh authentication. Eliminates manual PAT setup by automatically retrieving GitHub credentials and launching the MC
 - [upstash/context7](https://github.com/upstash/context7) - Context7 MCP Server -- Up-to-date code documentation for LLMs and AI code editors
 - [netdata/netdata](https://github.com/netdata/netdata) - The fastest path to AI-powered full stack observability, even for lean teams.
 
