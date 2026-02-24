@@ -1167,6 +1167,7 @@
 
 ## others 
 
+- [lyehe/porterminal](https://github.com/lyehe/porterminal) - Quick n' dirty web terminal tunneling your phone & pc
 - [yaneurao/YaneuraOu](https://github.com/yaneurao/YaneuraOu) - YaneuraOu is the World's Strongest Shogi engine(AI player) , WCSC29 1st winner , educational and USI compliant engine.
 - [obra/superpowers](https://github.com/obra/superpowers) - An agentic skills framework & software development methodology that works.
 - [zou-group/sleepfm-clinical](https://github.com/zou-group/sleepfm-clinical) - 
