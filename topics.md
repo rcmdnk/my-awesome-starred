@@ -219,6 +219,7 @@
 
 ## ai-agents 
 
+- [microsoft/apm](https://github.com/microsoft/apm) - Agent Package Manager
 - [alibaba/page-agent](https://github.com/alibaba/page-agent) - JavaScript in-page GUI agent. Control web interfaces with natural language.
 - [steel-dev/steel-browser](https://github.com/steel-dev/steel-browser) - 🔥 Open Source Browser API for AI Agents & Apps. Steel Browser is a batteries-included browser sandbox that lets you automate the web without worrying about infrastructure.
 - [plandex-ai/plandex](https://github.com/plandex-ai/plandex) - Open source AI coding agent. Designed for large projects and real world tasks.
@@ -257,7 +258,7 @@
 ## arduino 
 
 - [WifWaf/MH-Z19](https://github.com/WifWaf/MH-Z19) - For Arduino Boards (&ESP32). Additional Examples/Commands., Hardware/Software Serial
-- [Blynk-Technologies/blynk-library](https://github.com/Blynk-Technologies/blynk-library) - Blynk library for IoT boards. Works with Arduino, ESP32, ESP8266, Raspberry Pi, Particle, ARM Mbed, etc.
+- [Blynk-Technologies/blynk-library](https://github.com/Blynk-Technologies/blynk-library) - Blynk library for IoT boards. Works with Arduino, ESP32, ESP8266, Raspberry Pi, Particle, etc.
 
 ## artificial-intelligence 
 
@@ -383,6 +384,7 @@
 
 ## claude-code 
 
+- [microsoft/apm](https://github.com/microsoft/apm) - Agent Package Manager
 - [berserkdisruptors/contextual-commits](https://github.com/berserkdisruptors/contextual-commits) - An open standard for capturing the WHY in git history
 - [slopus/happy](https://github.com/slopus/happy) - Mobile and Web client for Codex and Claude Code, with realtime voice, encryption and fully featured
 - [folke/sidekick.nvim](https://github.com/folke/sidekick.nvim) - Your Neovim AI sidekick
@@ -647,7 +649,7 @@
 
 ## embedded 
 
-- [Blynk-Technologies/blynk-library](https://github.com/Blynk-Technologies/blynk-library) - Blynk library for IoT boards. Works with Arduino, ESP32, ESP8266, Raspberry Pi, Particle, ARM Mbed, etc.
+- [Blynk-Technologies/blynk-library](https://github.com/Blynk-Technologies/blynk-library) - Blynk library for IoT boards. Works with Arduino, ESP32, ESP8266, Raspberry Pi, Particle, etc.
 
 ## emoji 
 
@@ -670,7 +672,7 @@
 - [ruvnet/RuView](https://github.com/ruvnet/RuView) - π RuView: WiFi DensePose turns commodity WiFi signals into real-time human pose estimation, vital sign monitoring, and presence detection — all without a single pixel of video.
 - [tenderlove/initial-v](https://github.com/tenderlove/initial-v) - It's a BMW shifter converted to a Bluetooth Keyboard that you use with Vim
 - [WifWaf/MH-Z19](https://github.com/WifWaf/MH-Z19) - For Arduino Boards (&ESP32). Additional Examples/Commands., Hardware/Software Serial
-- [Blynk-Technologies/blynk-library](https://github.com/Blynk-Technologies/blynk-library) - Blynk library for IoT boards. Works with Arduino, ESP32, ESP8266, Raspberry Pi, Particle, ARM Mbed, etc.
+- [Blynk-Technologies/blynk-library](https://github.com/Blynk-Technologies/blynk-library) - Blynk library for IoT boards. Works with Arduino, ESP32, ESP8266, Raspberry Pi, Particle, etc.
 
 ## firefox 
 
@@ -876,7 +878,7 @@
 
 - [vshymanskyy/blynk-library-python](https://github.com/vshymanskyy/blynk-library-python) - Blynk library for Python. Works with Python 2, Python 3, MicroPython.
 - [home-assistant/core](https://github.com/home-assistant/core) - :house_with_garden: Open source home automation that puts local control and privacy first.
-- [Blynk-Technologies/blynk-library](https://github.com/Blynk-Technologies/blynk-library) - Blynk library for IoT boards. Works with Arduino, ESP32, ESP8266, Raspberry Pi, Particle, ARM Mbed, etc.
+- [Blynk-Technologies/blynk-library](https://github.com/Blynk-Technologies/blynk-library) - Blynk library for IoT boards. Works with Arduino, ESP32, ESP8266, Raspberry Pi, Particle, etc.
 
 ## java 
 
@@ -1453,6 +1455,7 @@
 
 ## package-manager 
 
+- [microsoft/apm](https://github.com/microsoft/apm) - Agent Package Manager
 - [pdm-project/pdm](https://github.com/pdm-project/pdm) - A modern Python package and dependency manager supporting the latest PEP standards
 - [whalebrew/whalebrew](https://github.com/whalebrew/whalebrew) - Homebrew, but with Docker images
 - [python-poetry/poetry](https://github.com/python-poetry/poetry) - Python packaging and dependency management made easy
@@ -1501,6 +1504,7 @@
 
 ## prompt-engineering 
 
+- [microsoft/apm](https://github.com/microsoft/apm) - Agent Package Manager
 - [mlflow/mlflow](https://github.com/mlflow/mlflow) - The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, evaluate, monitor, and optimize production-quality AI applications while controllin
 
 ## python 
@@ -1629,7 +1633,7 @@
 - [rust-embedded/rust-raspberrypi-OS-tutorials](https://github.com/rust-embedded/rust-raspberrypi-OS-tutorials) - :books: Learn to write an embedded OS in Rust :crab:
 - [UedaTakeyuki/mh-z19](https://github.com/UedaTakeyuki/mh-z19) - Read CO2 concentration from mh-z19 sensor on the Raspberry Pi & handle it. Detect Raspberry Pi model automatically and read the value from an appropriate serial device.
 - [home-assistant/core](https://github.com/home-assistant/core) - :house_with_garden: Open source home automation that puts local control and privacy first.
-- [Blynk-Technologies/blynk-library](https://github.com/Blynk-Technologies/blynk-library) - Blynk library for IoT boards. Works with Arduino, ESP32, ESP8266, Raspberry Pi, Particle, ARM Mbed, etc.
+- [Blynk-Technologies/blynk-library](https://github.com/Blynk-Technologies/blynk-library) - Blynk library for IoT boards. Works with Arduino, ESP32, ESP8266, Raspberry Pi, Particle, etc.
 
 ## react 
 
