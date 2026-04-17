@@ -99,7 +99,7 @@
 - [htcondor/htcondor](https://github.com/htcondor/htcondor) - HTCondor source repository, formerly the Condor Project
 - [CoatiSoftware/Sourcetrail](https://github.com/CoatiSoftware/Sourcetrail) - Sourcetrail - free and open-source interactive source explorer
 - [QuEST-Kit/QuEST](https://github.com/QuEST-Kit/QuEST) - A multithreaded, distributed, GPU-accelerated simulator of quantum computers
-- [Blynk-Technologies/blynk-library](https://github.com/Blynk-Technologies/blynk-library) - Blynk library for IoT boards. Works with Arduino, ESP32, ESP8266, Raspberry Pi, Particle, ARM Mbed, etc.
+- [Blynk-Technologies/blynk-library](https://github.com/Blynk-Technologies/blynk-library) - Blynk library for IoT boards. Works with Arduino, ESP32, ESP8266, Raspberry Pi, Particle, etc.
 - [microsoft/terminal](https://github.com/microsoft/terminal) - The new Windows Terminal and the original Windows console host, all in the same place!
 - [qulacs/qulacs](https://github.com/qulacs/qulacs) - Variational Quantum Circuit Simulator for Quantum Computation Research
 - [ggerganov/kbd-audio](https://github.com/ggerganov/kbd-audio) - 🎤⌨️ Acoustic keyboard eavesdropping
@@ -380,6 +380,7 @@
 
 ## Python 
 
+- [microsoft/apm](https://github.com/microsoft/apm) - Agent Package Manager
 - [anthropics/skills](https://github.com/anthropics/skills) - Public repository for Agent Skills
 - [666ghj/MiroFish](https://github.com/666ghj/MiroFish) - A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通用的群体智能引擎，预测万物
 - [lyehe/porterminal](https://github.com/lyehe/porterminal) - Quick n' dirty web terminal tunneling your phone & pc
