@@ -125,7 +125,7 @@
 
 ## Go 
 
-- [openclaw/gogcli](https://github.com/openclaw/gogcli) - Google Suite CLI: Gmail, GCal, GDrive, GContacts.
+- [openclaw/gogcli](https://github.com/openclaw/gogcli) - Google Workspace in your terminal.
 - [jesseduffield/lazygit](https://github.com/jesseduffield/lazygit) - simple terminal UI for git commands
 - [dlvhdr/diffnav](https://github.com/dlvhdr/diffnav) - A git diff pager based on delta but with a file tree, à la GitHub.
 - [shuymn/gh-mcp](https://github.com/shuymn/gh-mcp) - A GitHub CLI extension that seamlessly runs the github-mcp-server using your existing gh authentication. Eliminates manual PAT setup by automatically retrieving GitHub credentials and launching the MC
