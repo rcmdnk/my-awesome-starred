@@ -489,7 +489,7 @@
 
 ## covid-19 
 
-- [InstituteforDiseaseModeling/covasim](https://github.com/InstituteforDiseaseModeling/covasim) - COVID-19 Agent-based Simulator (Covasim): a model for exploring coronavirus dynamics and interventions
+- [starsimhub/covasim](https://github.com/starsimhub/covasim) - COVID-19 Agent-based Simulator (Covasim): a model for exploring coronavirus dynamics and interventions
 - [Tokyo-Metro-Gov/covid19](https://github.com/Tokyo-Metro-Gov/covid19) - 東京都 新型コロナウイルス感染症対策サイト / Tokyo COVID-19 Task Force website
 
 ## cpp 
@@ -1216,7 +1216,7 @@
 ## others 
 
 - [OpenWonderLabs/switchbot-openapi-cli](https://github.com/OpenWonderLabs/switchbot-openapi-cli) - Command-line interface for the SwitchBot API v1.1
-- [forrestchang/andrej-karpathy-skills](https://github.com/forrestchang/andrej-karpathy-skills) - A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.
+- [multica-ai/andrej-karpathy-skills](https://github.com/multica-ai/andrej-karpathy-skills) - A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.
 - [sashiko-dev/sashiko](https://github.com/sashiko-dev/sashiko) - Agentic review of Linux Kernel code changes
 - [anthropics/skills](https://github.com/anthropics/skills) - Public repository for Agent Skills
 - [vercel-labs/skills](https://github.com/vercel-labs/skills) - The open agent skills tool - npx skills
