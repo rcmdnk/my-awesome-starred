@@ -322,7 +322,7 @@
 
 ## Others 
 
-- [forrestchang/andrej-karpathy-skills](https://github.com/forrestchang/andrej-karpathy-skills) - A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.
+- [multica-ai/andrej-karpathy-skills](https://github.com/multica-ai/andrej-karpathy-skills) - A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.
 - [berserkdisruptors/contextual-commits](https://github.com/berserkdisruptors/contextual-commits) - An open standard for capturing the WHY in git history
 - [PicoTrex/Awesome-Nano-Banana-images](https://github.com/PicoTrex/Awesome-Nano-Banana-images) - A curated collection of fun and creative examples generated with Nano Banana & Nano Banana Pro🍌, Gemini-2.5-flash-image based model. We also release Nano-consistent-150K openly to support the communit
 - [japan-opendata/awesome-japan-opendata](https://github.com/japan-opendata/awesome-japan-opendata) - Awesome Japan Open Data - 日本のオープンデータ情報一覧・まとめ
@@ -483,7 +483,7 @@
 - [nalepae/pandarallel](https://github.com/nalepae/pandarallel) - A simple and efficient tool to parallelize Pandas operations on all available CPUs
 - [optuna/optuna](https://github.com/optuna/optuna) - A hyperparameter optimization framework
 - [vshymanskyy/blynk-library-python](https://github.com/vshymanskyy/blynk-library-python) - Blynk library for Python. Works with Python 2, Python 3, MicroPython.
-- [InstituteforDiseaseModeling/covasim](https://github.com/InstituteforDiseaseModeling/covasim) - COVID-19 Agent-based Simulator (Covasim): a model for exploring coronavirus dynamics and interventions
+- [starsimhub/covasim](https://github.com/starsimhub/covasim) - COVID-19 Agent-based Simulator (Covasim): a model for exploring coronavirus dynamics and interventions
 - [yagays/ja-timex](https://github.com/yagays/ja-timex) - 自然言語で書かれた時間情報表現を抽出/規格化するルールベースの解析器
 - [Python-Markdown/markdown](https://github.com/Python-Markdown/markdown) - A Python implementation of John Gruber’s Markdown with Extension support.
 - [stanford-futuredata/sinkhorn-label-allocation](https://github.com/stanford-futuredata/sinkhorn-label-allocation) - Sinkhorn Label Allocation is a label assignment method for semi-supervised self-training algorithms. The SLA algorithm is described in full in this ICML 2021 paper: https://arxiv.org/abs/2102.08622.
