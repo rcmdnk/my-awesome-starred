@@ -42,6 +42,7 @@
 - [SCSS](#scss)
 - [Shell](#shell)
 - [Swift](#swift)
+- [TeX](#tex)
 - [TypeScript](#typescript)
 - [Vim Script](#vim-script)
 - [Vue](#vue)
@@ -648,6 +649,10 @@
 - [mas-cli/mas](https://github.com/mas-cli/mas) - :package: Mac App Store command-line interface
 - [cho45/KeyCast](https://github.com/cho45/KeyCast) - Record keystroke for screencast
 - [kishikawakatsumi/KeychainAccess](https://github.com/kishikawakatsumi/KeychainAccess) - Simple Swift wrapper for Keychain that works on iOS, watchOS, tvOS and macOS.
+
+## TeX 
+
+- [xiyin137/QFT](https://github.com/xiyin137/QFT) - 
 
 ## TypeScript 
 
