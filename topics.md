@@ -284,6 +284,7 @@
 - [antonbabenko/pre-commit-terraform](https://github.com/antonbabenko/pre-commit-terraform) - pre-commit git hooks to take care of Terraform configurations 🇺🇦
 - [github/command](https://github.com/github/command) - IssueOps commands in GitHub Actions
 - [automatisch/automatisch](https://github.com/automatisch/automatisch) - The open source Zapier alternative. Build workflow automation without spending time and money.
+- [qawolf/cli](https://github.com/qawolf/cli) - QA Wolf from anywhere — your terminal, your CI, your AI agent.
 - [semantic-release/semantic-release](https://github.com/semantic-release/semantic-release) - :package::rocket: Fully automated version management and package publishing
 
 ## awesome 
@@ -382,7 +383,6 @@
 
 ## chrome 
 
-- [qawolf/qawolf](https://github.com/qawolf/qawolf) - 🐺 Create browser tests 10x faster
 - [dutiyesh/chrome-extension-cli](https://github.com/dutiyesh/chrome-extension-cli) - 🚀 The CLI for your next Chrome Extension
 - [1995eaton/chromium-vim](https://github.com/1995eaton/chromium-vim) - Vim bindings for Google Chrome.
 
@@ -428,6 +428,7 @@
 - [hauntsaninja/pyp](https://github.com/hauntsaninja/pyp) - Easily run Python at the shell! Magical, but never mysterious.
 - [mbrt/gmailctl](https://github.com/mbrt/gmailctl) - Declarative configuration for Gmail filters
 - [dalance/procs](https://github.com/dalance/procs) - A modern replacement for ps written in Rust
+- [qawolf/cli](https://github.com/qawolf/cli) - QA Wolf from anywhere — your terminal, your CI, your AI agent.
 - [dutiyesh/chrome-extension-cli](https://github.com/dutiyesh/chrome-extension-cli) - 🚀 The CLI for your next Chrome Extension
 - [reviewdog/reviewdog](https://github.com/reviewdog/reviewdog) - 🐶 Automated code review tool integrated with any code analysis tools regardless of programming language
 - [chunqiuyiyu/ervy](https://github.com/chunqiuyiyu/ervy) - Bring charts to terminal.
@@ -691,7 +692,6 @@
 
 ## firefox 
 
-- [qawolf/qawolf](https://github.com/qawolf/qawolf) - 🐺 Create browser tests 10x faster
 - [vimperator/vimperator-labs](https://github.com/vimperator/vimperator-labs) - Vimperator
 
 ## framework 
@@ -1156,7 +1156,6 @@
 
 - [secretlint/secretlint](https://github.com/secretlint/secretlint) - Pluggable linting tool to prevent committing credential.
 - [shelljs/shelljs](https://github.com/shelljs/shelljs) - :shell: Portable Unix shell commands for Node.js
-- [qawolf/qawolf](https://github.com/qawolf/qawolf) - 🐺 Create browser tests 10x faster
 - [dutiyesh/chrome-extension-cli](https://github.com/dutiyesh/chrome-extension-cli) - 🚀 The CLI for your next Chrome Extension
 - [GitSquared/edex-ui](https://github.com/GitSquared/edex-ui) - A cross-platform, customizable science fiction terminal emulator with advanced monitoring & touchscreen support.
 - [aksakalli/gtop](https://github.com/aksakalli/gtop) - System monitoring dashboard for terminal
@@ -1420,7 +1419,7 @@
 - [cfenollosa/os-tutorial](https://github.com/cfenollosa/os-tutorial) - How to create an OS from scratch
 - [quantumlib/OpenFermion-Cirq](https://github.com/quantumlib/OpenFermion-Cirq) - Quantum circuits for simulations of quantum chemistry and materials.
 - [colin-scott/interactive_latencies](https://github.com/colin-scott/interactive_latencies) - Jeff Dean's latency numbers plotted over time
-- [felixrieseberg/windows95](https://github.com/felixrieseberg/windows95) - 💩🚀 Windows 95 in Electron. Runs on macOS, Linux, and Windows.
+- [felixrieseberg/windows95](https://github.com/felixrieseberg/windows95) - Windows 95 in an app. Runs on macOS, Linux, and Windows.
 - [googleapis/google-api-python-client](https://github.com/googleapis/google-api-python-client) - 🐍 The official Python client library for Google's discovery based APIs.
 - [PruneMazui/resume-maker](https://github.com/PruneMazui/resume-maker) - Generate a JIS standard resume (for Japanese) from the json config file.
 - [alevchuk/vim-clutch](https://github.com/alevchuk/vim-clutch) - A hardware pedal for improved text editing in Vim
@@ -1834,7 +1833,7 @@
 - [MishaKav/pytest-coverage-comment](https://github.com/MishaKav/pytest-coverage-comment) - Comments a pull request with the pytest code coverage badge and full report
 - [tadashi0713/howtheytest-jp](https://github.com/tadashi0713/howtheytest-jp) - 日本のソフトウェア企業のテスト・テスト自動化に関する資料をまとめています
 - [dephell/dephell](https://github.com/dephell/dephell) - :package: :fire: Python project management. Manage packages: convert between formats, lock, install, resolve, isolate, test, build graph, show outdated, audit. Manage venvs, build package, bump versio
-- [qawolf/qawolf](https://github.com/qawolf/qawolf) - 🐺 Create browser tests 10x faster
+- [qawolf/cli](https://github.com/qawolf/cli) - QA Wolf from anywhere — your terminal, your CI, your AI agent.
 - [bats-core/bats-core](https://github.com/bats-core/bats-core) - Bash Automated Testing System
 - [niieani/bash-oo-framework](https://github.com/niieani/bash-oo-framework) - Bash Infinity is a modern standard library / framework / boilerplate for Bash
 
@@ -1874,7 +1873,6 @@
 - [charmbracelet/vhs](https://github.com/charmbracelet/vhs) - Your CLI home video recorder 📼
 - [jeffreytse/jekyll-spaceship](https://github.com/jeffreytse/jekyll-spaceship) - 🚀 A Jekyll plugin to provide powerful supports for table, mathjax, plantuml, mermaid, emoji, video, audio, youtube, vimeo, dailymotion, soundcloud, spotify, etc.
 - [alyssaxuu/screenity](https://github.com/alyssaxuu/screenity) - The free and privacy-friendly screen recorder with no limits 🎥
-- [qawolf/qawolf](https://github.com/qawolf/qawolf) - 🐺 Create browser tests 10x faster
 
 ## vim 
 
