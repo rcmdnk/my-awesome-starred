@@ -573,6 +573,7 @@
 
 ## Rust 
 
+- [DavidLiedle/Ferrix](https://github.com/DavidLiedle/Ferrix) - Ferrix: A Terminal Multiplexer in Rust
 - [sashiko-dev/sashiko](https://github.com/sashiko-dev/sashiko) - Agentic review of Linux Kernel code changes
 - [ruvnet/RuView](https://github.com/ruvnet/RuView) - π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.
 - [j178/prek](https://github.com/j178/prek) - ⚡ A fast Git hook manager written in Rust, designed as a drop-in alternative to pre-commit, reimagined.
