@@ -67,7 +67,6 @@
 - [form-dev/form](https://github.com/form-dev/form) - The FORM project for symbolic manipulation of very big expressions
 - [haampie/libtree](https://github.com/haampie/libtree) - ldd as a tree
 - [Genymobile/scrcpy](https://github.com/Genymobile/scrcpy) - Display and control your Android device
-- [netdata/netdata](https://github.com/netdata/netdata) - The fastest path to AI-powered full stack observability, even for lean teams.
 - [torvalds/linux](https://github.com/torvalds/linux) - Linux kernel source tree
 - [joan2937/pigpio](https://github.com/joan2937/pigpio) - pigpio is a C library for the Raspberry which allows control of the General Purpose Input Outputs (GPIO).
 - [andreiva/raspberry-pi-bme280](https://github.com/andreiva/raspberry-pi-bme280) - Raspberry Pi BME280 driver
@@ -146,6 +145,7 @@
 - [dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash) - A rich terminal UI for GitHub that doesn't break your flow.
 - [jiro4989/slotchmod](https://github.com/jiro4989/slotchmod) - slotchmod changes file permission with a slot.
 - [lima-vm/lima](https://github.com/lima-vm/lima) - Linux virtual machines, with a focus on running containers
+- [netdata/netdata](https://github.com/netdata/netdata) - The fastest path to AI-powered full stack observability, even for lean teams.
 - [irevenko/what-anime-cli](https://github.com/irevenko/what-anime-cli) - ❓🖼 Find the anime scene by image using your terminal
 - [n7olkachev/imgdiff](https://github.com/n7olkachev/imgdiff) - Faster than the fastest in the world pixel-by-pixel image difference tool.
 - [whalebrew/whalebrew](https://github.com/whalebrew/whalebrew) - Homebrew, but with Docker images
