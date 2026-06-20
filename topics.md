@@ -36,6 +36,7 @@
 - [cms](#cms)
 - [code-quality](#code-quality)
 - [code-review](#code-review)
+- [coding](#coding)
 - [command-line](#command-line)
 - [compiler](#compiler)
 - [computer-vision](#computer-vision)
@@ -214,6 +215,7 @@
 - [opendataloader-project/opendataloader-pdf](https://github.com/opendataloader-project/opendataloader-pdf) - PDF Parser for AI-ready data. Automate PDF accessibility. Open-source.
 - [alibaba/page-agent](https://github.com/alibaba/page-agent) - JavaScript in-page GUI agent. Control web interfaces with natural language.
 - [openclaw/openclaw](https://github.com/openclaw/openclaw) - Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞
+- [obra/superpowers](https://github.com/obra/superpowers) - An agentic skills framework & software development methodology that works.
 - [github/spec-kit](https://github.com/github/spec-kit) - 💫 Toolkit to help you get started with Spec-Driven Development
 - [google-gemini/genai-processors](https://github.com/google-gemini/genai-processors) - GenAI Processors is a lightweight Python library that enables efficient, parallel content processing.
 - [steel-dev/steel-browser](https://github.com/steel-dev/steel-browser) - 🔥 Open Source Browser API for AI Agents & Apps. Steel Browser is a batteries-included browser sandbox that lets you automate the web without worrying about infrastructure.
@@ -456,6 +458,10 @@
 ## code-review 
 
 - [reviewdog/reviewdog](https://github.com/reviewdog/reviewdog) - 🐶 Automated code review tool integrated with any code analysis tools regardless of programming language
+
+## coding 
+
+- [obra/superpowers](https://github.com/obra/superpowers) - An agentic skills framework & software development methodology that works.
 
 ## command-line 
 
@@ -1233,7 +1239,6 @@
 - [vercel-labs/skills](https://github.com/vercel-labs/skills) - The open agent skills tool - npx skills
 - [lyehe/porterminal](https://github.com/lyehe/porterminal) - Quick n' dirty web terminal tunneling your phone & pc
 - [yaneurao/YaneuraOu](https://github.com/yaneurao/YaneuraOu) - YaneuraOu is the World's Strongest Shogi engine(AI player) , WCSC29 1st winner , educational and USI compliant engine.
-- [obra/superpowers](https://github.com/obra/superpowers) - An agentic skills framework & software development methodology that works.
 - [zou-group/sleepfm-clinical](https://github.com/zou-group/sleepfm-clinical) - 
 - [mne-tools/mne-features](https://github.com/mne-tools/mne-features) - MNE-Features software for extracting features from multivariate time series
 - [komlan-kodoh-project/graph-algorithms](https://github.com/komlan-kodoh-project/graph-algorithms) - 
