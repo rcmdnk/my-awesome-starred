@@ -1231,13 +1231,12 @@
 
 ## others 
 
-- [xiyin137/QFT](https://github.com/xiyin137/QFT) - 
 - [OpenWonderLabs/switchbot-openapi-cli](https://github.com/OpenWonderLabs/switchbot-openapi-cli) - Command-line interface for the SwitchBot API v1.1
 - [multica-ai/andrej-karpathy-skills](https://github.com/multica-ai/andrej-karpathy-skills) - A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.
 - [sashiko-dev/sashiko](https://github.com/sashiko-dev/sashiko) - Agentic review of Linux Kernel code changes
 - [anthropics/skills](https://github.com/anthropics/skills) - Public repository for Agent Skills
 - [vercel-labs/skills](https://github.com/vercel-labs/skills) - The open agent skills tool - npx skills
-- [lyehe/porterminal](https://github.com/lyehe/porterminal) - Quick n' dirty web terminal tunneling your phone & pc
+- [lyehe/porterminal](https://github.com/lyehe/porterminal) - Quick n' dirty web/mcp terminal tunneling your phone & pc
 - [yaneurao/YaneuraOu](https://github.com/yaneurao/YaneuraOu) - YaneuraOu is the World's Strongest Shogi engine(AI player) , WCSC29 1st winner , educational and USI compliant engine.
 - [zou-group/sleepfm-clinical](https://github.com/zou-group/sleepfm-clinical) - 
 - [mne-tools/mne-features](https://github.com/mne-tools/mne-features) - MNE-Features software for extracting features from multivariate time series
