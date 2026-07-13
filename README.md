@@ -124,6 +124,7 @@
 
 ## Go 
 
+- [microsoft/ghqr](https://github.com/microsoft/ghqr) - GitHub Quick Review: Evaluate your enterprise and organizations against GitHub best practices
 - [openclaw/gogcli](https://github.com/openclaw/gogcli) - Google Workspace in your terminal.
 - [jesseduffield/lazygit](https://github.com/jesseduffield/lazygit) - simple terminal UI for git commands
 - [dlvhdr/diffnav](https://github.com/dlvhdr/diffnav) - A git diff pager based on delta but with a file tree, à la GitHub.
