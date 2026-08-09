@@ -566,7 +566,7 @@
 - [jugyo/tunnels](https://github.com/jugyo/tunnels) - https --(--)--&gt; http
 - [remore/burn](https://github.com/remore/burn) - A Toolkit To Create 8-bit Flavored Application
 - [lokarlhorst/githubrepo-octopress](https://github.com/lokarlhorst/githubrepo-octopress) - Plugin to display Github Repos in Posts inspired by https://github.com/JoelSutherland/GitHub-jQuery-Repo-Widget
-- [Homebrew/homebrew-cask](https://github.com/Homebrew/homebrew-cask) - 🍻 A CLI workflow for the administration of macOS applications distributed as binaries
+- [Homebrew/homebrew-cask](https://github.com/Homebrew/homebrew-cask) - 🍻 Default casks (upstream binary packages) for the package manager for everywhere
 - [meltingice/RubyDrop](https://github.com/meltingice/RubyDrop) - A roll your own Dropbox-like clone written in Ruby.
 - [AndrewRadev/switch.vim](https://github.com/AndrewRadev/switch.vim) - A simple Vim plugin to switch segments of text with predefined replacements
 - [boxen/our-boxen](https://github.com/boxen/our-boxen) - Copy me for your team.
