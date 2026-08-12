@@ -472,7 +472,7 @@
 - [ambitious-octopus/MI-EEG-1D-CNN](https://github.com/ambitious-octopus/MI-EEG-1D-CNN) - A new approach based on a 10-layer one-dimensional convolution neural network (1D-CNN) to classify five brain states (four MI classes plus a 'baseline' class) using a data augmentation algorithm and a
 - [neuropsychology/NeuroKit](https://github.com/neuropsychology/NeuroKit) - NeuroKit2: The Python Toolbox for Neurophysiological Signal Processing
 - [mne-tools/mne-python](https://github.com/mne-tools/mne-python) - MNE: Magnetoencephalography (MEG) and Electroencephalography (EEG) in Python
-- [facebookresearch/hydra](https://github.com/facebookresearch/hydra) - Hydra is a framework for elegantly configuring complex applications
+- [hydra-ecosystem/hydra](https://github.com/hydra-ecosystem/hydra) - Hydra is a framework for elegantly configuring complex applications
 - [pallets/click](https://github.com/pallets/click) - Python composable command line interface toolkit
 - [pfnet/pysen](https://github.com/pfnet/pysen) - Python linting made easy. Also a casual yet honorific way to address individuals who have entered an organization prior to you.
 - [pycaret/pycaret](https://github.com/pycaret/pycaret) - Open-source, low-code AutoML platform for Python. PyCaret 4.0: sklearn-native engine + React control plane.
