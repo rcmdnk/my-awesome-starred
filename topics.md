@@ -1830,6 +1830,7 @@
 
 ## terminal 
 
+- [MisterTea/EternalTerminal](https://github.com/MisterTea/EternalTerminal) - Re-Connectable secure remote shell
 - [DavidLiedle/Ferrix](https://github.com/DavidLiedle/Ferrix) - Ferrix: A Terminal Multiplexer in Rust
 - [jesseduffield/lazygit](https://github.com/jesseduffield/lazygit) - simple terminal UI for git commands
 - [alacritty/alacritty](https://github.com/alacritty/alacritty) - A cross-platform, OpenGL terminal emulator.
