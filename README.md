@@ -66,6 +66,7 @@
 - [form-dev/form](https://github.com/form-dev/form) - The FORM project for symbolic manipulation of very big expressions
 - [haampie/libtree](https://github.com/haampie/libtree) - ldd as a tree
 - [Genymobile/scrcpy](https://github.com/Genymobile/scrcpy) - Display and control your Android device
+- [semgrep/semgrep](https://github.com/semgrep/semgrep) - Lightweight static analysis for many languages. Find bug variants with patterns that look like source code.
 - [torvalds/linux](https://github.com/torvalds/linux) - Linux kernel source tree
 - [joan2937/pigpio](https://github.com/joan2937/pigpio) - pigpio is a C library for the Raspberry which allows control of the General Purpose Input Outputs (GPIO).
 - [andreiva/raspberry-pi-bme280](https://github.com/andreiva/raspberry-pi-bme280) - Raspberry Pi BME280 driver
@@ -85,6 +86,7 @@
 
 ## C++ 
 
+- [MisterTea/EternalTerminal](https://github.com/MisterTea/EternalTerminal) - Re-Connectable secure remote shell
 - [yaneurao/YaneuraOu](https://github.com/yaneurao/YaneuraOu) - YaneuraOu is the World's Strongest Shogi engine(AI player) , WCSC29 1st winner , educational and USI compliant engine.
 - [nomic-ai/gpt4all](https://github.com/nomic-ai/gpt4all) - GPT4All: Run Local LLMs on Any Device. Open-source and available for commercial use.
 - [DamRsn/NeuralNote](https://github.com/DamRsn/NeuralNote) - Audio Plugin for Audio to MIDI transcription using deep learning.
@@ -314,7 +316,6 @@
 
 ## OCaml 
 
-- [semgrep/semgrep](https://github.com/semgrep/semgrep) - Lightweight static analysis for many languages. Find bug variants with patterns that look like source code.
 - [gfngfn/SATySFi](https://github.com/gfngfn/SATySFi) - A statically-typed, functional typesetting system
 
 ## Objective-C 
