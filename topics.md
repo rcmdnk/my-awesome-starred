@@ -414,6 +414,7 @@
 
 ## claude-code 
 
+- [zenbu-labs/terminal-browser](https://github.com/zenbu-labs/terminal-browser) - A browser inside your terminal
 - [mksglu/context-mode](https://github.com/mksglu/context-mode) - Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and   enforces routing across 17 platforms via MCP + hooks.
 - [microsoft/apm](https://github.com/microsoft/apm) - Agent Package Manager
 - [berserkdisruptors/contextual-commits](https://github.com/berserkdisruptors/contextual-commits) - An open standard for capturing the WHY in git history
@@ -424,10 +425,12 @@
 
 ## claude-skills 
 
+- [zenbu-labs/terminal-browser](https://github.com/zenbu-labs/terminal-browser) - A browser inside your terminal
 - [berserkdisruptors/contextual-commits](https://github.com/berserkdisruptors/contextual-commits) - An open standard for capturing the WHY in git history
 
 ## cli 
 
+- [zenbu-labs/terminal-browser](https://github.com/zenbu-labs/terminal-browser) - A browser inside your terminal
 - [jesseduffield/lazygit](https://github.com/jesseduffield/lazygit) - simple terminal UI for git commands
 - [dlvhdr/diffnav](https://github.com/dlvhdr/diffnav) - A git diff pager based on delta but with a file tree, à la GitHub.
 - [bahdotsh/wrkflw](https://github.com/bahdotsh/wrkflw) - Validate and Run GitHub Actions locally.
@@ -1725,6 +1728,7 @@
 
 ## rust 
 
+- [zenbu-labs/terminal-browser](https://github.com/zenbu-labs/terminal-browser) - A browser inside your terminal
 - [agavra/tuicr](https://github.com/agavra/tuicr) - a code review TUI with vim keybindings
 - [DavidLiedle/Ferrix](https://github.com/DavidLiedle/Ferrix) - Ferrix: A Terminal Multiplexer in Rust
 - [bahdotsh/wrkflw](https://github.com/bahdotsh/wrkflw) - Validate and Run GitHub Actions locally.
@@ -1831,6 +1835,7 @@
 
 ## terminal 
 
+- [zenbu-labs/terminal-browser](https://github.com/zenbu-labs/terminal-browser) - A browser inside your terminal
 - [MisterTea/EternalTerminal](https://github.com/MisterTea/EternalTerminal) - Re-Connectable secure remote shell
 - [DavidLiedle/Ferrix](https://github.com/DavidLiedle/Ferrix) - Ferrix: A Terminal Multiplexer in Rust
 - [jesseduffield/lazygit](https://github.com/jesseduffield/lazygit) - simple terminal UI for git commands
@@ -1951,6 +1956,7 @@
 
 ## web 
 
+- [zenbu-labs/terminal-browser](https://github.com/zenbu-labs/terminal-browser) - A browser inside your terminal
 - [alibaba/page-agent](https://github.com/alibaba/page-agent) - JavaScript in-page GUI agent. Control web interfaces with natural language.
 - [nwtgck/piping-server](https://github.com/nwtgck/piping-server) - Infinitely transfer between every device over pure HTTP with pipes or browsers
 - [beefsack/webify](https://github.com/beefsack/webify) - Turn shell commands into web services
