@@ -1261,6 +1261,7 @@
 
 ## others 
 
+- [mizchi/explainer](https://github.com/mizchi/explainer) - 
 - [COMSYS/ALC-NG](https://github.com/COMSYS/ALC-NG) - A modern LaTeX sanitization tool for arXiv submissions. Strips unused files, comments, conditionals, and metadata while preserving the same output pdf.
 - [OpenWonderLabs/switchbot-openapi-cli](https://github.com/OpenWonderLabs/switchbot-openapi-cli) - Command-line interface for the SwitchBot API v1.1
 - [multica-ai/andrej-karpathy-skills](https://github.com/multica-ai/andrej-karpathy-skills) - A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.
