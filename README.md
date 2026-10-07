@@ -384,7 +384,7 @@
 - [microsoft/apm](https://github.com/microsoft/apm) - Agent Package Manager
 - [anthropics/skills](https://github.com/anthropics/skills) - Public repository for Agent Skills
 - [666ghj/MiroFish](https://github.com/666ghj/MiroFish) - A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通用的群体智能引擎，预测万物
-- [lyehe/porterminal](https://github.com/lyehe/porterminal) - Quick n' dirty web/mcp terminal tunneling your phone & pc
+- [porterminal/porterminal](https://github.com/porterminal/porterminal) - Quick n' dirty web/mcp terminal tunneling your phone & pc
 - [zou-group/sleepfm-clinical](https://github.com/zou-group/sleepfm-clinical) - 
 - [mne-tools/mne-features](https://github.com/mne-tools/mne-features) - MNE-Features software for extracting features from multivariate time series
 - [github/spec-kit](https://github.com/github/spec-kit) - 💫 Toolkit to help you get started with SDD or any other process!
