@@ -470,7 +470,7 @@
 - [aegirhall/console-menu](https://github.com/aegirhall/console-menu) - A simple Python menu system for building terminal user interfaces.
 - [magmax/python-inquirer](https://github.com/magmax/python-inquirer) - A collection of common interactive command line user interfaces, based on Inquirer.js (https://github.com/SBoudrias/Inquirer.js/)
 - [IngoMeyer441/simple-term-menu](https://github.com/IngoMeyer441/simple-term-menu) - A Python package which creates simple interactive menus on the command line.
-- [ambitious-octopus/MI-EEG-1D-CNN](https://github.com/ambitious-octopus/MI-EEG-1D-CNN) - A new approach based on a 10-layer one-dimensional convolution neural network (1D-CNN) to classify five brain states (four MI classes plus a 'baseline' class) using a data augmentation algorithm and a
+- [francesco-mttl/MI-EEG-1D-CNN](https://github.com/francesco-mttl/MI-EEG-1D-CNN) - A new approach based on a 10-layer one-dimensional convolution neural network (1D-CNN) to classify five brain states (four MI classes plus a 'baseline' class) using a data augmentation algorithm and a
 - [neuropsychology/NeuroKit](https://github.com/neuropsychology/NeuroKit) - NeuroKit2: The Python Toolbox for Neurophysiological Signal Processing
 - [mne-tools/mne-python](https://github.com/mne-tools/mne-python) - MNE: Magnetoencephalography (MEG) and Electroencephalography (EEG) in Python
 - [hydra-ecosystem/hydra](https://github.com/hydra-ecosystem/hydra) - Hydra is a framework for elegantly configuring complex applications
