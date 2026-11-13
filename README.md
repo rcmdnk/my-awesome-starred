@@ -576,6 +576,7 @@
 
 ## Rust 
 
+- [aws/aws-emulator](https://github.com/aws/aws-emulator) - AWS Emulator is a local emulator of the AWS APIs.
 - [agavra/tuicr](https://github.com/agavra/tuicr) - a code review TUI with vim keybindings
 - [COMSYS/ALC-NG](https://github.com/COMSYS/ALC-NG) - A modern LaTeX sanitization tool for arXiv submissions. Strips unused files, comments, conditionals, and metadata while preserving the same output pdf.
 - [DavidLiedle/Ferrix](https://github.com/DavidLiedle/Ferrix) - Ferrix: A Terminal Multiplexer in Rust
